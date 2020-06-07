@@ -1,0 +1,25 @@
+---
+name: Vocabulary
+menu: Write From Dictation
+route: /listening/vocabulary
+---
+
+import WriteFromDictationDataFrom0To100 from "./WriteFromDictationDataFrom0To100"
+import WriteFromDictationList from '../../components/WriteFromDictationList.js'
+
+# Các từ thường gặp trong WFD
+
+#### Interconnection (n)
+
+_/ˌɪntəkəˈnekʃn/_
+
+<audio controls preload="none">
+  <source src="https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/interconnection__gb_1.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
+
+Sự liên kết quan hệ nối liền nhau
+
+<WriteFromDictationList 
+    start={42} total={1} 
+    data={WriteFromDictationDataFrom0To100}/>

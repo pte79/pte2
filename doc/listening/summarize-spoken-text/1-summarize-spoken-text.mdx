@@ -1,0 +1,33 @@
+---
+name: Summarize Spoken Text
+menu: Summarize Spoken Text
+route: /listening/summarize-spoken-text
+---
+
+import SummarizeSpokenTextData from "./SummarizeSpokenTextData.js"
+import SummarizeSpokenTextList from "../../components/SummarizeSpokenTextList.js"
+
+# Summary Spoken Text (SPT)
+
+## Template for 30 -> 50
+
+The lecturer talked about **{Topic}**, which has become a controversial issue around the world.
+
+He firstly had a discussion on the problem of **{Topic}** in **{N1}** including **{N2}** and **{N3}**.
+
+Additionally, he highlighted the role of **{N4}**, which may cause detrimental effects on **{N5}**.
+
+In his closing argument, he called on people to take full responsibility in tackling the issue of
+**{Topic}**.
+
+## Template for 65 -> 79
+
+The lecturer talked about **{N}** + **{relative clause}**.
+
+He firstly had a discussion on the problem of **{Clause}**.
+
+Additionally, he highlighted that **{clause}**.
+
+Finally, he concluded that **{clause}**.
+
+<SummarizeSpokenTextList start={1} total={100} data={SummarizeSpokenTextData} />

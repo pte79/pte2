@@ -1,0 +1,44 @@
+---
+name: 74. Biology Study of Life
+menu: Summarize Spoken Text
+route: /listening/summarize-spoken-text/74-biology-study-of-life
+---
+import { Textarea, Input } from 'theme-ui'
+
+# 74. Biology Study of Life 
+
+<br/>
+<audio controls preload="none">
+  <source src="https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-74.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&amp;Expires=1735650000&amp;Signature=I6kcQxug4MkTGrqmvRnEYdRcIFcW%2BwA%2BfPBq6xaWM4VfuWaOMmUshc6SIBEKNMOw730APKbkBxoS48QqRRfjSU1DlLzyudov2d1CGhGI%2FX4Eu7gUoLBIEU1ouERqxpq7q%2FfXGdkHeoSBqAgxZCyc2bq2sADkmWCg3AIpX0kpXPAu%2BOg07cdDtcvaikr5cPdb7VdC%2FLLuKg8X5ouvL4QiqXNwvIL2cHWhaSRdjAZLAfB%2FzS2qrVXB6pGi6jJQTq4J3waeOj%2F88NlWzFmdmn90Y%2BZFOBuqCTlc%2BDK24bvZHn3Qe6CBAdVPblMjQ0RYYbZninVHleg7rUdX1dg3XRmMIg%3D%3D" type="audio/mpeg"></source>
+  Your browser does not support the audio element.
+</audio>
+
+## Practice
+**(1 times)**
+<Textarea rows={8}/>
+
+## Fill in the blank
+- The study of biology is responsible for some of the most <input className="input small-input"/> about the world.
+
+-	All life on earth is <input className="input medium-input"/> and <input className="input small-input"/> to one on one to another.
+
+-	Life forms rely on <input className="input medium-input"/> for <input className="input small-input"/>, <input className="input small-input"/> and <input className="input small-input"/> <input className="input large-input"/>.
+
+-	All of these organisms consist of <input className="input small-input"/> and conduct metabolism that convert energy from <input className="input medium-input"/>.
+
+
+## Main idea
+- The study of biology is responsible for some of the most **profound insights** about the world.
+
+-	All life on earth is **exceptionally related** and **similar** to one on one to another.
+
+-	Life forms rely on **DNA** and **RNA** for **storing** and **transmitting** and **using** **their genetic inherited information**.
+
+-	All of these organisms consist of **cells** and conduct metabolism that convert energy from **one form to another**.
+
+## Solution 1
+The lecturer talked about the study of biology, which is responsible for profound insights about the world. He firstly indicated that all life on earth is exceptionally related and similar to each other. Additionally, life forms rely on DNA and RNA to store, transmit and use their genetic inherited information. He finally concluded that all organisms consist of cells and conduct metabolism that convert energy from one form to another.
+
+## Transcript
+Now biology or the **study of biology** is responsible for some of **the most profound insights that humans have about the world around them**. So take a look at these four panels. On the upper left, you see some bacteria, this happens to be E. coli, you obviously see a butterfly flower, a dolphin, **if you fell down from outer space and just looked at these different forms and structures**, **you'd have no idea that they were all related to one another**. So **one of the most profound things biology has taught us is all life on earth is exceptionally related and similar to one on one to another**. So for example, **all of these life forms rely on DNA and RNA, for storing and transmitting and using their genetic inherited information**. They're all based on **cells cells are the fundamental building blocks of all life**. All of these organisms consist of cells, and the cells essentially at the same time inside of them carbon, hydrogen, oxygen and nitrogen and a whole bunch of other stuff and much smaller amount. **All of these organisms conduct metabolism**, in other words, chemical reactions **that use and convert energy from one form to another**. And the basic chemistry is all very similar to one another. The types of molecules that are used are all very similar to one another.
+
