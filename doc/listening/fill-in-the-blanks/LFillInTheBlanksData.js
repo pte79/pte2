@@ -154,5 +154,17 @@ const LFillInTheBlanksData = [
     priority: "normal",
     newwords: [],
   },
+
+  {
+    id: 14,
+    transcript: `Numbers and diagrams are highly abstract and condensed summaries of the world. They require a degree of mental effort to <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>bridge</span> the gap between them and the aspects of the ‘real’ world they stand for. Approach them slowly and with care, allowing yourself time to get the feel of what you are looking at. Don't <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>assume</span> you already know what you are looking at? It's easy to be distracted by the surface appearance of a diagram, but we are really interested in the <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>underlying</span> message.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-14.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=T3bhDpVr7GDoJ6NX6WY3GluiBD0i3UKQglH%2Fyn%2B2K6A4Te%2BXtKfhYIj2GWCWwlPhP0ErN7IjrJJqueKJ4rw0vRQifc6FXpX5YqtTFA5L5rsDeJK5SYTUIHuPF8f%2Bb9fz2Cd6Q15g85wpaG%2FpYpMiNmjZOahyUbWs5KlkP1ILx7AX0ovCEui3TY9Qis188jjhdnHW3YwdBOD0X0MgIT8kwH1e3%2BEICwtN7alZg4UHpLkChvl%2Fi6QdlK6EHh2SDlFJnagaLscLokQfCb2KaMrzPJy4lZoR9bbKcBbuGfp3ddXqV52vZpOB3wAb4RwumxudrSt01oX6VUIK2AglE5b9LQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
 ]
 export default LFillInTheBlanksData

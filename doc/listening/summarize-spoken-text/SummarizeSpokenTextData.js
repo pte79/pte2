@@ -775,6 +775,124 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
   },
 
   {
+    id: 60,
+    topic: "Water Recycling",
+    transcript: `Why do we need to <span class="text-highlight">recycle water</span> because we don't generate much new water, chemically the process of <span class="text-highlight">generating water</span> which is to basically taking hydrogen oxygen and burning them to produce water is not a process that happens a lot anymore. So in terms of our <span class="text-highlight">total volume of water</span> in the world yesterday is <span class="text-highlight">changing</span>, but it's not changing significantly relative to the rate at which we are using or demanding fresh new water.
+    Now, there are a lot of <span class="text-highlight">different areas of technology</span> involved in <span class="text-highlight">water recycling</span>. And we are later in the interview going to get to industrial use and the reclamation of sewage. What about in the home at the moment what <span class="text-highlight">sort of technology</span> is being utilized in the home when we talk about water recycling? Well, very little on average, typically, in a modern home, we turn on the tap. We take a glass of water, we probably interning on that tab, flush 10 glasses of water down the sink. We take a shower, we use fresh water, we do a whole range of things. And there is nominally very little recycling of that. It goes down the drain and it goes off to a wastewater treatment plant. There is actually very, very little recycling <span class="text-highlight">at a local level</span>. People don't actually say: Well, I'm now going to take the water I just used, put it through a sophisticated process and reuse it and have a closed loop. It's not a closed loop in the home.`,
+    solution: `The lecturer talked about recycling water. He firstly indicated that our total volume of water in the world yesterday is changing. In addition, he highlighted that there are a lot of different areas of technology involved in water recycling. Finally, he emphasized what sort of technology is being utilized in the home when we talk about water recycling, because there is actually very little recycling at a local level. _(69 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The process of **recycle water**, which is taking hydrogen oxygen and **burning** them to produce water, is not a **process** that happens a lot anymore.`,
+      `Our **total volume of water** in the world yesterday is changing.`,
+      `A lot of **different areas of technology** are involved in water recycling.`,
+      `The sort of **sort of technology** is being **utilized** in the home when we talk about water recycling`,
+      `There is very little recycling at a **at a local level**.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-60.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=LGvwZWaynEt0KXh9YnbZrIKarjMaElAAIU99q4RNrm45m8yc1CkPFnjXdP0Nrmxl8rWRzt3kU3wF3iZBmzxyKhDnuqQZMI%2BkKZG42twmvl8hefbS4rGFqMjjMC802KL4avCmT%2B2UUWuf8zkJGTBxzzXaDXhnTRDom9xZa2UzBD%2FTcfLeyzA%2B1FPL4mjEun6rNGLN5VADCS%2BNiknPH%2BNdqAWgOTHGulRW7wEmowfzRifPDq7a6fU60t0k0WyZQnvaDsiakknZPqFIr%2F2yOMfWYfXenPgmllJXLv9MmfjNZ7bbwpzN2r9%2BIdFvtRWrnjC2HYJWbf9IaKfNwKFShEEtaQ%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/_54_Recycling_Water_-_%E7%95%99%E6%B4%8BPTE_%E7%9C%9F%E9%A2%98SST_2019_summarize_spoken_text_real_test_question-Segment_1/original/447247f26e766daebc811084d91274e1/_54_Recycling_Water_-_%E7%95%99%E6%B4%8BPTE_%E7%9C%9F%E9%A2%98SST_2019_summarize_spoken_text_real_test_question-Segment_1.mp3?1587907849",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 61,
+    topic: "The Pace (or Human minds)",
+    transcript: `The <span class="text-highlight">pace</span> with which the <span class="text-highlight">human mind</span> has evolved over the last half million years, and more recently the last 200,000 years, has been so frighteningly <span class="text-highlight">rapid</span>, that, that <span class="text-highlight">evolution of cognitive function and perception</span> in different ways can only have happened through the <span class="text-highlight">actions</span> of a <span class="text-highlight">small number of genes</span>. If one needed to have dozens of <span class="text-highlight">genes change</span> in concert, in order to <span class="text-highlight">acquire</span> the <span class="text-highlight">penetrating minds</span> that we now have, and which our <span class="text-highlight">ancestors</span> have 500,000 years ago didn’t have, <span class="text-highlight">evolution</span> could not have taken, could not have occurred so quickly. And for that reason alone, one begins to suspect that the <span class="text-highlight">genetic differences</span> between people who lived 500,000 years ago, need to be <span class="text-highlight">cognitive functions</span> than ours, are not so large.<br/><br/>
+    Therefore, a rather small number of genes may be <span class="text-highlight">responsible for conferring</span> on us the <span class="text-highlight">powerful minds</span> which we now, which most of us now possess.`,
+    solution: `The lecturer talked about the evolution of humanity over the last couple of hundred thousand years. He firstly indicated that the evolution of cognitive function and perception in different ways can only have happened through the actions of a small number of genes. Finally, he emphasized that a small number of genes may have been responsible for conferring on people the powerful minds, which most human beings now possess. _(69 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The **pace** with which the **human mind has evolved** over the last half million years.`,
+      `The evolution of **evolution of cognitive function and perception** can only have happened through the **actions** of a small number of **genes**.`,
+      `A rather small number of genes may be responsible for **conferring** on us the **powerful minds** which we now possess.`,
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-61.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Sr1oQGqpGpd%2FxCRREHobvPdXRk%2FiZqiWwbjohPqfSIqeJSlGKCL3pwZpzK3CSaU604XwWB0FqX3IWFthEBFMvgU0i9lpe%2Bmcw4KhTU%2FFY6uF0rhijvYcvuFTdJcXP3D6ElayQLZCEqisaGSHtimPaAWGlkmWvCPqU13miV118dQeMZ8MHpxnvkO6glmzhw9fH4Dn%2FH5q1S4zuMRvXTF2Z%2BH3W4Pjkw98jR3S0Vh8W%2BR1iicNx3ZGGWicrNY80T1NdZLJqNjVJlb5xjXz6pB%2Fz%2Bw9xO%2F4QWlHRAujNm46a34h%2BUAjo%2BbahJczuhWQ%2BXtCllatkyqfF%2BYEEJUBrPFXfg%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_163/original/91cbd70ce5ba23c171f0840a4260103d/SST_163.mp3?1557286936",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 62,
+    topic: "Definition of Risk",
+    transcript: `What's the <span class="text-highlight">literal definition of risk</span>?
+    Because this course is <span class="text-highlight">risk analysis</span>. So what do we mean by risk? And when you go to the dictionary and you look at the definition of risk, this is the definition of risk. What do you see is these definitions for example, a <span class="text-highlight">possibility of loss</span> or injury, a <span class="text-highlight">dangerous element</span>to factor the <span class="text-highlight">chance of loss</span>, the degree the <span class="text-highlight">probability</span> and so on. So <span class="text-highlight">risk has two parts</span> to it, as you look at the literal definition of risk is <span class="text-highlight">a consequence</span> of some kind, which has <span class="text-highlight">a danger</span>, has its loss.
+    And the other aspect of it is <span class="text-highlight">probability</span>. Okay. So, even in the literal definition of risk, there are these two parts of <span class="text-highlight">chance</span> and <span class="text-highlight">consequence</span>. Okay. And then, at least as far as the English language is concerned, when you look up the word <span class="text-highlight">safe</span> <span class="text-highlight">safety</span>, what you notice is a little bit of a <span class="text-highlight">circular argument</span>, but <span class="text-highlight">free from risk</span> <span class="text-highlight">secure</span>, or <span class="text-highlight">danger</span>, <span class="text-highlight">condition of being safe</span>, and so on and so forth. And what I take out of that, at least at the level we're discussing today, when we're talking about safe, at least in English language, we're talking about an <span class="text-highlight">absolute</span> something is either safe or it's not safe.`,
+    solution: `The lecturer talked about the definition of risk that can be looked up from the dictionary. He firstly indicated that there are different literal definitions of risk. One means the possibility or chances or degree of loss or injuries, while the other is the consequences of some kinds like injuries. The speaker also compares the definition of safe and safety which means being free from risk or secure of risks. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The **literal definition of risk** and **risk analysis**.`,
+      `These definitions, such as a possibility of **loss**, or **danger/injury/dangerous element**, have two parts to it: <br/>
+        - One is **consequence**, which has **danger** or **loss**, <br/>
+        - and the other aspect of it is **probability**. <br/>`,
+      `When you look up the word **safe or safety**, what you notice is a **loop or circular** argument: free from **harm or risk**.`,
+      `When we're talking about safe, we're talking about an **absolute**: it’s either safe or not safe.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-62.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=L8QFvzf5mTn46nD2Bh%2F7OrTRigUQoRH81wrWxNIJXaNEM2E0sonZ8mj82YaTfoB%2BTM9pgq5YfJyCHnPwBsEUKQuPnay9uhLSzd%2FWGncK07MfpjzBDAMLdNT3B82TjxK6LQGgwrO4uUtwmp%2B72ruo4DB9yx8YXIqSEbaZCi%2BVfpWRhGXM0bsn0eEz7gf3cezkJSBbb5iYinfKqHW6p4t%2BF1UKvT0RgFxBlDTLTCpag0KigcLA5fk8QL007sJoXyFYpKKTPXpsNpND%2B4%2F7U6B%2FTBSfxfSX5wmz7l8wvJxiVLtVzBDzWklE4OSw9C8CR%2BuDNYfFYuOz6hNyoBNY%2FROvTQ%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_166/original/6544cd90ce2c97faf89e59c35d57656b/SST_166.mp3?1566116430",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 63,
+    topic: "Implicit and Explicit Memory (or Memory)",
+    transcript: `So I'm going to talk a little bit briefly about <span class="text-highlight">different systems of memory</span>. And in fact, much of the memory that <span class="text-highlight">influences</span> and <span class="text-highlight">guides</span> out our everyday life actually kind of <span class="text-highlight">hide in the background</span>, you actually don't know that when you're using the <span class="text-highlight">bulk of your memory.</span> And this is called <span class="text-highlight">implicit</span> or <span class="text-highlight">procedural</span> <span class="text-highlight">memory</span>. This includes things like <span class="text-highlight">cultural</span> and <span class="text-highlight">social</span> <span class="text-highlight">norms</span>. So kind of understanding how you're supposed to behave in a classroom or expecting a certain thing to happen when you walk into a restaurant. These are all things that we've learned and acquired over the years. But it's not necessarily something that we think about. language, also, in many aspects is something that is fairly <span class="text-highlight">automatic</span>, and that we've acquired and us very <span class="text-highlight">naturally</span> and other learned skills such as reading or driving, these are things that might have been <span class="text-highlight">effortful</span> at one time, but now they just come very <span class="text-highlight">easily</span> and <span class="text-highlight">automatically</span> to us. And in fact, if you actually try to describe to somebody how you drive, or how to drive, you actually kind of messes you up. So these are in a lot of women, a lot of cases, <span class="text-highlight">consciousness</span> kind of gets in the way of a lot of these aspects of influence memory. Now when we're talking about our memory, so for instance, people tell me a lot, that their memories are bad, when people are saying when they talk about their memory, they usually talking about <span class="text-highlight">explicit</span> or <span class="text-highlight">episodic</span> <span class="text-highlight">memory</span>. And these are very different from <span class="text-highlight">implicit memories</span>. These are memories that have a very <span class="text-highlight">specific tag</span> of <span class="text-highlight">space</span> and <span class="text-highlight">time</span>. These are highly <span class="text-highlight">personal memories</span>, usually. So this could be everything from remembering what you ate for breakfast to what you did on your last vacation or remembering a significant birthday that you had several years ago. Or in the past or, or just an answer to a multiple choice question on the test.`,
+    solution: `The lecturer talked about differences between implicit and explicit memory. She firstly introduced the concept of procedural memory that influences and guides out our everyday life, but we do not know when using this type of memory. Additionally, the learned skills namely social and cultural norms can be effortful, but come easily and automatically to us later. She finally confirmed episodic memory has a specific tag of space and time. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Different **systems of memory**: **implicit memory** and **explicit memory**.`,
+      `The memory that **influences and guides out** our everyday life and **hides in the background** is called **implicit memory**`,
+      `**Other learnt skills** such as reading or driving might have been **effortful**, but now they come **easily and automatically** to us.`,
+      `**Explicit memories** have a very specific tag of **space and time** which are highly **personal**.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-63.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=CqOTWATtd7XxKLgxFp1MybWIBdOUMBM3mUKeiQOdYgXqPvFs%2FahwChhupjGmlr85p0y%2BlySehaRiYIWle9wcVVRLCsApPNco4YuFnrtPvohLTYJVqQgUhBRRCQlCTpPWZjm5GqjE8Fi3YrJBEmnA9pkhjUFEbV4%2F5jbOads4I%2BWgrlMvpoWsUejyPcpZteTwms%2F370WcZL%2FaTGanL6ald%2FlZfmfBJxB5M2U1ysQZCqlVwyME%2BaV%2F%2F%2BZ2j4QNgcQvFrEm4AppaErLW25DJuYo9A6WOXWZDlfMW0d1Qdkwb%2Bp%2BApsEKZ50UumJn4kImvzi9v%2Bthtaq5QYND1d9A8eRig%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 64,
+    topic: "The Travels Sir John Mandeville",
+    transcript: `But if you were to go to a library at the end of the 1300s, or through the 1400s, you would probably find a <span class="text-highlight">book</span> that was then, way more popular than those <span class="text-highlight">titles</span> we still read, a book that purported to be a <span class="text-highlight">description of the world</span>, a <span class="text-highlight">guide</span> the traveling and distant lands of BC area and Almanac of everything that was just off the horizon. I am not talking about Marco Polo. No, I'm talking about something far far, weirder and far, far less tethered to reality, a volume of medieval fantasy masquerading as a field guide called <span class="text-highlight">The travels of Sir John Mandeville</span>, supposedly the titular night set out from England in the 1330s and embarked on a journey that would take him to the <span class="text-highlight">Middle East</span>, <span class="text-highlight">Africa</span> and <span class="text-highlight">Asia</span>, though as it will become apparent, not a Middle East, not in Africa and not an Asia that we would recognize here in reality. No Mandeville spoke. It's not really about actually real foreign lands. It's about what <span class="text-highlight">Europeans</span> thought was just outside the <span class="text-highlight">bounds of their civilizations</span>. It's about what's beyond that mountain range that marks the borders of the lands. You know, it's about what medieval people thought the foreign looks like. And all of its is <span class="text-highlight">mysterious</span>, alluring and intimidating, <span class="text-highlight">unknown</span>.`,
+    solution: `The lecturer talked about a popular book that purported to be a description of the world and a guide to travelling. He firstly indicated this book was weirder and less tethered to reality. Additionally, the volume was written when he set out from England and embarked on a long journey to distant lands. He finally concluded that this book is about what Europeans thought outside the bounds of their civilizations. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `A book that purported to be a **description of the world** and a **guide to traveling** - The travels of Sir John Mandeville.`,
+      `A **journey** that would take him to the **Middle East**, **Africa** and **Asia**.`,
+      `It's about what **Europeans** thought was just outside the **bounds of their civilizations**. `,
+      `It's about what's beyond that **mountain range** that marks the **borders of the lands**.`,
+      `It's about what **medieval people** thought the **foreign** looks like.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-64.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=QG5%2BXhgEqyj5EYByTj931TWa%2FYOZwbztD2q9pwPt%2Ba%2FUIxTygBKaRywEZdVW8uAFLG1ErjAIr4GJXIsudANEzLPs3%2BWpIxrv%2FRiH4LWwamjZRCn5KEj95Bqv5QNPUwxbRxZR1YW1Kj7rM9QW%2B1C%2BxqBREi1JQrqc0kL317xa9%2FXlOUDVKdFIDXfs3P%2FFXGsguo1ze9PyH4FxoUnKwmkC0skmka1MKuL76XYyQSDPFWWsqmld8DwaXV8Ov%2BQF3NiWYf0VvWYS%2FCqBrHRdQ72TS09bbXrebs9qzSd5spPTNhiRCR%2Ff%2BhbhhtHiaQeFy6UVWaJEpOuaRCCGgCRza4ia1g%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
     id: 65,
     topic: "History of English",
     transcript: `So the title of my lecture today is Heinz 57, the <span class="text-highlight">history of English</span> and the <span class="text-highlight">rise of English</span> as a <span class="text-highlight">global language</span>. I know that John Slack gave you a lecture on English, the global language that right you've had to run. Oh, he's going to say, the end of my lecture will lead on to what John Slack's going to talk to you about next time. So there'll be a link, and I've called my lecture, Heinz 57. Because English, as you've already read, is, is <span class="text-highlight">not a pure language</span>. I don't think there really are any pure languages in the world. But English is definitely not a pure language. English, in fact, has <span class="text-highlight">borrowed</span> from over <span class="text-highlight">350 languages</span> in its history. So it's a <span class="text-highlight">variety of many languages</span>. Some people say it's like a dog, a Mongol dog, a dog that's been made up of many different dogs. The English language is like that. And by looking at the <span class="text-highlight">history of the English language</span>, we learn about the <span class="text-highlight">history of the English people</span>, the two things are <span class="text-highlight">closely connected</span>. So in fact, today, we're not <span class="text-highlight">learning about language</span>, but we're <span class="text-highlight">learning about history</span>. And fact, the English has borrowed words from over 350 languages, has been <span class="text-highlight">viewed differently</span> throughout history. So for example, in <span class="text-highlight">Shakespeare's time</span>, people were very <span class="text-highlight">angry</span> about words which were not they thought <span class="text-highlight">original English words</span> - words, which came from other languages they didn't like them. During <span class="text-highlight">times of war</span> for is, for example, World War II, German words were they tried to remove German words from the English language, but as we'll see from the lecture today, that was very difficult because the <span class="text-highlight">basis of English</span> lies in <span class="text-highlight">Germanic languages</span>, so it was very hard to remove all German words from the English language.`,
@@ -858,6 +976,92 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-68.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=akISZBn08lA7nuSUa1mzNSTCjbhxOmAWHCFlLooJEAdGAhfVcALCdvEAeSh7%2Fe8fDYotCPVMwxjnWuWEdDxPJDAuJIOQdHXayHetBvAB%2FJCyXyeBfAjmcqAYy7zI2dGBMOvCrsCgyEAsLvZaJ9f5WtIWn3hzpSYhLy9Y18f0rUJ7DC7KZkSuBdeGxP4n3YD9JXgxbZ%2Bh8T1SMfMs1ZUPsQMgpyOZk49KOgKC0AeQt1JVdasZCJBDznxW1X9LpMCLTArhpR9GejkdFRTALyeUWOQkcMoQqtt1SbUr46dp9C2erhKI1sAHgqu94WpzMB23aujmNxp7MjNS0ts123TbVQ%3D%3D",
     audio2:
       "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_149/original/828a0ac52fa5c9ecc395f9a02a156ac9/SST_149.mp3?1557286801",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 69,
+    topic: "Definition of creativity",
+    transcript: `This is <span class="text-highlight">creativity</span> almost <span class="text-highlight">refocusing on the series</span> is one <span class="text-highlight">huge importance</span>, not only in <span class="text-highlight">academic disciplines</span> but for <span class="text-highlight">society</span> at large. In many <span class="text-highlight">areas of material, social and political life</span>, people are being confronted by the <span class="text-highlight">increasing</span> <span class="text-highlight">declaring</span> <span class="text-highlight">inadequacies of existing system</span> (...) important access for <span class="text-highlight">ensuring the survival</span> and <span class="text-highlight">well being</span> of everyone on this planet. Now, there are many <span class="text-highlight">definitions of creativity</span>, perhaps almost as many of people who study it, but here's my address of a common type of statement. Creativity refers to the <span class="text-highlight">phenomenon</span> whereby <span class="text-highlight">human activity generates something new</span>, that has <span class="text-highlight">some kind of value</span>. And thinking about this, some people talk about the <span class="text-highlight">three P's</span>: the <span class="text-highlight">creative person</span>, the <span class="text-highlight">creative process</span>, and the <span class="text-highlight">creative product</span>. Obviously, all three are needed, but it is a <span class="text-highlight">process</span> that <span class="text-highlight">is key</span> - creativity is not a thing that <span class="text-highlight">sits inside the human brain</span> as <span class="text-highlight">an abiding attribute</span>. Neither does it <span class="text-highlight">manifest in the static final product</span>, it <span class="text-highlight">shows itself</span> in the <span class="text-highlight">complex</span>, <span class="text-highlight">dynamic</span>, <span class="text-highlight">living process</span> of <span class="text-highlight">bringing the production to being</span>, that was not there before.`,
+    solution: `The lecturer talked about creativity which refers to the phenomenon whereby human activity generates something new. He firstly introduced that some people talk about the three P's: the creative person, the creative process, and the creative product. In addition, he indicated that creativity is not a thing that sits inside the human brain as an abiding attribute. Finally, he emphasized that it shows itself in the complex, dynamic living process. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-69.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=L59nK3QDf7hCEhf%2BQ6FH%2FjRoSGSa7w0p9WoLCEi%2Fbc5k0H%2BvHyw6%2FBa40jwluv9WT2ZmOh1SKSQ88H5YCMuS2Lh8WqhRDiBOG7v%2FGjnlWtyFpX0CDSGh1Qdm1tEk0xKsVXp3m80WNHA8PbQJLVl1H8xQ%2BhTWwkyNdNhxzHAxbmOV7r8E%2F6vWARVvynn1aBgY%2BkRG%2BIZfdSMjWZbkPgOQG3Wkwx8NRZAyT6fJUJgkHl%2F%2Bv7Fo5Hy49UePADEd3p22WwCw36KtowL2tMtRrd%2Fp%2F7911ZA3TlISzPxQ0P1cS2dYOzwmXPAZU7dhiOqayV7X90gQ2u9t3C7mlMEdo6emMw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 70,
+    topic: "Organization studies",
+    transcript: `<span class="text-highlight">Organization studies</span> seem to draw on the whole family of <span class="text-highlight">Social Sciences</span>, clearly <span class="text-highlight">psychology</span>, clearly <span class="text-highlight">sociology</span>, but also <span class="text-highlight">economics</span>, <span class="text-highlight">anthropology</span>, <span class="text-highlight">politics</span>, as we said, <span class="text-highlight">philosophy</span> to a degree history, sometimes read <span class="text-highlight">literary studies</span>, <span class="text-highlight">cultural citizen</span>, so on and so forth. Yeah, I think that's absolutely right. And for me, that's absolutely the <span class="text-highlight">pleasure</span> and even on good days, <span class="text-highlight">the joy of doing organization studies</span>, because it enables you not just enables, but requires you, in some sense, to have some kind of <span class="text-highlight">broad familiarization</span> of that sort. Now, there's a price to be paid for that. Because that kind of breadth, if you like, though I suppose that the <span class="text-highlight">cost of depth</span>, and I guess there would be people who are clearly within<span class="text-highlight">academic disciplines</span> of <span class="text-highlight">sociology</span> or <span class="text-highlight">economics</span>or whatever, who might say, well, these are sort of magpie-sh, amateurish kind of forays into our territory. You know, I wouldn't necessarily disown that idea. But I think that what <span class="text-highlight">studying organizations</span> teach us and teaches me is actually the <span class="text-highlight">artificiality of those academic subdivisions</span>. And as soon as we start, I've actually think about something like the <span class="text-highlight">organized world</span>, then immediately, the kinds of things that come into focus are things that <span class="text-highlight">have traditionally been studied</span> by <span class="text-highlight">different demands</span>. And so, I think it's a <span class="text-highlight">liberating idea</span>, the idea that we don't need to be <span class="text-highlight">bound by those strictures and structures of disciplinary division</span>, and that we can be <span class="text-highlight">free actually to imagine and think about the social world</span> through an <span class="text-highlight">agglomeration of techniques and ideas</span> and <span class="text-highlight">theories and concepts</span> from across the <span class="text-highlight">social sciences</span>.`,
+    solution: `The lecturer talked about organization studies which seem to draw on the whole family of Social Sciences. He firstly introduced that it’s a pleasure to do organization studies, because it requires you to have a broad familiarization. In addition, he indicated that what studying organizations teach us is the artificiality of those academic subdivisions. Finally, he emphasized that we don't need to be bound by structures of disciplinary division _(69 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Organization studies seem to draw on the whole family of **social sciences**`,
+      `That's absolutely the **pleasure** and the **joy** of doing organization studies`,
+      `It requires you to have some kind of broad **familiarization** of that sort`,
+      `What studying organizations teach us is actually the artificiality of those **academic subdivisions**`,
+      `We don't need to be bound by those structures of **disciplinary division.**`,
+      `We can be free actually to imagine the social world through an agglomeration of techniques and **ideas** and **theories** and **concepts** from across the social sciences.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-70.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Vk8bp%2F%2FEAZx%2FqCNfLhXHvzN3utlHcZ6oJUNpk1Ji1MLLC6rvMDOrMNe3DuVl0XZFIzxSiM%2BzsjCSHHYeqOGNoJCPBA%2FImJMycz1laH28l%2BKN70sP2SvIbMd0ibIeQM5LsrUCXGmmqHfKiYccU5Hv7zNAxlOPdwkcTV5i30RLSEdGOmaAZZS0ZowXLB6%2F3C%2FzYT8oCTKeHTXo0ScqJPn7c9vgBNsdkkcRxmKHtyk8G2hII29IxE%2BRnixlA7%2FhshHHxLUTC%2BKOD47Qx3ZMU1w1q8cBUs8g4X2rELRzWJP1XXv0erEMOMF6eWDCJbdIRp27ns2TsRa9yrw3gckmnVgIZw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 71,
+    topic: "Global warming",
+    transcript: `There can now be no <span class="text-highlight">reasonable, science-based doubt</span> about the reality of <span class="text-highlight">global climate change effects</span> brought on by the <span class="text-highlight">cumulative and rapidly growing emission</span> of so-called <span class="text-highlight">"greenhouse" gases</span> - primarily <span class="text-highlight">carbon dioxide</span> - into the atmosphere. As these effects become <span class="text-highlight">increasingly more obvious</span> worldwide, so commercial interests, <span class="text-highlight">groups of concerned individuals and national governments</span> have been gripped by what amounts to mass panic about what to do about it.<br/><br/> To many, Paul Ehrlich's Malthusian "Population Bomb" of 1968 appears about to explode in the world's face in an indirect version of his millenarian vision of <span class="text-highlight">population growth</span> which <span class="text-highlight">outpaces agricultural production capacity</span> - with predictably <span class="text-highlight">catastrophic results for humanity</span>. And his three-part crisis scenario does indeed seem now to be present: a <span class="text-highlight">rapid rate of change</span>, a limit of some sort, and <span class="text-highlight">delays in perceiving that limit</span>. Ehrlich's work was roundly criticised at the time, and later, from many quarters, and much of what he predicted did not come about. Nevertheless, can the world afford to take the risk that the <span class="text-highlight">climate scientists have got it wrong</span>? Is it not in everyone's interests to apply the Precautionary Principle in attempting to avoid the worst of their predictions - now, rather than at some future time? As the Chairman of the Intergovernmental Panel on Climate Change, Mr. Rajendra Pachauri, has recently pointed out, <span class="text-highlight">eleven of the warmest years since instrumental records began have occurred in the past twelve</span>, while <span class="text-highlight">major precipitation changes are taking place</span> on a global scale.`,
+    solution: `The lecturer talked about the fact that there is no reasonable doubt about the reality of global climate change effects by the cumulative emission of "greenhouse" gases into the atmosphere. He firstly introduced that "Population Bomb" of 1968 appears to explode in the world's face. Additionally, he indicated that population growth outpaces agricultural production capacity. Finally, he emphasized that eleven of the warmest years have occurred in the past twelve _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `There can now be no doubt about the reality of global climate change effects  by the cumulative emission of greenhouse gases into the atmosphere.`,
+      `"Population Bomb" of 1968 appears about to explode in the world's face`,
+      `Population growth outpaces agricultural production capacity.`,
+      `Eleven of the warmest years since instrumental records began have occurred in the past twelve years.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-71.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=gRcDwOiX40mEgZyfWw9mC7ccOGUCJv9YbGL7aI6urJ8nKivs%2F%2F1SG3bU2ixOWGunReul78pI5KmQIqoaagmZzqDF36T4rAkv1ngtoEi5JFLO0Ka7Xj7Kkb91CqpaC%2BpmsO8pEfYcs6RLxlEAJKZ3YA89rCM9c8wGFIQe273kG96I%2FZIE093za4snvAp0PR%2BVR%2FcYW5cDvLUn%2BAgfvSCij34VHH3oTWx3Ev4QKTQJdSV5ED%2BcObEhGIHLVICiACvB0Zb6uq95n1OAYQoa1a1irfeBjJHi%2B2kypfroIV5YXh%2Fy6p8pbYToIxe0K1Kbzq3ZW1QLikR8eptjEnE2sWS35w%3D%3D",
+      audio2:"https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Global_warming/original/7e68e42e9241431bfa0f559fb1eb6269/SST_Global_warming.mp3?1551943780",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 72,
+    topic: "Design of buildings",
+    transcript: `Just think of the various <span class="text-highlight">catastrophic failures of Victorian architecture</span> that stood and fail. Here is the disastrous Milbank penitentiary, great prison built underside of Tate Britain, our predecessors let this go. And we now <span class="text-highlight">look back with the same sense of self of relief</span>. Thank goodness we don't have to spend our time <span class="text-highlight">keeping that particular monstrosity standing</span>. But here, I think we come to an incredibly important point.
+    When we're dealing with buildings of the Victorian era or earlier, <span class="text-highlight">we're looking at a building stock that has already been rid of the architectural flops</span>. There's been a <span class="text-highlight">process of natural selection</span> in which at thousands of <span class="text-highlight">buildings</span> that were built or designed poorly have already fallen down or <span class="text-highlight">have already been modified and the faults rectified</span>. But <span class="text-highlight">when we're dealing with buildings that are only 50 or 60 years old</span>, <span class="text-highlight">we are often confronting design flaws or poor workmanship</span> that are only just coming to light or only just in the <span class="text-highlight">process of being rectified</span>. This, again, challenges our <span class="text-highlight">perception of authenticity</span>. <span class="text-highlight">Most historic buildings</span> (by which I mean buildings a hundred years or more old) <span class="text-highlight">have been adapted and modified to iron out design and construction flaws</span> and so their so-called original state is, in fact, an altered state in which they perform well, in fact often better than when they were first completed. Late twentieth century buildings are still going through this Darwinian process of natural selection that will decide whether they will survive having been adapted or whether they will die as being unsuited to their function. So <span class="text-highlight">criticizing them for their design flaws may be seen as unfair</span>.`,
+    solution: `The lecturer talked about various catastrophic failures of Victorian architecture that stood and fell. He firstly indicated that people are looking at building stock that has already been rid of the architectural flops when dealing with buildings of the Victorian era. Additionally, historic buildings have been adapted and modified to iron out design and construction flaws. He finally concluded that criticizing these buildings for their design flaws might be unfair. 
+    _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Think of the **catastrophic failures** of Victorian architecture that stood and fell`,
+      `When we are dealing with **buildings** of the Victorian era, we are looking at a **building block** that has already been rid of architectural flops.`,
+      `Most historic buildings have been **adapted** and **modified** to iron out design and construction **flaws**`,
+      `Criticizing them for their **design flaws** may be seen as **unfair**.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-72.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Sh5tolj7sbu7fcPf2Ic3FWCkkffRymgvreITBwvSw5sUwBCGMvPwTgTFMjmuyz%2FrV0a1V0zuaWkAk5PmSgpGZb68NI70CHHWwVZSZ7BrPOq6jmlBXhlZKkIh2TmTCZTDY4BX2GGykQOKgwLjCdwemV9Z0UMj%2B2kbpxXzNGAhJpapPcBBVbBR6k4yhhhwhEiXhQbHMNoGlfBtsIxY5S3nDCeBhkFUTHWmEk4AQq4BO2y0BE0TIVt6hPfwKSjvhjnHN1CRdKixfKvMTUZD0A9AHTWBYlo6grykfaRIu%2BdfbB8EBR5DIDlif7kzX2pUoaF3pxfzmYrMWKNZ9AmPPrde9g%3D%3D",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -956,6 +1160,86 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
   },
 
   {
+    id: 77,
+    topic: "Wonder Bilingual Babies",
+    transcript: `Another example comes from the other end of life and has to do with what’s called <span class="text-highlight">wonder babies</span>. This was a study which was done a few years ago in Trieste which is basically at the border on Slovenia and Italy. So <span class="text-highlight">there are a lot of Italians</span> and <span class="text-highlight">there are a lot of Slovenians</span> and there are of course a lot of <span class="text-highlight">mixed marriages</span>. What they did was <span class="text-highlight">they took three groups of babies</span>, <span class="text-highlight">all babies were seven months</span> old so there were a bunch of <span class="text-highlight">Italian speaking babies</span>, bunch of <span class="text-highlight">Slovenian speaking babies</span> and a bunch of <span class="text-highlight">Italian-Slovenian babies from mixed families</span>. <span class="text-highlight">They showed those babies various puppets</span> and then they <span class="text-highlight">switched the situation</span>. Typically <span class="text-highlight">when the seven-month-old baby is used to particular setting</span> and <span class="text-highlight">the situation switches</span> <span class="text-highlight">it takes them a little while to regroup</span>. So turned out that seven-month-old Italian and seven-month-old Slovenian babies would <span class="text-highlight">get used to the puppet appearing on the right</span>, and then <span class="text-highlight">when the puppet would appear on the left they would continue looking to the right as if nothing had changed</span>. Whereas <span class="text-highlight">the bilingual babies very quickly would turn their head and notice that the puppet has changed its position</span>.`,
+    solution: `The lecturer discussed a study on three groups of babies from Italia, Slovenia and mixed marriages. She firstly explained that they showed them various puppets and switched the situation. Additionally, Slovenian and Italian babies would get used to the puppet appearing on the right and continue looking to the right when it appeared on the left. However, the bilingual babies would quickly turn their head, and notice the changed position.`,
+    keywords: [],
+    mainIdeas: [
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-77.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=bo5SQH8RH6GM1I7bVXFUd3QMG7XfDEhW2oD4SxGEwqqm%2FIigQfZ18Ym7JRf7PipmAmgBzQXRtWI8IJkKspdRGEqkQB4eZUpUCyDwVjoqpEiEvXlZwPKQ7k3ggED2H0%2FboCoeTchoc2kkl2HHF8U%2FLw%2FEml55uc%2F%2Fp1hugxQifZAKZqvyQytOmnwi1oDU3KXeHcMbJfm83uZIP8K0yZrMt%2BRv0lQT3lN93tEzbXpGsSaMEW7PTN%2Bdcca74BGKJqtbtDyFO3W5UpCvpWxT51FCfxLh9Oq99RTlL7InjkU3LC0kmvrgaPBsrwzRJaGJo%2FCyCOGWWvzheo0UpD1Jn4nCmw%3D%3D",
+    audio2:"https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/7d32861e24610c454ecf/original/48995d8280169f8d88aa06407c2af67a/7d32861e24610c454ecf.mp3?1562227794",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 78,
+    topic: "Why study law?",
+    transcript: `<p>My name is Graham Virgo, I’m Professor of English Private Law in the Faculty of Law at the University of Cambridge, and I’m going to consider the question <span class="text-highlight">why you should study law if you don’t want to become a lawyer</span>.
+    A lot of people who study Law at University do so because they want to become <span class="text-highlight">practising lawyers</span>, whether <span class="text-highlight">barristers or solicitors</span>.
+    But <span class="text-highlight">it is not necessary to read Law at University to become a practising lawyer</span>.
+    Equally, <span class="text-highlight">studying Law at University is a legitimate subject for academic study</span> even if you definitely do not want to become a lawyer or think that you may not become a practising lawyer.
+    That is because <span class="text-highlight">the study of Law at University is not a vocational subject</span>; it is an <span class="text-highlight">academic subject and an intellectual discipline</span>. Even those students who study Law at University intending to become practising lawyers <span class="text-highlight">are required to do additional vocational training</span> to prepare them for working either as a barrister or a solicitor; for them <span class="text-highlight">the study of Law at University by itself is not sufficient to train them to become lawyers.</span>
+    So why do such students study law at University and why do others study Law even if they don’t want to become a lawyer?
+    The answer is fairly similar in both cases, namely that studying Law at University trains the student to think and write logically and clearly.</p>`,
+    solution: `The lecturer discussed the question why students should study law even they do not want to become a lawyer. He firstly explained that if students want to become practising lawyers, whether barristers or solicitors, they need to do additional vocational training. Additionally, law is a legitimate subject for academic study and an intellectual discipline. He finally concluded that studying law trains the student to think and write logically and clearly. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-78.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=VPlpbYLWAtU89xHJJLvWfMh5TS1ThHeDJoWaYgl00xEbXoy4tBF0QCWH%2BVGlKsNLxxhMj9B8U%2BDE79%2Bdl9QiEmIHc9wM41Fj%2BkaUHdSAU3B0UTLll7mFpd82e6edb2eXQ%2Bb4pfFrQXozx7ibDb7LuMOkIAN7y3MF0kEEiwsDlojOS9bQ9hc0PDwdDOHVEIm6%2FyXTrxMzFUxNTGdmcRAull3JSgrGkNZQRFHddQy7w0VntlOalbdlssT1%2FO3XgPxSuD1MZC24%2BlFlO2SlnMu76ErXTeJtO3Ns3TDc6ad%2BWR70Z7uxygFix9Hu33ZgqISI5Tz5rdRTyyCVjRgEB0n%2BvA%3D%3D",
+    audio2:"https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/8c132b4151d572c54416/original/4a71089beb7c957e25e891577a0010ea/8c132b4151d572c54416.mp3?1565337269",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 79,
+    topic: "New Zealand",
+    transcript: `<p>Because <span class="text-highlight">New Zealand is super diverse</span> right now, predominantly in Auckland, but actually throughout New Zealand here, we're already 50% Mari Pacifica and Asian 44% are not born in New Zealand and we have over 200 ethnicities. Now <span class="text-highlight">the definition academically of super diversity</span> is 25% not born in New Zealand 100 ethnicities. So <span class="text-highlight">we are almost double that number already</span>. And <span class="text-highlight">Auckland will continue to become younger and browner</span> as the Anglo Saxon population ages and shrinks. So <span class="text-highlight">the mega trend here is not age</span>. And the myth the mega trend here is not urbanisation <span class="text-highlight">the mega trend is demography</span>. It's a necessity. And we need to get our head around that because most of the benefits from Super diversity that we as a country are enjoying at the moment, such as <span class="text-highlight">greater innovation, productivity and advancement increase New Zealand's financial capital</span>, whereas <span class="text-highlight">most of the challenges from Super diversity adversely affect New Zealand social capital</span>.`,
+    solution: `The lecture delineated the New Zealand’s super diverse future and the status quo of this diversity, predominantly in Auckland. She firstly claimed that most of the challenges from super diversity adversely affect New Zealand social capital. Additionally, she argued that if people do not mitigate the challenges to use social capital, they are not going to maximise sustainably. She finally concluded that the diversity dividend benefits for your financial capital. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Ffhtp7uphvtdqnnw8jbw8c8-SST79.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=Wb62UChPOTl%2BOWti00pTVlRkNjISfscK%2FrUdsJ8zzCmEvqjlKuSkduASGcV6pfs98ZQUNSz4p772pnS0OrtDWvnRPfmsWTPKjjt8ZpvJYQf7G%2Fvqc9MYlPHIh%2BN1iFX7OI%2BVMUFJQM3nItwxaoAtlzCfK4Zsyl0a4%2FnOsNokd%2BsX3NESS7Q4teAL52JQmWMimqXBCDzvUXQMhSNbITzEKfb3IYT7mirFtd81fULghCINe9%2B9y6axddikMVDLQr55E2Oj3Py70k3tIVeZceUcAyGTtmehS7W%2Bd6EKWfsFRkGxQeS%2Bh4me4a1jYhfOhfSUUZ1zfxjn17Md5y2TtbRNOQ%3D%3D",
+    audio2:"https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/Demographic_Disruption_-_Mai_Chen_on_the_implications_of_superdiversity_02/original/ed009c67bb2ac95e2eb0dd6d113dcfc5/Demographic_Disruption_-_Mai_Chen_on_the_implications_of_superdiversity_02.mp3?1563439761",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 80,
+    topic: "Fast Radio Bursts",
+    transcript: `<span class="text-highlight">Fast radio burst</span> is very much like what it sounds, it's a burst, it's a very <span class="text-highlight">fast burst of radio waves comes from outer space long way away</span>. And by fast, I mean really fast. So <span class="text-highlight">it's starts and stops in about a thousandth of a second</span>. So you click your fingers and it's finished.
+    First <span class="text-highlight">radio goes to a real mystery</span>, we <span class="text-highlight">don't really understand exactly where they come from, or what actually makes them</span>. And there's a lot of open questions that we really don't have an answer for. There are probably more theories about what makes Australia but then there are actually actual detections of these things. So since 2007, we've only had 20. But there are probably 30 or 40 different theories on what makes them. The most interesting thing about this burst is the fact that we found that we Australian Square Kilometre Array Pathfinder, so that is, it wasn't really obvious that we will be able to do this, as well as we ended up being able to do it. So. So <span class="text-highlight">this telescope is really a fantastic telescope</span>. In fact, <span class="text-highlight">it's probably the best telescope on the planet at the moment for finding these bursts</span>.
+    And so whereas in the past, it's taken 1010 years to find 20 bursts, once we're really going with this new instrument will be able to find them much more quickly whenever you can do one or two every week, and that will blow up in the field. So that will make it a much more. You know, <span class="text-highlight">we'll be able to do much more detailed studies of these things</span>, <span class="text-highlight">get better statistics</span>, understand what that hopefully <span class="text-highlight">understand what they are and where they're coming from</span>.`,
+    solution: `The lecture delineated the concept of fast radio bursts coming from outer space. He firstly indicated that it is challenging to understand exactly where they come from or what actually makes them. Additionally, he explained different theories based on the findings from fantastic telescopes. He finally concluded that people need to conduct more detailed studies and get better statistics to understand what radio bursts are and where they come from. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-80.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=c%2FN59xL7AJH3By5Od8Sl71lLAj76vzfa5jvKNBZMlEHa8O%2BU8Gi06inIlKjm412h%2FCUMmq2XigfCiGrS%2B%2F69VV4N%2BAnrYrOTZ5VL8wesigyyWa%2BiPNYLL75e3QZQ4%2BKKjhOPPxqyn9Ky%2FIEbRQHinzozJ38rK12PgevMk9QksBrVcjejZcCNWNwxQlaIET693kC2iIZR4kqhHnRBmZL6Lj9LjHqSruBCMdlSnuN0uWygkZ%2FzNxC6R%2F6DLUbLYcvwV4HpO3f8xgG47%2BOu8MqeKiH9SysGm33WYKY1XYg4vU8%2FAJ9HFc%2FZGMrVTPhysP18GGM2wisS9ltGzly4C%2FEM%2BQ%3D%3D",
+    audio2:"https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/20190712_154729953_%E9%9F%B3%E9%A2%91/original/27357b2a2024fb3a9efdc6811cc6d911/20190712_154729953_%E9%9F%B3%E9%A2%91.mp3?1562918822",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
     id: 81,
     topic: "Washing Machines",
     transcript: `Here in the waggon barn are some of the <span class="text-highlight">most important inventions</span> in <span class="text-highlight">human history</span>. Sure, you can see <span class="text-highlight">examples</span> here of the wheel, or the <span class="text-highlight">automobile</span>. That the inventions I'm talking about are the <span class="text-highlight">domestic appliances</span> that <span class="text-highlight">allowed</span> for <span class="text-highlight">increased</span> <span class="text-highlight">leisure time</span>, and redefined <span class="text-highlight">gender roles</span> in <span class="text-highlight">society</span> to a degree as <span class="text-highlight">never seen before</span> in <span class="text-highlight">human history</span>. The <span class="text-highlight">evolution</span> of the <span class="text-highlight">washing machine</span>, as demonstrated in this barn is a <span class="text-highlight">representative example</span> of this <span class="text-highlight">changing domestic life</span>. For many centuries, <span class="text-highlight">sailors</span> used to place their clothing in a cloth bag, tie the back to a rope and throw it overboard, letting the ship drag it for hours. The principle was simple, force water through the clothes to remove the dirt. But in the household before running <span class="text-highlight">water</span> and <span class="text-highlight">electricity</span>,
@@ -1050,6 +1334,175 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-84.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=JImWnkeyl1zr%2FasDHlfwex9Nq5xwuxGh9pZf2DSzl0Sd2wWtL50grhLE0OG5GrQcZlLUJsCHXtmIGC9wjwsg59oSPLG8l%2BQXmBTCeQ7%2Blr94SY2sqmQhBGeHiRhiNImEa5TpT4dMhmFry%2BHzJX4GUBnLgEM8tst6o1hd2HCh%2BiHLlbabLY6GYz4RFrpVMymyuInNmXggFjY5IcBAlppKoN9WgmWCE97%2Fn26r7IbtJcTXEAOlcjOln9zhfy3MxKQarDTrMwoBUNdCwiLPnqNeGrctPPAXhs7Q%2BZFom2g%2Fgc2Cc3VCgCIku2fwNddTRCjUK2tx7TdxWYWs6W2JFXk3BQ%3D%3D",
     audio2:
       "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/179/original/6d4e1c66de875ab87a7cf8fe162b564c/179.mp3?1571064945",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 85,
+    topic: "Music and the brain",
+    transcript: `Interest in <span class="text-highlight">music</span> in the <span class="text-highlight">mind</span> is as ancient as philosophy itself. Plato was marveled at the <span class="text-highlight">power of music</span> over human character and <span class="text-highlight">human emotions</span>, in fact, he was quite concerned about the <span class="text-highlight">way</span> music could either <span class="text-highlight">degrade</span> or <span class="text-highlight">elevate</span> the minds of <span class="text-highlight">young people</span> so you can see in some sense nothing has changed. He said <span class="text-highlight">rhythm</span> and <span class="text-highlight">harmony</span> find their way into the <span class="text-highlight">inward places</span> of the <span class="text-highlight">soul</span> well yes that's true and he said this in 400 BC, but what has changed since then. It's just in the last few years <span class="text-highlight">brain science</span> has started to seriously <span class="text-highlight">investigate</span> music, and this <span class="text-highlight">young science</span> is confirming music's <span class="text-highlight">power over</span> us. For example, some colleagues in Montreal <span class="text-highlight">decided to do</span> a <span class="text-highlight">study</span> to <span class="text-highlight">investigate</span> what <span class="text-highlight">happens in the brain</span> when people <span class="text-highlight">get chills to music</span> this is intense <span class="text-highlight">emotional responses</span> that often <span class="text-highlight">manifest themselves as shivers</span> tingling of the spines anybody here had this okay it's not <span class="text-highlight">uncommon</span> and they specifically looked at chills - <span class="text-highlight">instrumental music</span> so this wasn't due to any associations that people had with <span class="text-highlight">lyrics</span> it was just <span class="text-highlight">sounds of music</span> and they looked at they <span class="text-highlight">took advantage</span> of the fact that people often know quite well what <span class="text-highlight">music gives them chills</span> they know the piece sometimes the very passage in the piece and so they had people <span class="text-highlight">bring</span> in their own <span class="text-highlight">self-selected</span> <span class="text-highlight">CDs</span> and they <span class="text-highlight">scan</span> their brains while they were having these <span class="text-highlight">experiences</span> <span class="text-highlight">listening to music</span>.`,
+    solution: `The lecturer delineated the power of music over human character and human emotions. He firstly concerned about the way music degraded or elevated the minds of young people. Additionally, he discussed rhythm and harmony find their ways into the inward places of the soul and brain science has started to seriously investigate music. He finally introduced studies in investigating what happens in the brain when people get chills to music. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-85.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=b8RUHjuGY8Lxtxf3sNUg6tq5hVIzEWVl1RwPsMp0bulFG8pPw%2B8Rvpc3Z4P7YfbWGHcexutKNpd%2BWaaiMejvv%2BvTeyyilbGbFWmFkNNH5QWaDVSm8oF8wwLfH%2Fn7y1ACLJMVL4md0dy3wY9MeXvoeO0yyI4qb9yhcbqHvcFdBhygEwW0EusOnMqjkQM3VBmL%2BbKjtCK5jarHLPFATRUdyu3vGNdgNWecvW%2FLCh3MdXbeB6mPOKfaG5c56cwKRGERHMCgXTrBz3M%2BJGWiaygd2i%2FFIKAEyYJRZ45bCAgjIJmM%2BuQztjC8HDlKyAFC%2Fg9jf3QV89BKF3jhK4gZPb2ObQ%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sst_183/original/2ba67f48b76532e98dd906acce0ed313/sst_183.mp3?1576762826",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 86,
+    topic: "William Shakespeare (or Shakespeare's Poem)",
+    transcript: `Let's think about perhaps the <span class="text-highlight">top 10 things</span> that people <span class="text-highlight">would like to know</span>, ought to know about <span class="text-highlight">Shakespeare</span>. But if they're getting into <span class="text-highlight">his works</span>.  First thing to say is that he <span class="text-highlight">did live quite a long time</span> ago he lived 400 years ago. So if you're <span class="text-highlight">reading Shakespeare</span> or <span class="text-highlight">listening</span> to Shakespeare, you're listening to <span class="text-highlight">somebody</span> whose <span class="text-highlight">language</span> is not quite the language of our <span class="text-highlight">current</span>, by current, you're listening to someone who <span class="text-highlight">was writing in a language</span>, which is a bit <span class="text-highlight">out of date</span> for now. It needs a little bit of <span class="text-highlight">effort</span> to <span class="text-highlight">understand</span> that language but <span class="text-highlight">the understanding will be done</span> partly for you by the actors if you're hearing it but if you're seeing it performed. Another thing is that Shakespeare was a very <span class="text-highlight">great poet</span> he wrote <span class="text-highlight">poems</span> are at <span class="text-highlight">narrative poems</span> and <span class="text-highlight">sonnets</span>, but he was also and this is my third point, he was also a great <span class="text-highlight">theatre poet</span> his poetry is <span class="text-highlight">dramatic poetry</span> in the plays. He's not just writing <span class="text-highlight">static poetry</span> lyric poetry in the plays which is therefore <span class="text-highlight">declamation</span>. He's writing <span class="text-highlight">dramatic poetry</span> which <span class="text-highlight">consists of</span> <span class="text-highlight">interaction</span> between the <span class="text-highlight">characters</span> <span class="text-highlight">of the plays</span>.`,
+    solution: `The lecturer talked about major things about Shakespeare, who lived a long time ago. Firstly, he explained that it requires efforts to understand Shakespeare’s language because it is out of date for now to read and listen. Additionally, Shakespeare was a great poet writing narrative poems and sonnets. Finally, he was also a great theatre poet, who wrote dramatic poetry that consists of interaction between the characters of the plays. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-86.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=BUEXf2fWM1T4Me4hs4CFobrbFcvpbhG1LcGBf%2FYXAoLV806%2BTLlv%2F4H11a0T%2BNv3F6PiFcRgXQ8WwFSplIaQb15Z%2BRRzMAY%2BMD7s968KdzJmfFfDv1D3hXatnOmttMnDOB6n2%2BkihP4JoK%2BD5JlvJ%2Fi04OShgB1f%2B1p81f2nAkFN5Rg4o6AFXnk6rEd1Yum5yfjnH1uaCYMZz4JOVSZMeaWlJjtGvMap1%2FvpTY1mHHCUR06Xr402g8DhDtCBpToqXbp7Kc2tJm2vkVPKj4uYSppf1AFDaYMFe0wI4zj%2Fp7yK4%2FxR1UeSsKIeyZs0%2Fnze6YOrNH4mmS9FI9NjTadWXw%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_204/original/398cb68be861e117316f8f1f66b7573e/SST_204.mp3?1566115790",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 87,
+    topic: "Drinking water",
+    transcript: `Do you <span class="text-highlight">drink</span> <span class="text-highlight">enough water</span>? This is all <span class="text-highlight">water intake</span>. The, the <span class="text-highlight">old theory</span> was that we were <span class="text-highlight">supposed to</span> drink <span class="text-highlight">eight cups of water</span>. But that's, that's an <span class="text-highlight">old wives tale</span>. If we drink four <span class="text-highlight">cups</span> of water and take four cups of water in, we are eating <span class="text-highlight">lettuce</span> we eat <span class="text-highlight">pasta</span>, we eat <span class="text-highlight">soup</span>, we eat <span class="text-highlight">cup of coffee</span>, some latte, you know, we have all kinds, so we have all kinds of <span class="text-highlight">fluid</span> inside. So four cups of liquid, four cups of water in the <span class="text-highlight">food</span>. We generate about one and <span class="text-highlight">a half cups of water</span> just for <span class="text-highlight">metabolism</span>. You remember way back to the metabolism. Break down of carbohydrate yields <span class="text-highlight">carbon dioxide energy</span>, water, right down approach use carbon dioxide, energy, water nitrogen, breakdown every <span class="text-highlight">nutrient yields water</span>. That's <span class="text-highlight">what this water is</span>. So that's part of the <span class="text-highlight">water balance</span> .We are <span class="text-highlight">intake</span> is equivalent to <span class="text-highlight">approximately</span> <span class="text-highlight">ten cups</span>.`,
+    solution: `The lecturer raised a question of whether people drink enough water. She firstly contested the old theory indicating that people were supposed to drink eight cups of water. Additionally, she stated that people should drink four cups of water and other four cups of water in food, namely lettuce, soup or coffee, to generate enough water for metabolism. She finally concluded that carbohydrates yield carbon dioxide, energy and water.`,
+    keywords: [],
+    mainIdeas: [
+      
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-87.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=HITLF4dnWHpW7si8xV8Kh0sN6IpMPlwi3aGIiUF%2BWsjZSLJo23mUkJ2QL1RSTRfH1my%2FmXDoEw62igM45HI7ZHGGALvUhIKJ8Zo2GOoAvSD0gTTgQACmYc%2B3r563GzSHJyOfwwY5TvTykEdbHvu6g%2BkRvT%2FylRqOvUFGxQO9EFuqz3VOmqbi0POup9bhwPgJIWvtSz6loJl2TTJfX9GjJStSHVg4jFA%2BTAc6wR9C4Z1ewgw2UmFOLXIfH0mr9ngR%2BssWwo832%2Bk%2FwkA%2FG2tNSVmrL8iOmf76AclodqWyMKJWSs6ay2R%2BN9JWWWyTc8ZO4KRjFiKSyhXSAEJ7iOGVRg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 88,
+    topic: "Human Freedom",
+    transcript: `I think we are in the <span class="text-highlight">early stages</span> of a <span class="text-highlight">change</span> toward much more <span class="text-highlight">human freedom</span> in <span class="text-highlight">business</span>. And I think this change may be as <span class="text-highlight">important</span> for businesses, as the change to <span class="text-highlight">democracy</span> has been for <span class="text-highlight">governments</span>. The reason I think that's happening is because it's now possible for the first time in <span class="text-highlight">human history,</span> to have the <span class="text-highlight">economic benefits</span> of very large <span class="text-highlight">organisations</span>, things like <span class="text-highlight">economies of scale</span> and <span class="text-highlight">knowledge</span>, and at the same time, to have the human benefits of small organisations, things like <span class="text-highlight">freedom</span>, <span class="text-highlight">flexibility</span>, <span class="text-highlight">creativity</span>, and <span class="text-highlight">motivation</span>. The reason I think that's possible, is because <span class="text-highlight">Information Technology</span> has now <span class="text-highlight">reduced</span> the <span class="text-highlight">cost of communication</span> to such a low level, that it's now possible for huge numbers of people, even in very large organisations, to have <span class="text-highlight">enough information</span> to <span class="text-highlight">make sensible decisions</span> for themselves. Instead of just following <span class="text-highlight">orders</span> from someone above them, who <span class="text-highlight">supposedly</span> <span class="text-highlight">knows more than they do</span> in a <span class="text-highlight">management hierarchy</span>.`,
+    solution: `The lecturer talked about the early stages of a change toward human freedom in business. He firstly explained the economic benefits of both large and small organisations. Additionally, he introduced new concepts including economies of scale and knowledge, freedom, flexibility, creativity, and motivation. He finally concluded that Information Technology has reduced the cost of communication, and huge numbers of people can have enough information to make sensible decisions for themselves. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-88.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=eLjnu%2Fk5szznfb1yNU3GkvvFcWqTlEkbUZi%2BieBOaFdWwgV33%2F4PNaA2dvrIC843obV56ydcD12AsLwT7HgxsX5acPS%2FK%2F4MjzFRiLEQ7vAbcd1Pbny9k%2BlgXNPhaM2qavHQqcjzo7wE%2B0t0OS8vkoEATqXVuaa0RI4VAHgP3%2BPXNtbFzOLVBcw63liaQKc1ZN5V4miD%2Bp%2FBjZlWSEEWV9PiEM9kZ2k1BcA8tN%2BN45dlIZIpUO1NNeOCVWQsGXiu5NAPDB7%2FqRu%2Blylzjx3xs%2F8DO7tcHCPQOmtiI4k6k8PKkGkV2qhK9GncZE%2B96au3Vkqk68iMe5xqqFHM4DPImw%3D%3D",
+    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/2323233%281%29/original/3629262be585924489105be0c1fde555/2323233%281%29.mp3?1570347180",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 89,
+    topic: "Human Memory",
+    transcript: `For millennia for us, <span class="text-highlight">humans</span> <span class="text-highlight">forgetting's been</span> easy, spilled into us. Biologically, we <span class="text-highlight">forget</span> most of <span class="text-highlight">what we experience</span> every day our feelings, our thoughts. <span class="text-highlight">Remembering</span> is <span class="text-highlight">hard</span>. Since <span class="text-highlight">the beginning of time</span> we humans have tried to <span class="text-highlight">overcome</span> <span class="text-highlight">biological forgetting</span>, and to <span class="text-highlight">hold on to memories</span> that are <span class="text-highlight">precious</span>. For thousands of years, we have tried like this Navajo to <span class="text-highlight">pass on</span> our <span class="text-highlight">memories</span> to our children, and the hope that they to made us be able to remember this is how the <span class="text-highlight">great</span> <span class="text-highlight">epics of the world</span> emerged thousands of years ago. But human memory is not<span class="text-highlight">fixed</span>. It changes as we <span class="text-highlight">reconstruct</span> our <span class="text-highlight">past</span> depending on it may not be <span class="text-highlight">sufficient</span>, especially when we want to <span class="text-highlight">capture something precisely</span> or for a <span class="text-highlight">long period</span> of time.`,
+    solution: `The lecturer talked about human memory, which is not fixed because it changes when people reconstruct the past. He firstly explained that human forgetting is easy while remembering is hard. Additionally, humans have tried to overcome biological forgetting of what we experience everyday, and to hold on to memories that are precious. Finally, he concluded that depending on human memory is not sufficient when people want to capture something precisely. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-89.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=iBuNK6Cj%2BsAeqfGqdpoQMuuJq43cLkUShL5ItZDgLu%2BJUog6XzVcKj7O8lUbBJHe6GiJOZ8D0cXR%2BXOfN3zqQgC61yxixRrS8as4JUH47GVDct04yBcIBgDUvLpFIcucWLQj69d77J6v4Z9RJ08AOEpTXkagBOvv1oCHFA14RslHr9WD4%2FqM5e8EtuOejMVjGEFpyQnhNfUi%2BZQ9ZSM07l2LCRwjMBoMHykHM4vha1C5QuuWxtAm1LtwwmQOS4%2FP4w857oOcegq5DqeyKH7PBQf%2BR%2FObEnoIgp2RtBLK52vdyc6JPKxY0c21J8Sc%2BXSn7RcnU3snQvpvTYHtZvBSDA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 90,
+    topic: "Face recognition",
+    transcript: `Last week, we talked about <span class="text-highlight">how people</span> <span class="text-highlight">recognise</span> <span class="text-highlight">objects</span>. And really <span class="text-highlight">how well people recognise objects</span>, given <span class="text-highlight">how difficult the problem</span> is, given how objects can be seen in all different sorts of <span class="text-highlight">illumination</span> in <span class="text-highlight">different positions</span> in <span class="text-highlight">different angles</span>. And yet, we're able to <span class="text-highlight">extract that information</span>, we're able to take the <span class="text-highlight">the visual stuff</span> out there, <span class="text-highlight">interpret</span> it in a way that allows us to <span class="text-highlight">recognise all the different things</span> that we can see in our environment.<br/><br/>
+    Today, we're going to kind of <span class="text-highlight">carry on</span> looking at that, but we're going to look at what's really a special class of objects. That's the <span class="text-highlight">human face</span>. So we're going to look at <span class="text-highlight">how we recognise human faces</span> and how we do it quite as well as we do. We're really experts at <span class="text-highlight">recognising faces</span>. So again, we can think about how do we take that <span class="text-highlight">visual information</span>? And how do we <span class="text-highlight">transform</span> it into a form which allows us to <span class="text-highlight">put a name to a face</span>, and to do all the other <span class="text-highlight">clever things</span> that we can do with faces. So I'm going to start off again, by just sort of pointing out that it's a <span class="text-highlight">hard problem</span>, face recognition is a hard problem. And it's a <span class="text-highlight">clever thing</span> that we do. If you think about all the <span class="text-highlight">different types of faces</span> that you can recognise, and all the <span class="text-highlight">different types of information</span> that you can get from the face. You kind of start to <span class="text-highlight">appreciate</span> how well we can do face recognition. So you can look at a face and you can find out its <span class="text-highlight">identity</span>. So you can <span class="text-highlight">look at this sort of set</span> of all these different types of faces and you'll be able to recognise some of those people. You can tell things about their <span class="text-highlight">age</span>, about their <span class="text-highlight">gender</span>.`,
+    solution: `The lecturer talked about how well people recognise objects given how objects can be seen in different positions and angles. He firstly introduced how to extract information and interpret it in a way to recognise all the different things. Additionally, he explained how people can transform the visual information of human faces. Finally, while looking at a face, people can find out its identity, and tell things about their gender. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-90.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=esc6BtB%2FuFtQY1g8LCDIbXM0mEjavJHiK1uBpZsCMOhKUwj8sAv%2FUQd2%2Fmqxw780FzH%2BN%2FqLUG2qu6rEZmEFCK50YGEEHs%2FYejUGQuICS7M9LL9E1p8QiD5BW6ZUe95j6%2BdypVzmMBAYe%2B8DBz0T6DHtYt4nrDi7zR3fXI7FNZZq1u4yAXE%2BTHKGaUpZjsUhzDlyYVE05gcCz%2FUnzZVFYuB%2F%2BbO8L91j3l9rBNZPTQCZH5t%2F0GCGWXkD%2F0jvr5pEH%2F2B%2Bw3BBck%2FHhF8BQovwstIXR6gynRxhoQRCfMsmjqteRmK3cC6mmztV9VeK79IHVZZpdwn48h4B6jUH8GuLA%3D%3D",
+    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/207/original/d814047ea3741b8d82c5fb88614e2676/207.mp3?1571064965",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 91,
+    topic: "Law study version 2",
+    transcript: `Studying <span class="text-highlight">law</span> at <span class="text-highlight">university</span> over the <span class="text-highlight">three years</span> will allow you to <span class="text-highlight">acquire</span> a greater and much more <span class="text-highlight">in-depth</span> <span class="text-highlight">understanding</span> of not only the law but <span class="text-highlight">the way it rules work</span>, <span class="text-highlight">the way to think about law</span> and this knowledge can have a real benefit for you in your <span class="text-highlight">future career</span> as a <span class="text-highlight">lawyer</span>. Law is also a brilliant <span class="text-highlight">academic subject</span> to study in its own right. Even if you don't want to be lawyer it can provide a fantastic foundation for a lot of <span class="text-highlight">different future careers</span>. Why? Because it <span class="text-highlight">involves</span> not only <span class="text-highlight">studying and applying</span> the rules in an analytical way, but it goes a lot further than that. Law <span class="text-highlight">involves</span> a lot of <span class="text-highlight">different subjects</span>. We think about why a <span class="text-highlight">particular rule</span> exists, we think about whether <span class="text-highlight">this rule</span> can be <span class="text-highlight">justified</span> <span class="text-highlight">philosophically</span>. We think about <span class="text-highlight">how the law</span>has appliedhistorically<span class="text-highlight">. We think about what kind of</span>social goods<span class="text-highlight">we are promoting by implementing this</span>particular law<span class="text-highlight">and then think, “Okay, so</span>how can we take<span class="text-highlight">all this, put it together and talk about</span>how the law should evolve in the future?”`,
+    solution: `The lecturer talked about benefits of studying law at university to acquire a greater and more in-depth understanding of the way rules work. She firstly explained that law can provide a fantastic foundation for many different future careers. Additionally,law involves studying and applying the rules in an analytical way. Finally, she raised questions about</span>how the law should evolve in the future and how it can be justified philosophically. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-91.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=egIGozGT91Kpqm6niQvc%2BtPMyq3hHnbBeFWNO7CIcJixYh24cVk4yAOmL2fkXCLFd15zlT80jVr0v8wCsmjVJ4GlMXzq%2BhicIAXnSy%2BiwetNq6uSPTWbGgFjYU1UMp42pcV7zCQVo5SlduWP9fXA%2FZ9wa%2FTIyaT8E6Ad0srbxb4PUfdbiVYjwynqoNQrRnZEw4BIpn1qDnrN5cldmJO6c8uZory94%2B9kW3UL7jxqhD7XrdO%2FJrZQYhR%2BkL6ShgoJzEvDntUfOI2LbSSaLXxH4%2FrN4nE7gfeeCpuOGtPlO%2BnDBPu7R%2FVl%2B%2BCe0GlUSkbkFc5Il1yuki0H5wuoBEzi%2FQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 92,
+    topic: "Under the Sea",
+    transcript: `Tonight, I am going to talk about the <span class="text-highlight">Earth’s ocean environment</span>. I want to <span class="text-highlight">surprise</span> and <span class="text-highlight">delight</span>you, to challenge you with some of the issues that are <span class="text-highlight">problematic</span> for <span class="text-highlight">oceans</span>, to look at some <span class="text-highlight">potential solutions</span>, and perhaps to <span class="text-highlight">provoke</span> you think about these issues in a more <span class="text-highlight">critical and connected way</span>. <span class="text-highlight">Environmental</span> <span class="text-highlight">scientists</span> are finding increasing <span class="text-highlight">evidence</span> of human-induced <span class="text-highlight">damage to oceans</span> at vast scale – destruction of fish and <span class="text-highlight">coral ecosystems</span>, and <span class="text-highlight">massive</span> gyrating pools of plastic refuse, for example. Moreover, we may be storing up <span class="text-highlight">heat</span> and trouble for ourselves in relation to future <span class="text-highlight">sea level changes</span>. What <span class="text-highlight">attempts</span> are being made to <span class="text-highlight">reduce</span>the <span class="text-highlight">footprint</span> of <span class="text-highlight">human activity</span> on the oceans, and can they <span class="text-highlight">succeed in</span> <span class="text-highlight">restoring</span> the damage to the largest <span class="text-highlight">living space</span> on <span class="text-highlight">earth</span>?`,
+    solution: `The lecturer talked about the Earth’s ocean environment, and issues that are problematic for oceans. She firstly introduced potential solutions to these problems and provoked listeners to think about these issues in a more critical way. Additionally, she provided some evidence including the destruction of coral ecosystems, and massive plastic refuse. Finally, she suggested to reduce the footprint of human activity and restore the damage to the largest living space. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-92.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=eXwwgyuZfBRNkf2KhnXi%2FlO1pqUv8ggknrleu0zrMXWgzYLJd2mdMMFPZRCbJZjluvKHf6pw5JprQ6yvko0JK1XWRATejdfrSmImBrgDxw2hOrJXA%2FIRkyoTcMM%2FK95iedLFQ1s8GdGo4QiPcFeWelixLq9djVX%2F2UOVl9xPcOOwoBzI9cXYlGQBZq965bYXGLI8KtNjPA1ydNxXaQ4wyB23ArIn0YfJZuM2upfmIuIrDMQ8YbNhaPo3LTMZ62HTIUiK%2BOQm33bCVHys%2Fo7JVqUlI88%2ByfbNpADVbhROP5XX58NhfVo4EPEN0MJwYM%2B7m9BmORJxh80YLpgTuiuKyA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 93,
+    topic: "The discovery of the structure DNA – DNA 3",
+    transcript: `The <span class="text-highlight">discovery</span> of the <span class="text-highlight">structure of DNA</span> but something that was really <span class="text-highlight">important</span>, allowing <span class="text-highlight">scientists</span> to start looking at and thinking about the <span class="text-highlight">effect</span> of <span class="text-highlight">genes</span>, and how they might affect <span class="text-highlight">behaviour</span>. Okay? So early on, we might just think the <span class="text-highlight">genes were responsible</span> for our <span class="text-highlight">physical structure</span>, our <span class="text-highlight">height</span>, our <span class="text-highlight">hair colour</span>, and so on, and not so much for our behaviour. But we now know that there's probably at least some degree of <span class="text-highlight">genetic responsibility</span> for all of our <span class="text-highlight">actual behaviours</span> are <span class="text-highlight">psychological</span> behaviours as well, not just physical behaviours, and the mapping of the <span class="text-highlight">human genome</span> that was completed in 2001. What is that? I won't even dare ask if anyone heard about that. That gave us a lot of <span class="text-highlight">interesting information</span>. And it's been allowing both the study of biology but also the study of psychology and <span class="text-highlight">neuroscience</span> to <span class="text-highlight">progress rapidly</span> and <span class="text-highlight">start integrating information</span> about what we know from genes and studying it.`,
+    solution: `The lecturer discussed the structure of DNA, which is really important in knowing the effect of genes. She firstly explained how DNA may affect behaviour and why genes are responsible for our physical structure. Additionally, she claimed that there is probably genetic responsibility for actual and psychological behaviours, plus the mapping of human genome. She finally concluded that DNA provides the study of biology, psychology and neuroscience with interesting information. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-93.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=FhauI%2BhUupjPXpii%2FaPMgs2ZnjcK9LJruLSzEiTrBZvgtd5PPv%2B19PX01EIhGfeIu5TNh3mDROiybRxMuj6q1iJrnXI3iM0HLGV%2Bi6NMj2owjEKxmf7GuKJuT0G9ZiVMVOyA0QcOHY76Qwa9r03iBC%2F2FGj94gd4C4g0L4iuHswAtSDvg8732UcMPWlFQQD0Z0BsLpDnRbTJH%2F56GQck41fzpAJ%2FehA0hwWwxNSsf8PTQhNai8WOtZT9IL9jdn2AWivVg%2B3nPg9bTHoGztkJJOcGox2qXpO2p4ruIwMSNrDUGjoTpdQqbtzgxZ0FK%2FU%2BOflL881zUJYYqFDxBZGCvw%3D%3D",
     level: "medium",
     times: 1,
     priority: "normal",

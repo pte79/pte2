@@ -5,7 +5,7 @@ export default {
     favicon: "/src/images/favicon.png",
   },
   editBranch: "master",
-  repository: "https://github.com/nguyenletan/PTE",
+  repository: "https://github.com/nguyenletan/pte2",
   menu: [
     "Pearson Tests of English",
     {
