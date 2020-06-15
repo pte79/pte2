@@ -30,12 +30,12 @@ const MoreInformation = styled("p")`
 `
 
 const Topic = styled("h2")`
-  margin: 0;
   font-size: 24px;
+  margin: 1rem 0 0;
 `
 
 const H3 = styled("h3")`
-  margin: 0.35rem 0 0;
+  margin: 1.9rem 0 0.35rem 0;
   font-size: 22px;
 `
 
@@ -121,12 +121,12 @@ const SummarizeSpokenText = ({
     } else {
       return (
         <>
-          <H4>PTE Helper Audio</H4>
+          <H4>PTE Helper's Audio</H4>
           <Audio controls preload="none">
             <source src={audio} type="audio/mpeg" />
             Your browser does not support the audio element.
           </Audio>
-          <H4>Pearson Audio</H4>
+          <H4>Pearson's Audio</H4>
           <Audio controls preload="none">
             <source src={audio2} type="audio/mpeg" />
             Your browser does not support the audio element.
@@ -186,7 +186,7 @@ const SummarizeSpokenText = ({
       <Button
         mt={2}
         ml={0}
-        mb={3}
+        mb={2}
         mr={2}
         pt={2}
         pb={2}
