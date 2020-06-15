@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Pearson Tests of English    `,
-    description: `I hate Englist at all! This site uses Gatsby, Docz, ThemeUI and React to build.`,
+    title: `Pearson Tests of English`,
+    description: `This site uses Gatsby, Docz, ThemeUI and React to build.`,
     author: `@nguyenletan`,
   },
   plugins: [
@@ -31,6 +31,6 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
   ],
 }
