@@ -2,7 +2,7 @@
 
 ## Links
 
-[Demo 1](https://pte.netlify.app)  
+[Demo 1](https://pte.netlify.app)
 
 [Demo 2](http://pte.surge.sh/)
 
