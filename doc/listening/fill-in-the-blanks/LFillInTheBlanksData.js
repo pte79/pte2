@@ -166,5 +166,81 @@ const LFillInTheBlanksData = [
     priority: "normal",
     newwords: [],
   },
+
+  {
+    id: 15,
+    transcript: `Well I’m absolutely delighted first of all to have been <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>appointed</span> to this professorship. The role is going to be about public engagement in science, it is about making science <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>accessible</span> to as wide an audience as possible, it's about encouraging young people to think about science as a career, it’s about making it easier for our <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>academics</span> here at the University of Birmingham to talk about their research to the general public and it’s not just about a one-way flow of information, it very much is about a dialogue.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-15.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=BMcJm%2Bw3O9ncia8OQdx%2FxW0AwdXon4J2BdKkMljMVtUtLVY4Pf4Uk9eohuQIqTO5WR7QxNBi5zQafcNRVtmBQanWFiE%2BBeBPk2MvToHp6Y5wSLD9RlcgJgam9ZimzQ%2ByRBYhx%2FoXcIEc7WXlkU1EqA7riTAHqSI9pGNnPaO54OwK0k3PbnFQ%2BdxDxLSqAE7MndO7VzcVZABhJG1jPuysm90Sb9fw%2BquPfjtw1MEUb%2FjwUIbsqfcmyvQCu5O%2BtI8WE1Ll3Eh1WEk1hoGM1BAoNFJX%2FS2kRtSNuN0Gi9oaRznApv4cvzbx0d4z6WtTjqZiJW1uZB3PqnURdDzB0H4xEA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 16,
+    transcript: `My current research at the moment is really quite broad.  I work at the interface between the Arts and Humanities, particularly <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>archaeology</span>, but trying to find questions which are very difficult to answer unless you start integrating computing and <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>visualisations</span>.  So really I work in this boundary between trying to understand cultural questions about the past, but those sorts of questions that you can’t address unless you start reconstructing, start modelling and visualising past <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>landscapes</span>, objects and movement of people.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-16.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=STw7GGZw37EplZkFJIKb%2FZ%2BpU%2Fyo0a8mFH7aO5B%2FUrZ6XKpTTjUVrzmkXHRhErc3E%2FzS%2Ffg2f7sVihEA4kC7VvGKGLrZunC2MWkg9SQBOKGGqSss3bNlWZggVKqMozsYJ9Wy4x9LTQe5fbvUyceRXJoLcZaQaa3NxA4JdXEXwyvbe%2BVmuayveqPtbK8k3FqOUMY4FPUhGBMKPLyKZlFk20R1o3zpwBL%2FjqmHUClE0QvumaOORepoLp91hw31uKBYVSyiX%2FsmIl9MiaC3BR%2F%2FeL09DhZd4qNgBc%2BgfO1%2FFDMsA%2BPFKsJs8IZWMZgST4dpSslZRi%2Bpfz39ekLDFThavQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 17,
+    transcript: `Well, the simple explanation might be that yesterday's <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>sudden</span> drop in share prices pretty much across the board has created what market analysts like to call a buying opportunity. It tends to bring out investors to pick through the ruins, looking for <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>bargains</span>. What seems to be happening today is this decision by investors that sellers got a little carried away with things so the buyers have <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>lifted</span> all the major indexes today. The Dow, the NASDAQ, the S&amp;P 500 were all up around half a percent in early trading today, and that wasn't a big surprise. The sell-off continued somewhat <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>overseas</span>, but you could watch things stabilize abroad. European markets remain fairly weak, along with many of the Asian markets. But you'll remember that all this started with a big <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>plunge</span> of around 9 percent on the stock market in Shanghai. Well, Chinese stocks rebounded by around 4 percent, and that kind of set the tone.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-17.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=XBO3b0prHxq2yhZLGRr4g6v%2BQx%2FYfkiooTqN4OEYt5PUpQWyCVGFDuetYJnYVh0OirxjNlb4JM8yXdlAtkUhWNW2UCM%2FpwBisWj6xTRvtagmFTHY0HMHQhb4GN1ur6YgsSJCRy%2FKFcgj62BHvn8nc0fRWv9H%2FpXY1wE%2B6l2%2FwHWNzjd4nsZmdIXIIszJVLlcytuLojMdPiI%2BwhwA%2F70TJ1LKkvcaffRvdzQSazzyLyerfGLBRjNUQRnUWGRiZoRVakWnRh6Wwhrl%2Bii7xKh0zKH6tfWogWrY3LNdEekmXOnPBcuX9H%2FbTlk6ZPtyXUFSd1aKK3Pz0WFiLgbT7buZwg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 18,
+    transcript: `You've heard about SARS, AIDS and bird flu. Now <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>researchers</span> from Australia claim we're about to be hit by a new epidemic: Motivational Deficiency Disorder.<br>According to the British Medical Journal one in <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>five</span> people are said to suffer from Motivational Deficiency Disorder, or Moded, and most don't even know they have it. <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>Symptoms</span> include being unable to get out of bed in the morning, being trapped on the couch, or wanting to spend the entire day at the beach.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-18.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=BTrTPg1dW%2B0GoO5vbeiRDBGbcSY9yHBq3H8nIMcMrfEesoXCLI28a5zkyjsGjs3qqa8Kn2Nl%2B5kBh0%2BUtD0xYF44Flfazv%2FZGT45kJ6f8UhBT%2B%2FT7JdnMZpBpZqH7spgVi0UAvrYDXrZ4MPgIg%2B3sNqvCg1Ea75L8Vg5FVRCzOJTsheDa7qnpWcSGYf%2FC89%2BNl61P%2BJPxpEroqe1NtFYl%2BJq4pMxUUJAv0FmM%2Bi5bhPWTaHR3JWjWej6sh1379iekJWM7vukLhVSdx77UsnPQj5TQYPb%2FfwoDMT9n9XH3RiVMkfcpNGZC8%2BdATjA1w5uUw52Nw5uYtnvKS38LyX3EQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 19,
+    transcript: `Well, Alex, the National Association of Realtors is at least putting the champagne on ice. The industry group says the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>slight</span> rise in sales for previously owned homes shows the housing market is finally stabilizing, which is the first sign of a recovery. Now, that of course is an interpretation of the <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>number</span>, Alex, and one that's coming from an organization known for being somewhat of a cheerleader for the housing market, since its members are made up of <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>realtors</span> who've been losing a lot of money in the slump. Now, for a more <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>sober</span> view, I talked to Wellesley housing economist Karl Case. And he says the slight uptick in sales hardly <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>offsets</span> the fact that numbers are down 20 percent from the year before.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-19.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=gYMYnm9SyL2QduwU9qu3erHHWnl62ABoyvIsUvMUr2SQEVzfb0hWCHp6PoSo5E%2F2dgTnHVAMS%2F%2FPHA7akYZydX0tbu6m4ki7s8uL5XLT6LX4u%2FBfNXjnynMyl1R1bL7P6u42nTv3fh9o1D49t8okTP2%2FR%2F%2FAYkLgBotvBt0RqClbJXk2fGrPcibFPDUkNQ7nzeJJ6h9bdWBp50sIIOGCmkUhMdv4Cl9dlHEJhPUP7L0dyWpJ8rY%2BGciorGY87UNZRsLKmf%2FnGSzNRHdBv8qS%2FcEM%2FrDcjgLSmtUJ8%2FUC9ugvr3uEvEH60g8%2Fne0yLxSqX6K7gZujjpr%2Fp0%2B786ddHA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/l_fibs/audios/110/107/1585667315-fib-l_107-en-US-Wavenet-C.mp3",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 20,
+    transcript: `And one particular crop, almonds in the US and now in Australia, is <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>transforming</span> the world of beekeeping and of bees.<br>What has happened is that something serendipitous came along that people found out, that doctors found out that almonds are good for you, they're actually a food that is normally considered a <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>confection</span>, but it's good for you. The Almond Board got a very aggressive promotion going on for almonds. I just heard recently, they send out sales reps to <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>cardiologists</span> at hospitals to promote the heart benefits of almonds, so they go right to the doctors to do this. So they leave no stone unturned in a very good promotion of almonds, and it's <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>cardiologists</span> promotion because they are a healthy food. So what's happened is worldwide; almond sales have taken off.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-20.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=XLawlnttWM028ECu%2BsXpUktrvCBAWX3fU67Gr3zE2Snk9pB0RLeZAFwpxYmGPQrc3Ej8z8A1V8VmztTzCysR5AYzw1zsjpbzuNBrcozcvuX9LPL7wmLzBN8IcFmzkoKyu9rxYliQa9ru0BzKzBLr%2BUStJTOOOmn7kYdd704WJCPcKn%2F13Rc84MI2WDDDx4lftyHp5Op3C7LBJs8PlutZvRgPR193INRkEn%2Bu%2BWsjrAkC6Dz%2FWTloihkcdAi8HRdewCVeBw3%2FhRmD6AXWeHo2IYpczTvs8n6ylxGr35Na7lkbV9GuEexAVbLUZ%2Fq0NTWsTiv33wpT7SW8zUHdSGYTyw%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/l_fibs/audios/110/107/1585667315-fib-l_107-en-US-Wavenet-C.mp3",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
 ]
 export default LFillInTheBlanksData
