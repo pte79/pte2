@@ -597,7 +597,7 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lectuer talked about a professor of **children's literature** who believed that Britain has the longest and most distinguished traditions of creating books for children.`,
-      `She highlighted that we don't pay attention to what a remarkable cultural resource.`, 
+      `She highlighted that we don't pay attention to what a remarkable cultural resource.`,
       `We need to create a cultural space for creativity, subversion and opportunities to experiment with new ideas.`,
       `We look at an individual child  to know how important to learn vocabularies,images experience.`,
     ],
@@ -620,7 +620,7 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about the Voynich manuscript which has many theories in 15th century.`,
-      `He firstly emphasized that it’s just gobbledygook or an invention to make money for fool people.`, 
+      `He firstly emphasized that it’s just gobbledygook or an invention to make money for fool people.`,
       `In addition, he highlighted that someone encoded lots of secrets in it and made it to become a genuine script for human language.`,
       `Finally, he concluded that we managed to decode the script which would become natural human language.`,
     ],
@@ -643,7 +643,7 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about the amount of money drug companies spend on TV ads, which has doubled in recent years.`,
-      `She firstly indicated that consumers go to their doctors with a prescription drug during prime time.`, 
+      `She firstly indicated that consumers go to their doctors with a prescription drug during prime time.`,
       `In addition, he highlighted that researchers analyzed that the drug industry promoted ads about high cholesterol,depression,allergies.`,
       `He concluded that the life character without control extends the impact of the health condition.`,
     ],
@@ -666,7 +666,7 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about the coffee house in England where there was the biggest coffee drinkers.`,
-      `He firstly indicated that you could talk about the latest developments, science and politics.`, 
+      `He firstly indicated that you could talk about the latest developments, science and politics.`,
       `In addition he highlighted that coffee houses were very basic with few tables and chairs.`,
       `He concluded that coffee house added attraction by a polite young woman and provide  free newspapers, journals.`,
     ],
@@ -687,14 +687,15 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about international environmental law and climate change.`,
-      `She firstly indicated the legislative’s control, the impact of men’s activity and production of smoke.`, 
+      `She firstly indicated the legislative’s control, the impact of men’s activity and production of smoke.`,
       `In addition she highlighted the legal duties and standards were merely good intentions because they lacked appropriate enforcement.`,
       `Finally, she indicated that many local industrialists used the Adam Smith model to maximize their economic benefits but this was the detriment of the local environment.`,
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-32.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=d5C6dqyyM4FsUgPUnzMl3NM6MXLFgDa5MOmi6jNA%2F5vv%2B0iHQrtu3OXOSw3CW8uA0s9q3kFfLdgZP8XkzRz6tIUFMquabJSFQWxkq5k3N8oolFaxFKgxJJc1ZwpUxaGQ4yBzuhHYqmwxYPQ9fyriB7vPeey3Wf0JCCqDsMihGRERVmV6rsB4XVLPUJyzhcXsgqkq4FF7abBBbY5F%2FubDoDZF8IO7rrFDmy5fkuXMph6TSRh3TOLdklwkXsN9fVeulednvR%2B6zbcjofPQSz%2FGIqYBgYKNGrX%2BRiWrNnX9l%2FYCBB3fJreutron08V1rk76fqU3gz0ZA7jH8qXHXS4pCw%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/cc44baf786744283b04c6330a990d284/original/6dc686059d33141205b25420f4e98deb/cc44baf786744283b04c6330a990d284.mp3",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/cc44baf786744283b04c6330a990d284/original/6dc686059d33141205b25420f4e98deb/cc44baf786744283b04c6330a990d284.mp3",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -709,14 +710,15 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about the debt being so high and the peasants without no capital would not be able to pay back.`,
-      `She firstly indicated that the debt came from expensive seed and expensive  pesticides which were free in the last five years in India.`, 
+      `She firstly indicated that the debt came from expensive seed and expensive  pesticides which were free in the last five years in India.`,
       `In addition she highlighted that the same companies lend money and sell the seeds then became major creditors.`,
-      `She finally concluded that free market and globalisation was 2000%`
+      `She finally concluded that free market and globalisation was 2000%`,
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-33.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=QMCCYACZT1lnX94yIfAs3qsKq4uLcpl%2FEnSXqNeMcWR%2Fuj0I755O5NsDiEFbWYkKLa0LK2n29IPp8M%2FY7TBEl6R5zNd4ztz1wp656jlE2VpnCk%2BQfcbzmhmiTNe34aXUJ%2BZxoJYAO8serk%2FRy4uP1AqhzqtFk74nT14rdmyBOgnb6%2FEOZh6%2FUYFWLuWm95tb7oZoRBZ%2BNvaO6ebX63vEY5D%2Bdz8e1zhKjj6UPvysiena0PO2iEi5Gk%2BnkX54IZpQT5tMaBPlWU0aEutrnEfX9cE8u6c61%2BM3m9jyspvttFKVH9l4uKkucfVcbgrVZBNvDvlUNDzibkhQ8Rqiw2yygw%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Indian_peasant_debt_/original/a2013fef2ec100917bc14fd2382d9467/SST_Indian_peasant_debt_.mp3?1551944773",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Indian_peasant_debt_/original/a2013fef2ec100917bc14fd2382d9467/SST_Indian_peasant_debt_.mp3?1551944773",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -731,14 +733,15 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about the student loans which gave her horror experience and bad family ‘s financial situation.`,
-      `In addition, she indicated that the money student loans payment was triple her car payment.`, 
+      `In addition, she indicated that the money student loans payment was triple her car payment.`,
       `Additionally, she highlighted that we need a college degree,current job,family’s income and not need borrowing  money,credit card debit.`,
-      `She concluded that monthly payments were realistic for parents and kids.`
+      `She concluded that monthly payments were realistic for parents and kids.`,
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-34.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=HzRLej8TS0E4E%2BwlR6vbOzhX%2BB1CbH8TQ1kM%2BdUG57db%2F8WklNMquviVqSNgMGdOryRHqIJ0IYY%2BOsb3RUKP9JnNikNG1Ln2hGt%2FUktVBb5v9whIQoibR1LhrUEcfohM5RpVZ1Tlbql8ARaBDq6EMRgUGG7Hzr4m9EDp%2FQ276nYlz7g7KrDsAnBrISnLo1J%2Fc3q0TaRsJGA5UBuoraXPc9GHDZCfFmkNR1%2FkHr45JWrIr3%2FJ1Eh5vqbhWNEH6mSHVr8FTpmBRv7IQB7%2FtzXHaXituO8Jlz1xpHfPeDOHYbzapw3miIwGHUe7j2o0%2B%2FSg2nhzaLWFVcBaD%2FSSBPopQw%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/479b484d737c410099f68b8e08c30f85/original/756d8c515c154d36ff4688d8dcd5a559/479b484d737c410099f68b8e08c30f85.mp3",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/479b484d737c410099f68b8e08c30f85/original/756d8c515c154d36ff4688d8dcd5a559/479b484d737c410099f68b8e08c30f85.mp3",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -753,14 +756,15 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about children’s depression which was discovered in the 16th century.`,
-      `He firstly indicated that the children’s depression could increase  the risk of life such as impressive long term illnesses, diabetes and heart disease.`, 
+      `He firstly indicated that the children’s depression could increase  the risk of life such as impressive long term illnesses, diabetes and heart disease.`,
       `In addition he highlighted that the specialists tried medical treatment but no one was a perfect medicine.`,
-      `She concluded that sickness was a puzzle for scientists.`
+      `She concluded that sickness was a puzzle for scientists.`,
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-35.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=B%2Bmbdrl0iLuBnegrOvOVWLaLW3R1%2FXN9XmiCQpGXaEqnFyPHO0%2BJ6GHL4U%2F8b96SDbgeOzby5mw%2Bmkp%2FeeWX%2BiB7KVkNVLjqJSHHZ67i2zp8GsinNPP%2F0xxKkqeaozES6Yz374%2Bt7%2Bvj2gcS%2FCar5PtygBMSD4EGWdRBpxk%2ByOFZRcOSq50qmpVbHv5YadHXviboDnuRGFBRy1ghvVN%2Fif20dgqipurPLhvawc2xEaGn3AvNkM3%2FyVF2nqP82d7drEoNPjc2vRMjCnkHdILhEOj12MqYg3CufJrYDSfzwqoFmj5hUHoMKbBpaQV2gVz7CIrCTv5Xukw77jZaU%2BmlAg%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Children_depression/original/f46f1fae10fb99e4bea4dcee2fc53669/SST_Children_depression.mp3?1551942292",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Children_depression/original/f46f1fae10fb99e4bea4dcee2fc53669/SST_Children_depression.mp3?1551942292",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -775,14 +779,15 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about sea creatures inspiring  the latest devices which tested the full scale version.`,
-      `He firstly indicated that wave power sat on the ocean floor and opened and closed. `, 
+      `He firstly indicated that wave power sat on the ocean floor and opened and closed. `,
       `In addition, he highlighted that a device looked like a snake with rubber tube and floated  below the surface.`,
-      `He concluded that green energy devices were best power electrical generators.`
+      `He concluded that green energy devices were best power electrical generators.`,
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-36.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=PQVReOUbsY32QHCMph%2B%2F5l6r27TMRxHifSn%2B%2BF0NQqHtl3g5mk6Kkq9lYJKtkTpXgkP4W1SJpdad6RKBq0pzhqDhjTWSLvboBnl3Z3zQzw7u3JxTGShCxbmHRVp5Y2460B9OuGL85afBgaop2i%2FN2HamULVIVm%2Fk5DN87IMPphG1gY%2B3wcJVjdhfOxgt9RYSVXmAB9HP3pZwkfazZW8tA8EiDcpiXfT4S%2Bxra6b91tW55EQM%2FTl%2FEjiBciY7hvhe3zfnaSIDxUOwW5UqsKHV0EJHGBJu3u3aa944nTcRZBR3jHwRJRezG91p6VK%2BOO2pXG4USupN%2FF6UJI1zxa4MvQ%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/Wave_power/original/1b01e5bcbafca9b2a8cf299c030c3ae2/Wave_power.mp3?1536896498",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/Wave_power/original/1b01e5bcbafca9b2a8cf299c030c3ae2/Wave_power.mp3?1536896498",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -797,9 +802,9 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about an unusual character who is polymath and source of knowledge but he was not an academic.`,
-      `She firstly indicated that a consulting company, a house built on the mountain with no finance.`, 
+      `She firstly indicated that a consulting company, a house built on the mountain with no finance.`,
       `In addition, she highlighted that  he was an iconic plastic genius thinking and save energy.`,
-      `She concluded that he demonstrated how to solve problems using technology.`
+      `She concluded that he demonstrated how to solve problems using technology.`,
     ],
     fillInTheBlank: "",
     audio:
@@ -818,14 +823,15 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about the photoreceptor which is an impressive piece of engineering.`,
-      `He firstly indicated that a single photon detected  sensitive light.`, 
+      `He firstly indicated that a single photon detected  sensitive light.`,
       `In addition, he highlighted that  sound receptor  was bright light and dark condition and they were beautiful.`,
-      `He concluded that the receptor was an electrical signal,electrical motion, remarkable devices and they could translated into a vibration.`
+      `He concluded that the receptor was an electrical signal,electrical motion, remarkable devices and they could translated into a vibration.`,
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fe5r5k7e1zi0lnum131i52h-SST_38.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=ZjqA%2F3dHX5excLSfBltTPQCBWvRUVF8XtZ%2BSH4dxuMMNJKnLGlY%2Bpu0iTL1rqwdrE6XXelnq%2FqfwM5omxl%2FPw0%2B68kJCZS8nVxcbHrC9iweEqQI%2BZxTyc6ehNyBn7n81CkCLcEEk%2Fply%2Fx4GMqQOtRK%2FcF0Gwt2KNSjNgMKQ9TBnaVkIYkVotIcWz8Xbanb%2BwkJnLzzZ5tnAzvybwYe4jjQtIoWAgI9emkH%2BCykUm873ShwGA6RYkUF%2Fk26qo2LFFIzR2jGLyu3KFjkk6YdctRnd%2BBhWB%2BQU5ZKpHlkR7t8JAJM%2FuhUsId4fktyQKXNb%2Fa56MZBViEbT5LJB5vp7zg%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sound_receptor/original/a62f386f7887283ba7b6d22c1f775a19/sound_receptor.mp3?1536890095",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sound_receptor/original/a62f386f7887283ba7b6d22c1f775a19/sound_receptor.mp3?1536890095",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -840,14 +846,15 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about reducing government and modifying government which was precise.`,
-      `He firstly indicated that people need to move the government to the state level and this was a kind of a rationale.`, 
+      `He firstly indicated that people need to move the government to the state level and this was a kind of a rationale.`,
       `In addition, he highlighted that the Democrats and the Republicans are philosophical issues and the Democrats believed in big government and Republicans believed in getting power down to people.`,
-      `He concluded that there was an elementary reason and hidden part in the system.`
+      `He concluded that there was an elementary reason and hidden part in the system.`,
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-39.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=L9xhwNEbrE3OZ%2Fy9PwCxjCxLiHLpDUiD1NAwIHD96bPGstYdk%2BUhPvLuVvZ4zXzjBwCOQsqKvwa6bQRBPBByKSKYBguc5BtS529yj8diJIF5jbkOLIqfh6MeEc%2FovZc43Ej%2FkyA17X6FtiNQXgVz9U%2FUUxMCFWEAsicG5OXxshbVfLP1VDUcjpQS1zWGaOr0rorrN4zmohexze3d5d1ILN1vX9FajD3kdH43lbZ6kY38U1Xysli1SEwfaM6Sypcny2Xr8JPMqX5yKm8A8ruhen3HogSXYqaBYHz%2BJrm4v%2FT9B74ODrbLeKy%2BVYmjzp5wHsuAXIgxnEKyyphwmR0kbw%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sst_140/original/fabb8f67819a0940fc854dad310c78e1/sst_140.mp3?1576762780",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sst_140/original/fabb8f67819a0940fc854dad310c78e1/sst_140.mp3?1576762780",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -862,14 +869,15 @@ const SummarizeSpokenText = [
     keywords: [],
     mainIdeas: [
       `The lecturer talked about baby smiles which was spontaneous and strategic.`,
-      `She firstly indicated that the researchers call it sophisticated  timing and studied showed the interactions between real mothers and infants.`, 
+      `She firstly indicated that the researchers call it sophisticated  timing and studied showed the interactions between real mothers and infants.`,
       `In addition, she highlighted that there were 4 categories and the baby wanted to experience simultaneous smiling.`,
-      `She concluded that investigators know exactly that babies wanted to maximize the time the mothers smiled at them.`
+      `She concluded that investigators know exactly that babies wanted to maximize the time the mothers smiled at them.`,
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-40.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=RENjMcLxLW8YIPOGkWCRhMzePy9l%2BqPT%2B1hmxpapcE%2FBLul0f51h8XQzIgW%2FUDDA07FRRNJRlRvc1ODCC4YA9QKtJf9OL8pGnnfuPjGi80c3IZtdhuyZSdT1kU%2FBnObPw0Gyr7GahOVyjDgrkZjjmFIbq%2BGM7FHHlxxgOdqiJ4EU%2BOV26JTPp2HkappiIYGacTF%2Bv3JRxCrQdFEkDT4zCAeQA8z7zo%2F8auypp2FztzNiBdgZHyYjvORfJoH389phry3Y4FIPuVD0LjQj%2B0rfpsVUD6urGn6RH8vMXW63GojYXN0gxbkXw6rYZ3g2KzQh6J85t%2F%2BBQFebCOBw6JL%2FJg%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_smile_of_mother/original/beead6fbefa0eac18fc57e793b2f7d2f/SST_smile_of_mother.mp3?1544164842",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_smile_of_mother/original/beead6fbefa0eac18fc57e793b2f7d2f/SST_smile_of_mother.mp3?1544164842",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -1069,7 +1077,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
       `The lecturer talked about the role of emotions in our lives which we called fight or flight.`,
       `He firstly indicated that we focused on logical thinking nature and ignored troublesome emotions and basic emotions were our needs for self- preservation and safety.`,
       `In addition, he highlighted it would be dangerous without survival decisions.`,
-      `He concluded the brain communicated with the rest one in our body to create signals.`
+      `He concluded the brain communicated with the rest one in our body to create signals.`,
     ],
     fillInTheBlank: "",
     audio:
@@ -1093,7 +1101,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
       `The lecturer talked about the narrow streets of the city of Rome which grew in ad hoc way and were not planned.`,
       `She firstly indicated Roman built a city from scratch and it was very methodical.`,
       `In addition, she highlighted the structure based on military strategy,military planning and Rome had masterful military enterprise.`,
-      `She concluded that Roman cities were square so they called cestrum or military camp design`
+      `She concluded that Roman cities were square so they called cestrum or military camp design`,
     ],
     fillInTheBlank: "",
     audio:
@@ -1133,13 +1141,12 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     transcript: `Within most developed countries, <span class="text-highlight">notions of pragmatism</span>, notions of the fact that we have <span class="text-highlight">democracies</span> have succeeded in <span class="text-highlight">tempering the market economy</span> in the 19th century, 18th century. <span class="text-highlight">The Industrial Revolution</span> had some very <span class="text-highlight">negative effects on people</span>, particularly <span class="text-highlight">working classes all over the world</span>. We see data where life expectancy was reduced, hikes were reduced, we can look at medical records and see that actually living standards and much, much larger fractions of the population actually went down. But eventually, we passed <span class="text-highlight">legislation about working conditions</span> and eventually we circumscribed some of the worst kinds of behavior. We eventually in the 20th century, we put <span class="text-highlight">regulations</span> that imposed <span class="text-highlight">better environmental conditions</span>. And so some of <span class="text-highlight">the damage was reversed</span> and that we have made the market economy work in ways that the benefits of it are least far more widely shared than they were a hundred years ago.`,
     solution: `The lecturer talked about notions of pragmatism, which are notions of the fact that democracies have succeeded in tempering the market economy. He firstly indicated that the Industrial Revolution had some negative effects on people, particularly working classes all over the world. In addition, he indicated that we passed legislation about working conditions and we put regulations that imposed better environmental conditions. Finally, he emphasized that the damage was reversed _(70 words)_`,
     keywords: [],
-    mainIdeas: [
-     
-    ],
+    mainIdeas: [],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-52.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=jVn2%2BUfoOB6wK8urwO4dHpktxxb3rThSKTdOAUMAGcZbaijUJLErRV%2BDJ6s6U2djheJQ757JugYW3cWMTauILf2EvvHziV0mr0DukjQ1YMUeUCh3dpDhK6yJ9Zx9UJxez33jXwaZz7dmuqzK3kYuAMvqyfxXcdmRGpFhiajgmW4Qj73wRBiPvjkXl%2BXbOmiOYDOtvL7T%2Fcp62RTv2rdPjtAYQ%2FsIxNLI%2Bxc8GViYX9GjOu1EdK%2FE6yLGChzhnFsNsBQzDv1UvYu7Yj4x8C1XslVrWZX%2F6g7AGua9jmTGRXi1aScG2laWiUSbSgNK5gg60V3FluOuR%2BlzY9KRTsLp0g%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/c6ecb92cfa0a450eec64/original/4ef77cd19620b13a900cfa060980fe84/c6ecb92cfa0a450eec64.mp3?1588502279",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/c6ecb92cfa0a450eec64/original/4ef77cd19620b13a900cfa060980fe84/c6ecb92cfa0a450eec64.mp3?1588502279",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -1152,13 +1159,12 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     transcript: `<span class="text-highlight">How climate will affect crops</span>, but <span class="text-highlight">crops affect climate</span> themselves. And they do this in two ways. First of all, about one quarter of the land surface is used for growing crops. Another 10 -15% are used for passenger. <span class="text-highlight">A substantial amount of the land surface</span> is used in <span class="text-highlight">crop and agricultural production</span>. How we use that land affects our climate. If we were, for example, to <span class="text-highlight">deforest a substantial area</span> and <span class="text-highlight">replace it with annual crops</span> such as soybean, we would <span class="text-highlight">alter the characteristics of the land surface</span>, alter the way that water and heat flows from the land surface to the atmosphere and back; and ultimately change the regional climate if there is a large enough change of the land surface.  So, this is an absolutely <span class="text-highlight">fascinating topic</span> and one that’s really quite <span class="text-highlight">difficult to understand</span> because of the complexity.  It is difficult because it needs us as crop scientists to work even more closely with our climate scientists, colleagues, and it is difficult because we have to join our models together.`,
     solution: `The lecturer talked about how climate will affect crops, and how crops affect climate themselves. He firstly indicated that a substantial amount of the land surface is used in crop and agricultural production. Additionally, he explained that if people deforest a substantial area and replace it with annual crops, the characteristics of the land surface would be altered. He finally concluded that this is an absolutely fascinating but difficult topic. _(70 words)_`,
     keywords: [],
-    mainIdeas: [
-     
-    ],
+    mainIdeas: [],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-53.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=eZrZjhGX6M8xz8Xg1VE86k9h7udonAkv2aNCzJsMRJOBTwcSnDLF5bBcr8dJDhjyI7qvgLeF4gGS0uYZaiV1p3hPuDdKxwrMHT4ugwNNOA5DM5KrX1jWhOjcN0AHMzoEPpTw%2FoedqaUpmZSqi67P1BHyRUvpmFvqgZwF9Ta72DnX2rOuymvrhx9mwF00%2FqI8S0pykA3SKQ12uQrTIcyhY2jU3iHbcrrBHlb1zT%2BlfYY6kbDnAcjaTphvWActfoKeV82bSuCh90DJGep4dzLbhjRQaRApjbX6Qd3JNupCMp0418INN%2By3RWIKdFtLinNk2ZJnRHClwezcyhnjn9HpKQ%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/975159b3d00f47f86edf/original/98969d909633f6660965b4def17c2dce/975159b3d00f47f86edf.mp3?1588997533",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/975159b3d00f47f86edf/original/98969d909633f6660965b4def17c2dce/975159b3d00f47f86edf.mp3?1588997533",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -1171,13 +1177,12 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     transcript: `<span class="text-highlight">Child language acquisition</span>, three little words. So let’s take them on at a time. Child, when to start being a child? For many people, language acquisition <span class="text-highlight">starts around twelve months</span> <span class="text-highlight">when kids say that first word</span>, but don’t forget the first year. At the first year, our first year of life is very important as well and indeed before you are born, remember there are a couple of <span class="text-highlight">months before you are born</span>, when you are actually able to <span class="text-highlight">perceive in the womb</span>, something of <span class="text-highlight">the language that’s around you</span>. So language acquisition starts earlier than most people think. And it also ends later than most people think. When does child language acquisition stop? Well, in a sense, you know, we are all children, we stay being children all in our lives. There is <span class="text-highlight">no obvious endpoint for learning sounds</span>, of course, there is for learning <span class="text-highlight">grammar</span>, there is for <span class="text-highlight">vocabulary</span>, huh. I mean that goes on for the rest of our lives in million or more words in English. Most of us only have a vocabulary of 50, 60, 70 thousand words, whatever it is until there is always something more to learn. So remember that <span class="text-highlight">the two ends of child language acquisition are wider apart</span> than some people think. That means there is more scope for studying it than most people think.`,
     solution: `The lecturer talked about child language acquisition which starts around twelve months when kids say first words. He firstly indicated that there are some months before you are born, when you are able to perceive in the womb the language that’s around you. In addition, he indicated that there is no obvious endpoint for learning sounds. Finally, he emphasized that the two ends of child language acquisition are wider apart _(70 words)_`,
     keywords: [],
-    mainIdeas: [
-     
-    ],
+    mainIdeas: [],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-54.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=if9YpmVf0V2OAzXx2N4zz6U2IoivalxeKas8WiHiGUX8LfVzTdZ0BEV5XtEZrZs5y4G8KHyVA9NRzruHPwZca95H7qx01AhCOKOR%2F54TcwzRplCIBcGXb7jf%2FrKGFit5gJjGuyIbhY%2Bn9OaRR0K%2Bfa9l7%2Fk1U22%2B7s202sMSbrWvxp4pm3giK4Y%2BpO5lLJ77p3DPVQw6gbomhBM4PlaS7mrQGZVoaKjibqKhbm9Gprzr15T7Td%2BOFntGaY6NI%2BUgWCiqYTgvywnjFemE9Ni9rktXXn2urAqoOT6FVvMmqc%2FxASfMmPURsbnR9O6McH6bUc8a5uit3JHNHGE13rXZiA%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/5609d070323c7a6b0741/original/430444bd55e0d81842c568cfffc5710d/5609d070323c7a6b0741.mp3?1571707401",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/5609d070323c7a6b0741/original/430444bd55e0d81842c568cfffc5710d/5609d070323c7a6b0741.mp3?1571707401",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -1192,13 +1197,12 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     Before we move into a discussion of specific types of instincts, it is important to distinguish the difference between an instinct and a reflex. It is important to <span class="text-highlight">distinguish the difference</span> between an <span class="text-highlight">instinct and a reflex</span>. Both are types of <span class="text-highlight">unlearned behavior</span> that tend to serve a <span class="text-highlight">survival purpose</span>. A reflex is typically a <span class="text-highlight">simple reaction</span> or a response to an environmental trigger. Whereas an instinct is a much more <span class="text-highlight">complex set of behaviours</span>.`,
     solution: `The lecturer talked about child language acquisition which starts around twelve months when kids say first words. He firstly indicated that there are some months before you are born, when you are able to perceive in the womb the language that’s around you. In addition, he indicated that there is no obvious endpoint for learning sounds. Finally, he emphasized that the two ends of child language acquisition are wider apart _(70 words)_`,
     keywords: [],
-    mainIdeas: [
-     
-    ],
+    mainIdeas: [],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-55.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=jCcuJ7YaFJfel0psyFLe76Wxln0HqMpIxd%2Fb5mNiUeVIiFm86GDtwcH6jYRkptqDT6ria2PA%2FO4NwNqRo2qGnEBK18nTQZFIpCtc9pRY8xbIjhMwiG0Ejh7b0rNNL9ozxYYNRvVOfDOts8ctX5HnmJnLrMInPniYUbELtmIW%2F%2BEBUQCYNmg0PK2oCmoLDyHUguv5XZyPwTvjsHyGTCmPK4o4xUN2%2FDwBoE3rt%2FLsCZ1fD%2FpTAc%2BsL4uzKEnhYPIzLdWke0MwZCsrh0t1QUkU%2BwNbdMqPcu7OxI9Dv43zDAc6NdYY9Ujx9JeYU4L2GwXEdP9qCOkVwIKzKF64kcp6Wg%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/paywall_instinct-definition-lesson-quiz_02/original/e8324c854fcc5e338bc38d3e294ad31c/paywall_instinct-definition-lesson-quiz_02.mp3?1564044826",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/paywall_instinct-definition-lesson-quiz_02/original/e8324c854fcc5e338bc38d3e294ad31c/paywall_instinct-definition-lesson-quiz_02.mp3?1564044826",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -1211,13 +1215,12 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     transcript: `For example, France, one thought they were "retarded"; a word that was used, unfortunately, at that time. Then one tried to see why not. That analysis has been rejected greatly over the past years, because the <span class="text-highlight">Industrial Revolution</span> is measured by more than simply <span class="text-highlight">large factories with industrial workers</span> and the number of <span class="text-highlight">machines</span>. This is the point of the beginning of this. The more that we look at the Industrial Revolution, the more we see that the Industrial Revolution was first and foremost <span class="text-highlight">an intensification of forms of production</span>, of kinds of production that were already there. Thus, we spend more time looking at the intensification of artisanal production, craft production, domestic industry which we've already mentioned, that is, people, mostly women but also men and children, too, working in the countryside. <span class="text-highlight">The rapid rise of industrial production</span> was very much tied to <span class="text-highlight">traditional forms of production</span>. In Paris, for example, in 1801, or 1870 only, the average unit of production had only slightly more than seven people in it. So, if you only look for big factories and lots of machines, you'll be missing the boat on the Industrial Revolution.`,
     solution: `The lecturer talked about the Industrial Revolution which is not measured by simply large factories with industrial workers and the number of machines. He firstly indicated that the Industrial Revolution was an intensification of forms and kinds of production that were already there.. Finally, he emphasized that the rapid rise of industrial production was very much tied to traditional forms of production. _(62 words)_`,
     keywords: [],
-    mainIdeas: [
-     
-    ],
+    mainIdeas: [],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-56.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=iQAn5IYZite3rZTm%2Bv4qvoY3UHqv%2FCkP7RwRzH05CBQeNOa8VXlX3b74WVOr0S07QemYI%2BKbSHATeoGfO4%2BWI5x6a06BRYcagsEYtPcW5bqxXCQu9%2BjSasKB%2BZtT85d9EOY9Vpoh1PWx0DflEfmNmp5PKPQ5%2FX0EStjX2v%2FHJm5TwfLzIXO93PB8ofOECnaBgH9SRkoE%2FK%2Fz3wkfj0aTyOjLGghf8AAdABMWrhGd7%2BylracCDyhJGZjVQr%2BPmNDJ1G%2FaAH68GJZ1yE%2FHLHfpBFsRyCmjFAWsuKLdPAQnb%2FlHC77VvQGZ22d8rcLBs3ie5KFAwS49v7vIZpsASENNjA%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/b48887e314bf7c01fa26/original/f254144263789cc579fbc7ebcc9ec49f/b48887e314bf7c01fa26.mp3?1557211168",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/b48887e314bf7c01fa26/original/f254144263789cc579fbc7ebcc9ec49f/b48887e314bf7c01fa26.mp3?1557211168",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -1230,13 +1233,12 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     transcript: `What we know is that <span class="text-highlight">the impact</span> of <span class="text-highlight">the pandemic</span> will be <span class="text-highlight">catastrophic</span> if it is similar to what we had in 1918. In the United States, there has been <span class="text-highlight">an unprecedented amount of preparation</span> so far. It <span class="text-highlight">affects every aspect</span> of <span class="text-highlight">public health</span>. We have efforts for treatment efforts for better <span class="text-highlight">prevention</span>, <span class="text-highlight">clinical management</span>, <span class="text-highlight">communications</span>, the <span class="text-highlight">domestic and international responses</span>, and also efforts to try to prevent transmission within community. <span class="text-highlight">The federal government</span> has a <span class="text-highlight">tremendous amount of resources</span> that they have put into the <span class="text-highlight">development of the new antiviral drugs</span>, antiviral drugs stockpiles, development of new vaccines and manufacturing facilities for vaccines. So there's quite a lot that's happening in the United States. However, <span class="text-highlight">developing countries</span> do not have the <span class="text-highlight">level of resources</span> found in more <span class="text-highlight">developed countries</span>. That's the real challenge.`,
     solution: `The lecturer talked about the pandemic, whose impact will be catastrophic. He firstly indicated there has been an unprecedented amount of preparation, and it affects every aspect of public health. In addition, he indicated the federal government has a tremendous amount of resources to put into the development of the new antiviral drugs. Finally, he emphasized developing countries do not have the level of resources found in more developed countries _(70 words)_`,
     keywords: [],
-    mainIdeas: [
-     
-    ],
+    mainIdeas: [],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-57.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=GQcwhogI5%2BwlA%2FxUBW0cCvogJRx96wgNwZGYzp8FyTsFK%2BzUm7mOPZlYUxKZK1GilrKSrayciM2F97UAmMtj%2B4Tjn%2BmnDpPJb2bh3lsKxxMHGvlf92qHaQ9xnzYZueINb%2B5T%2BKdq0aJGY2K9haC%2FjLNfHvZnojmd5qlPrx81BKq4eHgaFyHK6Fnp5%2FKgnldsSsSIKfp0Nn7r3Qw4OGggoKJX4QnWM%2FHj5a9Zlcn%2Borbv2Ho0PSPTBcifN2a%2F4vVaDohxyPxMwKAmcU7WUHZJI9Es8TEZ3IYKG67AO6IDLqLr9HsnmVuj9Mqxh2mCXMomJA8U9pftOnwXeVhpKffIwA%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/wkgozl4aaagznr7daadg8rh6aiy400/original/59ee9573e669ddcf91276f2788b4413d/wkgozl4aaagznr7daadg8rh6aiy400.m4a?1587394130",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/wkgozl4aaagznr7daadg8rh6aiy400/original/59ee9573e669ddcf91276f2788b4413d/wkgozl4aaagznr7daadg8rh6aiy400.m4a?1587394130",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -1251,9 +1253,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     One of <span class="text-highlight">the main priorities</span> of this massive renovation was to <span class="text-highlight">connect all of the districts</span> together. If we think of Paris like a house, each district was its own room, existing essentially independently of the other districts. Napoleon III wanted it to be easier to travel between the most important districts and to create a sense of this being one unified city, not a series of independent neighborhoods. So Haussman created <span class="text-highlight">large avenues</span> that connected the districts. More than that, he made all the avenues look roughly the same. Buildings on a major avenue were required to be roughly the same height and style, and even had to use the same cream-colored stone for the façade. The result was to remove any local characteristics and create a uniform Paris. For the first time, the city had <span class="text-highlight">a specific look</span>, <span class="text-highlight">a style</span> that people began to <span class="text-highlight">associate</span> not with <span class="text-highlight">a district</span>, but with <span class="text-highlight">Paris itself</span>.`,
     solution: `The lecturer talked about cities, some of which are carefully planned, while others are less conscientiously designed. He firstly introduced that in 1853, Haussmann began the process of renovating Paris. In addition, he indicated that the main priority was to connect all of the districts. Finally, he emphasized that the city had a specific look, a style that people began to associate not with a district, but with Paris itself _(70 words)_`,
     keywords: [],
-    mainIdeas: [
-     
-    ],
+    mainIdeas: [],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-58.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=YUc2Q8cGPwBmlVhRyRJq%2BXj6II5F%2BGneAtpXlrsiq9fsZLsB3ZLMgqbWmV8VhEUrUGzgbaQQS0MpUjJZRdZ4VlRHCqUifsZcthtPS7sk%2FI8MT%2BhdnF6k3CiJsjNynZa%2FwrZZO3fOodb94BXPTOgKW46W6H%2F9o%2F%2BSsIer7CKyeCk08Ot2t4Q4GusmZfE9aVpPbsokhpGv9d5%2FDz07aU6xeIpvsZk3zHOHW5k2tp3V%2BhylxUNlwE1hIEqvIJZ5%2FO5l5%2FO5M3q0EhtfWumKg6DauF4qflPTQXUG8BJZkM7xViPy4S9iGFNWrdBhMl%2B0cp5Gvv8dskT5VJU9VHWBLwaKEg%3D%3D",
@@ -1269,13 +1269,12 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     transcript: `In this video we're going to find out how <span class="text-highlight">animal bones</span> found in <span class="text-highlight">an island cave</span> in the Adriatic Sea tells us about <span class="text-highlight">the movement of people</span> during the last place your maximum from research carried out by PS Bry. Marquez. <span class="text-highlight">23,000 years ago</span>, towards the end of the Old Stone Age, also known as the upper Paleolithic, <span class="text-highlight">the weather in Europe</span> and in many parts of the world <span class="text-highlight">took a turn for the worse</span>. Temperatures plummeted, rain levels fell and a massive ice sheet slowly advanced to cover most of northern Europe and stay there for the next few thousand years. We know that during this <span class="text-highlight">glacial period</span>, many animal and plant species sought shelter in Europe's three warmer southern peninsulas, Iberia, Italy, and the Balkans. But the question is, where did the people go? Archeological material recovered from this time period has shown that a large number of our <span class="text-highlight">ancestors</span> retreated to Franco Cantabria, an area covering <span class="text-highlight">the southwest of France</span> and <span class="text-highlight">the northeastern tip of Spain</span>. But was this the only area where people traveled to escape the worst of the weather? Let's go back to the <span class="text-highlight">growing ice sheet</span>. In order to grow, the ice mass had to take up water, causing sea levels to fall. At its maximum when the ice reached as far south as Germany, sea levels were up to 120 meters lower than today. That's approximately the same height as the London Eye. As a result, areas of the shallow sea became exposed and Europe's shape was very different from the one we recognized. It could be that humans lived on these exposed shores during the Paleolithic, but we have <span class="text-highlight">no evidence of their settlements</span> because it's now all <span class="text-highlight">underwater</span>.`,
     solution: `The lecturer talked about how animal bones found in an island cave tells us about the movement of people. She firstly introduced that 23,000 years ago the weather in Europe took a turn for the worse. In addition, she indicated our ancestors retreated to the southwest of France and the northeastern tip of Spain. Finally, she emphasized that we have no evidence of their settlements because it's now all underwater _(70 words)_`,
     keywords: [],
-    mainIdeas: [
-     
-    ],
+    mainIdeas: [],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-58.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=YUc2Q8cGPwBmlVhRyRJq%2BXj6II5F%2BGneAtpXlrsiq9fsZLsB3ZLMgqbWmV8VhEUrUGzgbaQQS0MpUjJZRdZ4VlRHCqUifsZcthtPS7sk%2FI8MT%2BhdnF6k3CiJsjNynZa%2FwrZZO3fOodb94BXPTOgKW46W6H%2F9o%2F%2BSsIer7CKyeCk08Ot2t4Q4GusmZfE9aVpPbsokhpGv9d5%2FDz07aU6xeIpvsZk3zHOHW5k2tp3V%2BhylxUNlwE1hIEqvIJZ5%2FO5l5%2FO5M3q0EhtfWumKg6DauF4qflPTQXUG8BJZkM7xViPy4S9iGFNWrdBhMl%2B0cp5Gvv8dskT5VJU9VHWBLwaKEg%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sst156/original/5e2dbcea20ce27fbb3fb6684d0c1136f/sst156.mp3?1572433549",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sst156/original/5e2dbcea20ce27fbb3fb6684d0c1136f/sst156.mp3?1572433549",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -2184,7 +2183,8 @@ Semantic noise doesn’t involve sound but rather <span class="text-highlight">a
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-103.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=eY0%2FqnUd512ZIIMzY5ut8AEQexXI6yoYI7nlesXyRB04IB%2BSetCC5wFFx%2Fexi67t%2BTxiKPBVSBzqrZPAyYhDYbFZsMsO6kEDDdfaz296IxIEVf6Lo26T8p%2BEp3Ev44bjESxzNGzpzDCWpZ0c7fy%2BpDaTkAQqYZJf2OymkyWAACPZw7tG5fQX40rWWEcLi%2BjaJ%2BOiIXw52zEmlpmUGhPnN4AS2CxpBsh0OTZc4rsoYh9Uz3zyA%2B9I%2FttHRt0VPpH81IA31a64JJ2kNmjndIlRiJQ%2B8uKz83jCYUz3LQ%2FC4JdnFXQKEuoGThYz2yewRe%2F4e0FnRtAUCM%2Fmnh%2Bvgqf9cg%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/177/original/00c4be8a7d8c94e8ad4cdde12939ac86/177.mp3?1571064990",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/177/original/00c4be8a7d8c94e8ad4cdde12939ac86/177.mp3?1571064990",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -2201,7 +2201,8 @@ Semantic noise doesn’t involve sound but rather <span class="text-highlight">a
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-104.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=H8ySWFMlV0eDVyFKQZvnwKPc6O%2FkwrVDj%2BQsLmLYpnL506heeV82bglHKBEHyLtN5MPyPc13r1mmyhkS1M5IN9sjlLt2QTaK3yXHZi2vAKjgQVkcLZz0hq%2FOnA7F7AblVFSaXuDRL6fOV2RwO8JSkF8Zw4zCwokn2J3A6vG32lpmCJXQb4T14KKOiUTomsX1QTBTZu4vKv59ZxuBSj6bA2IfHJmUf02W6eql9ui7aGp%2FxNYYPFWvos3QXQHTtuEMim1XYa5UIVuyvSMIad25oEYkUW%2Br6fbK6OKSIBZ6c0WOSROO3R8L9ZrFlazfbZFQjp%2FlEuneVGTbD6IdsTG1pQ%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Globalization_and_detraditionalization/original/46cf8f2885f47a966b2d44fed6ab5633/SST_Globalization_and_detraditionalization.mp3?1551944082",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Globalization_and_detraditionalization/original/46cf8f2885f47a966b2d44fed6ab5633/SST_Globalization_and_detraditionalization.mp3?1551944082",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -2251,7 +2252,8 @@ Semantic noise doesn’t involve sound but rather <span class="text-highlight">a
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fius26bgr3re4kfj5q50m3p-107.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=XhRtE8sQAzRftFqE3Hbtm8YlpxF72OdCsWzTqKan0S7ES6H2XIyWS3mr4twZ76HcgVYMaqXU6C7BZZSmUHoDCIoHkY1T1siWBtUrLfYZ64uAouyxj9RbuQovH6F5KBjhLsVwonGMJWrl8%2BDw9vaKo204EnwWulxagqGdnjD1l%2FTqlqScVT1eJ36VwnX4C190HpCDwU5FKKj9fm%2Ba944Zmce5TAjRiIinsdGApZMyYdWUDelD8Ap9i2WSv6KHMuydW9r%2Bu51bG%2BViDXR53dCCERgflXZ4Bi3Yg2AnWlwCWc5wLfR%2BXjYgM0vy2oIZ1wZZ6noilJb9Touj0%2FMGzTPFcg%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/fish_dwell/original/4970a6f71e0bffca98deff6af319c4d1/fish_dwell.mp3",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/fish_dwell/original/4970a6f71e0bffca98deff6af319c4d1/fish_dwell.mp3",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -2268,7 +2270,8 @@ Semantic noise doesn’t involve sound but rather <span class="text-highlight">a
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fje8wpz3ebqgznr66zmgwkl-108.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=faSVqnDcmaXU9ReX5IYR%2BxbtnF9NbvJWK97CgLkUkkyfAdOVUxDBysKPo4RSOlcFw5mOWRSdoNnOL29qUkwZuGHyiEfY4fqf5QtW3hA%2FEhWGXuueGfInlxisTcYhv%2BV2tzguMocC%2FibtKgOUJqBQntHTxh7OeWwXoTRhO%2FNoNGPUQg4V8C7RASigJ%2F0Sbx%2BP9mMK7C0v%2F5wQgweHRrIjM8d1C1edGPmJIuNDMwXfz3PcQPe9M%2Btf1L%2BnC5wioLW9mTY3jLxYmthu5b8h%2BPhi9dUbM1%2BxfRveypZte4Lpct2sIKIPLjC4LckxSupY7sJZn7KESf4RH20OUdncdqqGFA%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/2bdea36f0a637d4ae813/original/09792be6ac76f8c901e2e81376a59dd2/2bdea36f0a637d4ae813.mp3?1571707170",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/2bdea36f0a637d4ae813/original/09792be6ac76f8c901e2e81376a59dd2/2bdea36f0a637d4ae813.mp3?1571707170",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -2285,7 +2288,8 @@ Semantic noise doesn’t involve sound but rather <span class="text-highlight">a
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-109.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Y%2FAxh3P1IACr%2B%2BzIMqxxMij1LN0gvXFun5CcnIGC%2B16PIjt5pqNQoKbpUBh%2Fx%2BXRaiVkfViF4UVxmQbERnujuG0DKrEjEbxg8%2Bza3L1X%2BpxxsrzF6lcqM7n91KJeR3DIUIU%2FRmZSYj9t%2FYQp5sgdvSOaGvqvZUbkQWuSexujjgQexdGUHADl%2BUK%2FBC0YlUkQOc0hhEyvBa4EM23KlztNeR6AjDtVtJgNrM%2FEsajBfUV6uHuOrItSgXhbMmotp8PuruFoJZZN8UyUZd%2B37OQxppOfPEGQeHF4PGBNIojkQnlEW7mzhwuf32V9%2FQLsao07UEdrly55ujgdAB4JSBKnPQ%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sociologist/original/a8525eb6ef245bd66e340bcb7d4e8c70/sociologist.mp3",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sociologist/original/a8525eb6ef245bd66e340bcb7d4e8c70/sociologist.mp3",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -2302,7 +2306,8 @@ Semantic noise doesn’t involve sound but rather <span class="text-highlight">a
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-110.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Qp8007a7U8ypTMdjqvCYBMQ5X4UEImpxRaflIg8m5NWoYRolvXYJvfNxGSrCAS0q6amWL9aJfsPQ7NEAZMdrxEIorMDTq%2BTOdAb1MYBT7LULVqFVdy5Qx2Z4Z%2BFlv0rQHBtOdajnRARiSuZQZsSzMtytEoJyPUDLAi08qHnJJKzyB50CTZVeqoVfiSTXFy6%2FIltxZAvtAlPJSpl6hskl24SjO%2FBTbYPxEeVd%2Fi%2BRwTUrk9H0prVGqxjLZxnzGT5AJIgOeHjhITPP3AF4DoxUbE16lLxrCX5uoMlxVEx7KZ5fr3vmCJnK%2B0m0RPMDblseVh1C5oSHv7sQGWyoCMGI%2Bw%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_25/original/2e1ef1f5b1da8f8fe6f2d69b0300cd4c/SST_25.mp3",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_25/original/2e1ef1f5b1da8f8fe6f2d69b0300cd4c/SST_25.mp3",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -2319,7 +2324,8 @@ Semantic noise doesn’t involve sound but rather <span class="text-highlight">a
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-111.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=d1eJITyGGuvZt2ZIh1gBaVFj%2BU%2B05XJ%2B1C1wXTkGzPWvOIkffwfJY3IDCfn4sbqlGBYrEzROU9JdjiN2nV%2BjsxIIXF0ts%2Fx2VuFGxXKj4Ko7Kl%2FZzkhPE4ZLlUD4mVMmWK%2BY5drDoNkwJpEO6Ae07lf1%2BnHeXARwSdDwciiJtDYK9lQMp9QjG%2Ffu%2B9kfvkBVV3Z7AD1D5m8TvOpOc0Wlsc8ljXL7XLuFGgX71tlAG8zEc%2B1%2FJ900mQb%2BP6vzbJ53Bm80q0AojGicGQusToGKaux5IbyC5%2FuSyORjUa51Y3IOikmqvI70%2BvY0QF3eFG0l%2BAjP3nHVASGfERpmompzog%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Citizenship_curriculum/original/191f0011c27c30dc39abb8f7cdbe5158/SST_Citizenship_curriculum.mp3?1551942579",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Citizenship_curriculum/original/191f0011c27c30dc39abb8f7cdbe5158/SST_Citizenship_curriculum.mp3?1551942579",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -2336,7 +2342,8 @@ Semantic noise doesn’t involve sound but rather <span class="text-highlight">a
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-112.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Okp6nl9%2Bs77r4j3nYwDSfPpVLLXBVvHloChDN%2FB907B4yPZaRLkR5GXZ7s3vW0OnwB8goLB6pM%2B%2BWVKVf%2B2QV7%2BfYXUlZT7hBARcDqqp5XICHHK4MbDce%2Bib5gzpyib8ij8PtqGfKK6%2FyEMgWpeD%2FFxy5mWYnXahwhysIYI9rJZT58CBERYVAj7Csmaqc6q%2Fade41vjln0Ah6wOOicd2GMEbaiKX2W2ivSgy6D8Gq21aUOztmMvGttpRDjxtpDwYT4Z1OFOAmyHt9jS4crYKlx8Q7hXb%2F0WNZFTGXKCZJo9CK4OSFuKFJMp6kuhNKA0WNPUx4Nj0jwScmXA84ufbdg%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_97/original/82cd20c1389a8b1913239ef7d19d7d25/SST_97.mp3?1557286839",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_97/original/82cd20c1389a8b1913239ef7d19d7d25/SST_97.mp3?1557286839",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -2353,7 +2360,8 @@ Semantic noise doesn’t involve sound but rather <span class="text-highlight">a
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-113.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=hnnPm1WgQiKX9fCiE6APTo5QXUWxbY%2BPhHN4ENJ0EcAolfeAQBXm3b1TMVqdd6232ECl4dfGZm135Wlfl9ukXMavn5SkXyp9VeM3FWchomCYyrZhveYmz7MEbdWOaTm2zVb1pQDLJDUC9YZYUIOZEd0BdetcIPt16fOghcLP4oWZRMuXtdlZX43LxgOB1jhoeMu5M1L3pxFSUwwQ0IvdOmWRkgKQT3dfK5o5uSIFsBJcNx%2FPgf%2F7Ae9I4jUs8EYNz7xmTpvchIMvCj5HApH%2FbUtwwEK4ugbbedt0UYmPuJk4wm4av%2BpWGWHbzMVrYwStm090RRXDu8s21waPcC%2Bi%2Bw%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sst46/original/2b320891ef97a7c70f0be93b74a22f44/sst46.mp3",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sst46/original/2b320891ef97a7c70f0be93b74a22f44/sst46.mp3",
     level: "medium",
     times: 1,
     priority: "normal",
