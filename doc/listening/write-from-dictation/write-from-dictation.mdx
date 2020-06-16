@@ -1,0 +1,47 @@
+---
+name: Write From Dictation
+menu: Write From Dictation
+route: /listening/all-write-from-dictation
+---
+
+import WriteFromDictationDataFrom0To100 from "./WriteFromDictationDataFrom0To100"
+import WriteFromDictationDataFrom101To200 from "./WriteFromDictationDataFrom101To200"
+import WriteFromDictationDataFrom201To300 from "./WriteFromDictationDataFrom201To300"
+import WriteFromDictationDataFrom301To400 from "./WriteFromDictationDataFrom301To400"
+import WriteFromDictationDataFrom401To500 from "./WriteFromDictationDataFrom401To500"
+import WriteFromDictationAll from "../../components/WriteFromDictationAll.js"
+
+# All Write from dictation
+
+
+
+<WriteFromDictationAll
+  start={1}
+  total={100}
+  data={WriteFromDictationDataFrom0To100}
+/>
+
+<WriteFromDictationAll
+  start={101}
+  total={100}
+  data={WriteFromDictationDataFrom101To200}
+/>
+
+
+<WriteFromDictationAll
+  start={201}
+  total={100}
+  data={WriteFromDictationDataFrom201To300}
+/>
+
+<WriteFromDictationAll
+  start={301}
+  total={100}
+  data={WriteFromDictationDataFrom301To400}
+/>
+
+<WriteFromDictationAll
+  start={401}
+  total={100}
+  data={WriteFromDictationDataFrom401To500}
+/>
