@@ -1087,14 +1087,18 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [],
+    newwords: [
+      "self-preservation /,self prezə:'vei∫n/ = sự thúc bách tự nhiên để sinh tồn",
+      "troublesome = quấy rầy, khó chịu",
+      "indecisive /,indi'saisiv/ (adj) = do dự; lưỡng lự; không quả quyết; không dứt khoát != decisive",
+    ],
   },
 
   {
     id: 50,
-    topic: "The city of Rome (or ",
+    topic: "The city of Rome",
     transcript: `But you can see from the relatively crooked and narrow streets of the city of Rome as they look from above today. 
-    <span class="text-highlight">The city grew in a fairly ad hoc way</span>. <span class="text-highlight">It wasn’t planned</span> all at once. It just grew up over time, beginning in the eighth century BC. Now this is interesting. Because what we know about the Romans is when they were left to their own devices and they could <span class="text-highlight">build a city from scratch</span> they didn’t let it grow in an ad hoc way. They, they structured it in a, in a very care-, very <span class="text-highlight">methodical way</span>.  that was <span class="text-highlight">basically based on military strategy</span>, <span class="text-highlight">military planning</span>. The Romans they could not have conquered the world without obviously having <span class="text-highlight">a masterful military enterprise</span>. And they everywhere they went on their various <span class="text-highlight">campaigns</span>, their various military campaigns., they would build, <span class="text-highlight">build camps</span> and those camps were always laid out in a very geometric plan along a grid, usually square or rectangular. So when we begin to see the Romans building their ideal Roman city, they turn to that so-called cestrum, or military camp design, and they build their cities that way.</p>`,
+    <span class="text-highlight">The city grew in a fairly ad hoc way</span>. <span class="text-highlight">It wasn’t planned</span> all at once. It just grew up over time, beginning in the eighth century BC. Now this is interesting. Because what we know about the Romans is when they were left to their own devices and they could <span class="text-highlight">build a city from scratch</span> they didn’t let it grow in an ad hoc way. They, they structured it in a, in a very care, very <span class="text-highlight">methodical way</span>.  that was <span class="text-highlight">basically based on military strategy</span>, <span class="text-highlight">military planning</span>. The Romans they could not have conquered the world without obviously having <span class="text-highlight">a masterful military enterprise</span>. And they everywhere they went on their various <span class="text-highlight">campaigns</span>, their various military campaigns., they would build, <span class="text-highlight">build camps</span> and those camps were always laid out in a very geometric plan along a grid, usually square or rectangular. So when we begin to see the Romans building their ideal Roman city, they turn to that so-called cestrum, or military camp design, and they build their cities that way.</p>`,
     solution: `The lecturer talked about how Romans could build a city from scratch. He firstly indicated that the city grew in a fairly ad hoc way as it was not planned all at once. Additionally, the Romans structured it in a very methodical way that was basically based on military strategy and military planning. He finally concluded that the Romans could conquer the world thanks to having a masterful military enterprise. _(70 words)_`,
     keywords: [],
     mainIdeas: [
@@ -1111,7 +1115,10 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [],
+    newwords: [
+      "relatively crooked and narrow streets = những con đường tương đối quanh co và hẹp",
+      "ad hoc /'æd'hɔk/ = không dự tính trước"
+    ],
   },
 
   {
@@ -1132,7 +1139,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [],
+    newwords: ["genuine /'dʒenjuin/ = thật, chính cống, xác thực"],
   },
 
   {
@@ -1150,7 +1157,9 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [],
+    newwords: [
+      "notions of pragmatism /'prægmətizəm/ =  quan niệm về chủ nghĩa thực dụng",
+    ],
   },
 
   {
@@ -1272,7 +1281,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     mainIdeas: [],
     fillInTheBlank: "",
     audio:
-      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-58.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=YUc2Q8cGPwBmlVhRyRJq%2BXj6II5F%2BGneAtpXlrsiq9fsZLsB3ZLMgqbWmV8VhEUrUGzgbaQQS0MpUjJZRdZ4VlRHCqUifsZcthtPS7sk%2FI8MT%2BhdnF6k3CiJsjNynZa%2FwrZZO3fOodb94BXPTOgKW46W6H%2F9o%2F%2BSsIer7CKyeCk08Ot2t4Q4GusmZfE9aVpPbsokhpGv9d5%2FDz07aU6xeIpvsZk3zHOHW5k2tp3V%2BhylxUNlwE1hIEqvIJZ5%2FO5l5%2FO5M3q0EhtfWumKg6DauF4qflPTQXUG8BJZkM7xViPy4S9iGFNWrdBhMl%2B0cp5Gvv8dskT5VJU9VHWBLwaKEg%3D%3D",
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-59.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=hCTy%2FqRDKaCLBsOG9yRHA0rpccX607nDxqVRCw57ETw%2FVt%2FVtjNHWg52ECtwTk%2F2ncfY5g7lY%2BV5q%2BX7fObJ3%2BgY7OVHMVyh1afFwnjZ1yRKRY7%2BlLc4R%2BqnSggLIpwxkjKU410KwG%2BZWFApm09svErTqCzVN1hB453jx%2BdQnQiLJQsjzQ3TPsPwq3fEEW3CSDLt%2FKnGnVb6pcVG31QfsRGZDCpXiqBKKl8YVVdBy6usYok6os1KF%2F7Ge5QSuptM4uHKUK71xBN4Vi%2Bd5m6LvW68Sh%2Fl3wuCK738YQoNJHDRY45gBCmIOYH5AqaYcV3gSfRhPhEpqoKCDT0ZjfJG0g%3D%3D",
     audio2:
       "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sst156/original/5e2dbcea20ce27fbb3fb6684d0c1136f/sst156.mp3?1572433549",
     level: "medium",
