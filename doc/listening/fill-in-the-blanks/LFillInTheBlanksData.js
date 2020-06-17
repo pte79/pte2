@@ -242,5 +242,145 @@ const LFillInTheBlanksData = [
     priority: "normal",
     newwords: [],
   },
+
+  {
+    id: 21,
+    transcript: `There is little <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>doubt</span> that genetically modified crops have the potential to offer great benefits to the world, yet they continue to be <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>opposed</span> by many people, even though any risks attached to their use have not been clearly established. The reasons seem to be a deep <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>distrust</span> of the motives of large agricultural companies, along with a <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>generalized</span> feeling that it’s always dangerous to, as some would put it, play around with nature.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-21.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=KgV8TE6k2WWdcobhMmEi%2B7kWGm2eHK4HZi8ZtINFDoeQlyX6TsejEQhS4at%2F5s9QJTWqAg5JhHhBzzgWm%2Bi%2FgIbrA3nrnPAct%2FaR7pylt5Sl%2BLWaG6l24Vf7n5EKEB6XAttdNrGP2PtLMwN%2FZWIILpbKK0bBzeqS99WClWt9wK90Kw%2F6T%2F07ZScgQ5v7hjdZWKamVmLFrVLThUrLrU1SJqFzNO2Jqc%2BrmQUndscMWAfXINZM5tVsI9C3Ww1JvtPNCtZVhLJ2IKf3iTrRhGFGO2Ww2U%2B83MugU0gysAmunbYICW0o3o3llqemSevCnElED25ak%2BJWPRTigJN%2FfXH%2BTA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 22,
+    transcript: `For many years the favorite horror story about <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>abrupt</span> climate change was that a shift in ocean currents could <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>radically</span> cool Europe’s climate. These currents, called the overturning <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>circulation</span>, bring warm water and warm temperatures north from the equator to Europe, Susan Loosier, an <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>oceanographer</span> at Duke University, says scientists have long worried that this ocean circulation could be disrupted.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-22.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=LqOVFrhV0Sc4VLcO%2FOVKvqjG2mAa71mqK8nGoZg7MqJfCsa3SKVCmwdt4oMiqZ9sLqs6JKp0dd4rfdW5atukuRJOEd4BeKmaqr0sJSGvCripvsWZAWuBoaNX2kwA%2FsiOaAQhFoCK0Nm1SbzfK3wYueE7RAWitjeC0wlnhrPnO87X8KQjBuktjvj16agQYAznjj6A7KML3V6K%2B2gv%2F4v9Sd5Uysq3Uq%2BRYKk7%2Falf6pEiIPVFdzdrJH6PDLHawDCMXUGrwIVaJ9cIZEBZPTl5vCbiVwjc%2Bn4KyR4iil0FtisTDdiv3g04soU3UCTLWuuhKxf2TZvRwMcbgq1OLj%2FHaQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "radically /'rædikli/ =  cơ bản, tận gốc; hoàn toàn; triệt để",
+      "abrupt /[ə'brʌpt]/ = bất ngờ, đột ngột; vội vã"
+    ],
+  },
+
+  {
+    id: 23,
+    transcript: `Higher interest rates have knocked investors <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>confidence</span> in putting their money into property, evidence suggests. The <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>insurance</span> company Standard Life says that the rate rises since last summer have led more people to question the wisdom of property <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>investment</span>.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-23.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=fL5SLbQ%2BPaH5JAO5etmeqZ0qYa%2Fodwkkp5gmWzouN78JRf%2F5QIuoJGnbspGc0hNgWHMzh09DDvwlFsg9wnn8lzBlb8vM7lUBpr%2BW0UhZ%2BnT6SG4IC2sa%2B6GD5%2B3ce4MsfODpO25mDjaU10Q3l49LhICjXOFBWm3ZFvpxQSHB2Ei8%2BCuE3eyTjsgy6bTjRcRWkwkJSd5Ua%2B7BmGSIeZW0LJOlSo67RdrWWPqwvuOevlcW0fIqRb13Ge4VNRvDZOht4kPkNjqi9iWoIKCBPu%2BWksrOQ6nZDhcNHhknPREqpy2JVgACVXC3LibYQ3Ei%2B5akATGdH30aViWn8LepHVuQNQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      
+    ],
+  },
+
+  {
+    id: 24,
+    transcript: `Well, basically just hitchhiking on the point. If you look at the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>customers</span> of The Wall Street Journal, the basically financial news, financial people here are people who rely on sound, valid and <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>timely</span> data to make investment decisions. They look at things and track trends in the industry, worrying about things like profit maximization. If they even <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>suspected</span> that political issues or ideological issues from the editorial page, we're going to start affecting the flow of <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>valid</span> financial information. If they even thought that ideological issues were going to affect their ability to understand investments and make sound decisions, they get very upset.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-24.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=fRTJhBQLnHPmu32Iy1dJsjp05SyRcKuDiiOXi0D%2BhV2ahmeufPwycxrRCFUfkfeCuiPZtG5YChSGjra9Gvgk8pyQDw5ZZKKYoHGpjPXvB529IRjBKRvuF4M%2FsOJPm9uAARuboabovYe7Xecnna7SjS5papwV66iOfc%2BuFVKhjTCc7XTLL8BQGUQ7S3TTr%2Fo%2BDdgzyY55ZTOYO1mPgUWOaku9gM3HHU2InNai8DCz5WZshAGaAR8Rb7Vjl3pjtITGuAP%2FYuAAyvmtNB0U450hFipeHpeDyhrSrIsuWtxiWvwqX%2BWINsQp0oFYMEl9gEvWuHLBPIsRY0imJ%2FnWvHK0iQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "suspect /sə'spekt/ =  nghi ngờ; hoài nghi; ngờ vực",
+    ],
+  },
+
+  {
+    id: 25,
+    transcript: `Finally, we take a look at how to mix an unmixed <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>liquid</span> at the flick of a switch. Sandrine tells us more. Oil and water don't usually mix, but the new chemical sensitive to light has been added here to <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>blend</span> them together just as easily as it brought them together, it can also separate them out again. When <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>exposed</span> to UV light, the chemical changes its structure and become soluble in water. This causes two layers to form with the oil floating on top of the water chemical combo. This method should be cheaper than the current alternative which involves using high energy centrifuges.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-25.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=RXhoSR%2BJ8n2QhwxHLOCYE8MER2jhmz%2FxzX31%2FavHH9d1PKQhT%2B6PCOcuS4h5Os1FY4k%2FtQ%2Fq12Mhnerq%2F1FCDWybOuChx4P53fsRckrGXwdE%2BcAmwspFpIw52m7qkmzEY5uWBGx%2Fgo%2BSQwhUi4c5zLgCMlq%2BU9VpyYCh91McczK6mDpCpI0%2BjFlPMSedYqJZAPA5Y07xup1s79JGdmjiO2F6UolZ9NlUypf7TYewKW4nbKq4qv9BPAATq3ZaQmA6hmR%2FBawhRhDurp2zcvPpI6%2Fv%2FitAtsyMfdkxARDZv3OQ0mDAe%2FztTkjIxIAyQCuS%2FouoF%2BfQyIci8Fxu3Upd9Q%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "blend =  pha trộn",
+      "expose = phơi ra"
+    ],
+  },
+
+  {
+    id: 26,
+    transcript: `Working together, they figured out that if the government was going to <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>propose</span> some kinds of significant tax increases, which is a good <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>strategy</span>, quite me to at least tie something like <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>getting</span> something for those big tax breaks, not seeing any results. So the result of that was in the <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>package</span> of legislation that included the tax increases. There was awesome information to have significant <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>expansion</span> of coverage families where they can buy into their private <input autocomplete="off" type="text" class="blank" id="blank5"> <span class='answer hidden'>insurance</span>.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-26.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=J4JzRIcKPaaVMhUJfqXgAkEHfi8U42MhsYlCLaZQLTKqffaGSUogwpk42EAv2xeYwfsiIIrLTKx6Zt%2BIuBVaIN0Uu2U3h5BAwWdxSuneFHFI28nGYDJGWZ%2BY6bvd436uUs6Ay%2FgYRBHWBFa%2FVgq78LyZJzVd2fYoGRpdGPcvnFseQFU%2FTm5ZrdABnmVhRdon%2BbGjWmOZbAc8RDt4rRFR%2BuxOpLzUkRmvxy%2FWdkv10TG5KuDgvWMTaK%2FPamTmCbJOPOzyWWzt6%2BZ8kRrfFtSRkrdOdv5%2FeV4M%2F37KgkIF75rcZcQs3XpBZZIPpTJGBE56mYxm9dL02xXFr72tkGUPrg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    
+    ],
+  },
+
+  {
+    id: 27,
+    transcript: `Well in 2004 we integrated ticketing in South East Queensland, so we <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>introduced</span> a paper ticket that allowed you to travel access all the three <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>modes</span> in South East Queensland, so bus, train and <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>ferry</span>, and the second stage of integrated ticketing is the introduction of a Smart card, and the Smart Card will enable people to <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>store</span> value so to put value on the card, and then to use the card for <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>travelling</span> around the system.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-27.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=T7SwHtfvXf7t%2FCzTVKetW7eGTm68G%2B869C9LCBzjmcLYEtnZHReYlPY6TrM0ox359U9W5jskGH%2BTWasFlGD5M4ZlBY25IgnfhpZnj2rwUIpMRk36W5XvdhVZiNsngZpPxwT%2BvFhMKdU4%2FMQfq9Ysi7eQmcrD%2ByI%2BrQFffIrNYnwmR1DEKCHtr9tCbGJav8mOgMVf3UmHFDqAVnlhYZvAYY3Ety9FyiDGyTzNAlLqaYWo%2B59ZBQhmQFZTd2N2XelryAIbxCt4FCsY8KI9%2BZEMNzmIHDlU1OLGHzXL2q7SGj4B%2BZVN1yJxRxaOlur0VEBxKBFNTLYuoFlzmTyrTKJoQg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    
+    ],
+  },
+
+  {
+    id: 28,
+    transcript: `To begin with, you should be standing in the main <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>floor</span> of the British Library. British Library situated on the Euston road next to some pipe crustacean press, in the foyer to the left of the <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>information</span> desk. It was a large white staircase. Follow this up towards the gallery at the top of the <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>stairs</span>, pause and look to your left for attention.<br>This is Robert Cotton, born in 1570, and died in 1631. Cotton was a member of parliament but he's mainly known as a great antiquarian <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>collector</span> of manuscripts. It is the covenant we have a great depth and the survival of many English manuscripts. Throughout this tour, we will see his <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>legacy</span>.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-28.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=JM6O1Yc%2FuGBiHMVR4mSnGwGz8wn70AFaad62BO5XId9s9eBdeM4eU8U92Yskl2HtvB39%2BewiH5zS8RXywRAkKraiQ%2FLV0jLk1wMRdhSg4x7nvHcjkOpdxTK8hTW5GNg2rSxGWwhW3hFhDMkzCgofL1Xxu3GaPa7K8%2BWbDMlAudZpSNSgeY8nGBZ1wlf4k%2FidcfcMD4Qv7yHum0WmG6Baf7Sggg%2FQWy2H21dJidvIu08yTxukxhH3ploKaZCiDgO7c2pWowZloDCGhNxgoVSsf7u7vAgNxh8rzNVcR8ASfz9NUvx3hqY1OG7fOlhy8BX0aILjHffggvj%2Bo8Jin0LYVg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "antiquarian collector = nhà sưu tầm cổ vật"
+    ],
+  },
+
+  {
+    id: 29,
+    transcript: `I think it’s really important for young people not to feel <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>restricted</span> in their choices and also to be aware of the choices that are available to them and obviously the media has an incredibly important role to play in that in letting people know the great range of science that is out there and is potentially a <input autocomplete="off" type="text" class="blank" id="blank1"><span class='answer hidden'>career</span>. I think we tend to talk about science as this big kind of monolith but of course actually it's this beautiful multi-faceted thing, you know, there’s almost something for everybody there. There are so many different aspects of it that really attract lots of different types of <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>personality</span> I think and, you know, somebody that’s going to be attracted to working in <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>biology</span> might be a very different person from somebody who’s attracted to engineering. I suppose it’s about knowing the breadth of opportunities that are out there and so anything that universities and broadcast media can do to make sure that those opportunities are <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>visible</span> I think is really important.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-29.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=bFwR1xQ4MusS3TvLEoJ9%2F0AKSKcHH6wCU951l7YX0E9HaVAgfLLRiX5z9OiMURGn8W74nUb3u8MC1%2FWEyKLG8CDKtM87cINPkgYA49lIQRlaq4XK3zhKSmnsW5hGaxNieuOSEIgIQrckC%2BLDPaEzCg4ofCI%2BpfUlrpi1GvMO%2BDtbT0WMMzf4%2BISxmpTNaAB4Lui%2F4zbpMxDmgalm8DrGYzIM%2BOpCBgIh0RzQDQZtLHo9HQzq8sNLBH%2BPD0UWOXCYZx8MVbNHKvqhgY%2Bwl%2B92pEVZzknybAorzDNfQ%2BjEhZ1xxXh9dFJmImhIO4dgOsinour%2Fju6adR0m8yiEdG7WCg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      
+    ],
+  },
+
+  {
+    id: 30,
+    transcript: `Why do we need more entrepreneurs right now? The entrepreneurs who create and run our businesses, who play by the rules, are in fact <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>critical</span> to our success as a nation. We need them especially today. First, we need them to solve the current crisis. Business, not government, will end this <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>recession</span>. Government must help by creating fair rules, sound monetary policy, and by protecting our fellow citizens in periods where they are <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>jobless</span>. But the government has to stand to the side and let new entrepreneurial firms challenge companies that can no longer compete. We have to make way for the new entrepreneurial firms that will push us to frontiers of <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>innovation</span>.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-30.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=edrAElJ45rOa%2FHIe5osCspB7JEa5yRVegjBMwrBSL17q06o9WDwyD3vSBgtGagPuIa%2FGrTR7My2zngCIwC5%2B87Vn0XI%2FM6VeYNPGMRwfWnMYx9fqkP2ikgFDpmXwjbK2en15uQgwWGHNqqXExY5xgFDOgTGR5Jqh3OCLatoNIh%2FFlEMdA6tldukVkxxtSTpSYFwL3eujDKfa3Q4FKRY0Vw9UAEJ%2Fxe%2Fb%2F9vpy84BOLcbkkUykvugnTjAgPe2jIBNSLsVYfJxVcOw%2F1IinTZZ3qM4aGUnENjfX8cSTHFHU%2BHR53XK5FrLER7V14qP2LiZZ8nU2VwMJWdP82caig184g%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "recession = phơi ra"
+    ],
+  },
 ]
 export default LFillInTheBlanksData
