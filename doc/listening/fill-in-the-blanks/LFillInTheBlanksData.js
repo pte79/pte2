@@ -382,5 +382,78 @@ const LFillInTheBlanksData = [
       "recession = phơi ra"
     ],
   },
+
+  {
+    id: 31,
+    transcript: `**Christine Jones:** Rebuilding carbon-rich agricultural soils is the only real productive, <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>permanent</span> solution to taking excess carbon dioxide from the atmosphere.<br/><br/> **Pip Courtney:** She's <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>frustrated</span> that scientists and politicians don't see the same opportunities she sees.<br/><br/> **Christine Jones:** This year Australia will <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>emit</span> just over 600 million tonnes of carbon. We can sequester 685 million tonnes of carbon by <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>increasing</span> soil carbon by half a percent on only 2% of the farms. If we increased it on all of the farms, we could sequester the <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>whole</span> world's emissions of carbon.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-31.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=Tl3wHo2Qhabfbg0IC3%2FnPkBHrydgw93uqZl4DeQQMawwddNW1y3E8wqbsd%2BTLbKuIrkfG9msjujRlC4aUhh2NwngFA4iRNonN8oG3I9t%2FAZjO40gpfwJS9ShGlctqv7uRRIzPkG9INSFy7A7TlT0crkH21Dg24ttpxC7qaYeY2soJKnMJ%2Bk16privMjlJVMuwLZVVPeEfNz6IRSLBontzGpmeqpcQXNroThXmtIgFCm0fIzVMV%2BeMOjDywH9XzkIxzV8MvHnZctgO1GXhPFaDeiv9AAnb2nEAhUh1TUicots3cnDMCkAI6TI%2BMZ4eOPTUA0W%2FueMq7hmLiN%2BOchRTg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "frustrated /frʌs'treitid/ = nản lòng, nản chí",
+      "sequester /si'kwestə/ (v) = để riêng ra, cô lập"
+    ],
+  },
+
+  {
+    id: 32,
+    transcript: `Finally we get a sneak peek of the world's largest interactive video installation that opens in London today. If you walk around Trafalgar Square in the next week video cameras linked up to a computerized surveillance system will be tracking your <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>every</span> move. Your location is transmitted into two <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>huge</span> video projectors lurking overhead. As you look down one of over 1,000 animated portraits could have here in your <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>shadow</span>. These videos were created by people from across the UK who were asked to film themselves for 3 minutes doing something that best <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>represents</span> them. The installation can project up to 14 portraits in the space at once. So if it attracts a crowd, you'll have to wait your turn to see a <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>face</span> pop out below.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-32.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=PDr0%2BxNR9Qs7CaSjbxPNPF%2BAPtbakykwSm7quA4QC0iRZ%2FW6EdrAAlvmlP6L4bkQfOdGwSO9%2Fe8DTjuAXj5PyV0Lvy1sTRK%2FznPd%2F%2FKtdz1Lg5ujraruIC8cwZ%2Fjnb22wXh9ymUogo3b%2Bn%2BMaN99W2T9ldGgtMhiRWrYog3tpBRsJ6bVguS63QncpEC6zvR3XSrVK%2B0hHld9mC5VyEmrWbsjfRJ8gmSzKWJbGbVRnUD6EuLvc%2FPcY63dLEmjvCAMqzFqYfKa4mpkGQWDFrH3x9KOOHMPpNQkJtn4jv7as5EeaIteW9LGIT3DtBwTyGfsXOMv2FIsrNlHh5miJjUSMQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "represent = miêu tả, hình dung"
+    ],
+  },
+
+  {
+    id: 33,
+    transcript: `An economist sees the world basically through a typical micro-economic <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>toolkit</span>. That involves things like thinking at the margin, rationality, opportunity cost, trade-offs – economists like any other <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>discipline</span> or dogma has its own jargon and its own rules and its own way of seeing the world. So basically economics, or economists in general tend to apply micro-economic <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>concepts</span> like that to explain the way humans behave and to make <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>predictions</span> about the future.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-33.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=X0n7fNn0dAjxhpietkhIc%2FQXblSikOnclDRDst3bwhrYOJcq2lAlcWfWo32I%2BAVhexKqB5W%2B0JUhpodDPpQCWFuGUJv0pR9NABnFbOuzfiZ%2BH1FMM8sY1Z4flFpO%2BBjT2Iw2Im9c%2BcdBsFC2aDZCl9YbDPHFQs47Tn5fNxmQpFLbYmVnvxZZtc4FncZiooxqu8QKeIfpmgryhuYNBuI1om9YbGhK9Xvb1FAbHLhSlBjxYbIgiR7b4MCc6N5DjvUbJUPBenJa9mTWB0kDjCYbQUBInAJvjtu1wZgR9Sk4s0WUJiEqBMoPhyNPcyk2l15sOUkoq8MSZPqt3IpmQNjtlw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    ],
+  },
+
+  {
+    id: 34,
+    transcript: `If sea levels continue to rise, eventually the property becomes <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>inundated</span> and the real value of the property, the vast bulk of its value will be in the value of the land which of course is then unusable. And that's of course not <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>insured</span> by property insurance. So at that point a lot of waterfront landowners and banks and other financial institutions that have lent money against the value of those <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>properties</span>, are going to find that they suffer very serious losses and it's not at all obvious at the moment who would <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>compensate</span> them.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-34.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=D%2Bd9jmx%2FTPkhCl7IvpuFE8uTfKAi6mituTY6mA%2BqUg3ZqfsqIBGn%2F%2BKx4nqI6UFPFRl9DYqnPkzX%2BlMn2LgWuNpqRPu69Vn8yADIX505rm5yQpOsXeOr%2Bla5HqJTFHwusF9oM9J9cdRW9RHnn%2BeWbqAsFRj%2BzvflxOUyS66XFFjkAp7e5JOKnXsNM7I2orCoUzXxq8ACg%2FNacAUhj46F18LMyj12skGLuzKgky2s4Hqn3Y9gN9WpSRsvh492MvBS0qZJMaRwqrsvM8T3kviv%2BZmWRgnN9fG7xR5BizigCIpX9q8zLYaTqbIbV7%2FJRVS47EXZ9WWVByQtGfZX2gppog%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "insure or ensure (v)= bảo hiểm",
+      "compensate /kɔmpenseit/ = đền bù, bồi thường",
+      "inundate /'inʌndeit/ (v) = tràn ngập"
+    ],
+  },
+
+  {
+    id: 35,
+    transcript: `It all started last <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>spring</span> when the Food and Drug Administration placed a black box warning on some popular anemia drugs. The labels <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>warn</span> against using the drugs in cancer patients with relatively mild anemia resulting from chemotherapy. The FDA says the drugs clearly shorten survival and speed the <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>progression</span> of cancer. In people with slightly worse anemia, the drugs might have the same <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>effects</span>. To Barry Straube, Medicare's chief medical officer, the message was clear.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-35.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=fap3Tr7bhnL4nvTHUARlMiNKnwzAciBYAnOKMMKLGMaS4HhY9VtrWL2H7J252RBjwpQsNh6Yh9s2Es5NzShcBdpEWl4xv1WGBBYf9OH%2Fosn6A6rrHVXfxLMRQ4UsTfhqZ7pDApUoRFUW39%2BmYUiCWY1HNgL4DqL76zgw7QwWn07PCIo8oc6%2F4JH373zHNGyqUHZA3orQptn%2FpHfFGgvKTpSTdSigxRe6rUQ84r0h5P%2FIAoJ9AuOa46J1PORfyZ9221JCBzyRVim6Ra6QEoUz3bVsX5AIsjBytSfC1F68kQd1uSkXvQEJsWaQuCK1ySTcnPWPX3WHmnUb9EtTQks%2FXQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "chemotherapy= hóa trị",
+      "anemia /ə'ni:miə/ = bệnh thiếu máu"
+    ],
+  },
 ]
 export default LFillInTheBlanksData
