@@ -1242,7 +1242,9 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     transcript: `What we know is that <span class="text-highlight">the impact</span> of <span class="text-highlight">the pandemic</span> will be <span class="text-highlight">catastrophic</span> if it is similar to what we had in 1918. In the United States, there has been <span class="text-highlight">an unprecedented amount of preparation</span> so far. It <span class="text-highlight">affects every aspect</span> of <span class="text-highlight">public health</span>. We have efforts for treatment efforts for better <span class="text-highlight">prevention</span>, <span class="text-highlight">clinical management</span>, <span class="text-highlight">communications</span>, the <span class="text-highlight">domestic and international responses</span>, and also efforts to try to prevent transmission within community. <span class="text-highlight">The federal government</span> has a <span class="text-highlight">tremendous amount of resources</span> that they have put into the <span class="text-highlight">development of the new antiviral drugs</span>, antiviral drugs stockpiles, development of new vaccines and manufacturing facilities for vaccines. So there's quite a lot that's happening in the United States. However, <span class="text-highlight">developing countries</span> do not have the <span class="text-highlight">level of resources</span> found in more <span class="text-highlight">developed countries</span>. That's the real challenge.`,
     solution: `The lecturer talked about the pandemic, whose impact will be catastrophic. He firstly indicated there has been an unprecedented amount of preparation, and it affects every aspect of public health. In addition, he indicated the federal government has a tremendous amount of resources to put into the development of the new antiviral drugs. Finally, he emphasized developing countries do not have the level of resources found in more developed countries _(70 words)_`,
     keywords: [],
-    mainIdeas: [],
+    mainIdeas: [
+
+    ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-57.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=GQcwhogI5%2BwlA%2FxUBW0cCvogJRx96wgNwZGYzp8FyTsFK%2BzUm7mOPZlYUxKZK1GilrKSrayciM2F97UAmMtj%2B4Tjn%2BmnDpPJb2bh3lsKxxMHGvlf92qHaQ9xnzYZueINb%2B5T%2BKdq0aJGY2K9haC%2FjLNfHvZnojmd5qlPrx81BKq4eHgaFyHK6Fnp5%2FKgnldsSsSIKfp0Nn7r3Qw4OGggoKJX4QnWM%2FHj5a9Zlcn%2Borbv2Ho0PSPTBcifN2a%2F4vVaDohxyPxMwKAmcU7WUHZJI9Es8TEZ3IYKG67AO6IDLqLr9HsnmVuj9Mqxh2mCXMomJA8U9pftOnwXeVhpKffIwA%3D%3D",
@@ -1251,7 +1253,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [],
+    newwords: ["catastrophic = tai nạn thảm khốc",],
   },
 
   {
@@ -1262,14 +1264,22 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     One of <span class="text-highlight">the main priorities</span> of this massive renovation was to <span class="text-highlight">connect all of the districts</span> together. If we think of Paris like a house, each district was its own room, existing essentially independently of the other districts. Napoleon III wanted it to be easier to travel between the most important districts and to create a sense of this being one unified city, not a series of independent neighborhoods. So Haussman created <span class="text-highlight">large avenues</span> that connected the districts. More than that, he made all the avenues look roughly the same. Buildings on a major avenue were required to be roughly the same height and style, and even had to use the same cream-colored stone for the façade. The result was to remove any local characteristics and create a uniform Paris. For the first time, the city had <span class="text-highlight">a specific look</span>, <span class="text-highlight">a style</span> that people began to <span class="text-highlight">associate</span> not with <span class="text-highlight">a district</span>, but with <span class="text-highlight">Paris itself</span>.`,
     solution: `The lecturer talked about cities, some of which are carefully planned, while others are less conscientiously designed. He firstly introduced that in 1853, Haussmann began the process of renovating Paris. In addition, he indicated that the main priority was to connect all of the districts. Finally, he emphasized that the city had a specific look, a style that people began to associate not with a district, but with Paris itself _(70 words)_`,
     keywords: [],
-    mainIdeas: [],
+    mainIdeas: [
+      `Some cities are **carefully planned**; Others are less **conscientiously designed**.`,
+      `In 1853, Haussmann began the process of **renovating** France's capital city: **bring light and air** into the central districts, improve the **sanitation and living** areas, and make Paris a more **modern, beautiful** city.`,
+      `One of the main priorities of this massive renovation was to **connect all of the districts together.**`,
+      `The city had a **specific look**, a **style** that people began to **associate** not with a district, but with Paris itself.`
+    ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-58.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=YUc2Q8cGPwBmlVhRyRJq%2BXj6II5F%2BGneAtpXlrsiq9fsZLsB3ZLMgqbWmV8VhEUrUGzgbaQQS0MpUjJZRdZ4VlRHCqUifsZcthtPS7sk%2FI8MT%2BhdnF6k3CiJsjNynZa%2FwrZZO3fOodb94BXPTOgKW46W6H%2F9o%2F%2BSsIer7CKyeCk08Ot2t4Q4GusmZfE9aVpPbsokhpGv9d5%2FDz07aU6xeIpvsZk3zHOHW5k2tp3V%2BhylxUNlwE1hIEqvIJZ5%2FO5l5%2FO5M3q0EhtfWumKg6DauF4qflPTQXUG8BJZkM7xViPy4S9iGFNWrdBhMl%2B0cp5Gvv8dskT5VJU9VHWBLwaKEg%3D%3D",
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [],
+    newwords: [
+      "conscientiously /,kɔnsi'en∫əsli/= chu toàn, tận tình",
+      "sanitation /,sæni'tei∫n/ = điều kiện vệ sinh"
+    ],
   },
 
   {
@@ -1278,7 +1288,12 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     transcript: `In this video we're going to find out how <span class="text-highlight">animal bones</span> found in <span class="text-highlight">an island cave</span> in the Adriatic Sea tells us about <span class="text-highlight">the movement of people</span> during the last place your maximum from research carried out by PS Bry. Marquez. <span class="text-highlight">23,000 years ago</span>, towards the end of the Old Stone Age, also known as the upper Paleolithic, <span class="text-highlight">the weather in Europe</span> and in many parts of the world <span class="text-highlight">took a turn for the worse</span>. Temperatures plummeted, rain levels fell and a massive ice sheet slowly advanced to cover most of northern Europe and stay there for the next few thousand years. We know that during this <span class="text-highlight">glacial period</span>, many animal and plant species sought shelter in Europe's three warmer southern peninsulas, Iberia, Italy, and the Balkans. But the question is, where did the people go? Archeological material recovered from this time period has shown that a large number of our <span class="text-highlight">ancestors</span> retreated to Franco Cantabria, an area covering <span class="text-highlight">the southwest of France</span> and <span class="text-highlight">the northeastern tip of Spain</span>. But was this the only area where people traveled to escape the worst of the weather? Let's go back to the <span class="text-highlight">growing ice sheet</span>. In order to grow, the ice mass had to take up water, causing sea levels to fall. At its maximum when the ice reached as far south as Germany, sea levels were up to 120 meters lower than today. That's approximately the same height as the London Eye. As a result, areas of the shallow sea became exposed and Europe's shape was very different from the one we recognized. It could be that humans lived on these exposed shores during the Paleolithic, but we have <span class="text-highlight">no evidence of their settlements</span> because it's now all <span class="text-highlight">underwater</span>.`,
     solution: `The lecturer talked about how animal bones found in an island cave tells us about the movement of people. She firstly introduced that 23,000 years ago the weather in Europe took a turn for the worse. In addition, she indicated our ancestors retreated to the southwest of France and the northeastern tip of Spain. Finally, she emphasized that we have no evidence of their settlements because it's now all underwater _(70 words)_`,
     keywords: [],
-    mainIdeas: [],
+    mainIdeas: [
+      `How **animal bones** found tells us about the **movement of people**.`,
+      `**23,000 years ago**, the **weather** in Europe and in many parts of the world took a turn for the **worse**.`,
+      `A large number of our **ancestors** retreated to the **southwest of France** and the **northeastern tip of Spain**.`,
+      `We have no evidence of their **settlements** because it's now all **underwater**.`
+    ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-59.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=hCTy%2FqRDKaCLBsOG9yRHA0rpccX607nDxqVRCw57ETw%2FVt%2FVtjNHWg52ECtwTk%2F2ncfY5g7lY%2BV5q%2BX7fObJ3%2BgY7OVHMVyh1afFwnjZ1yRKRY7%2BlLc4R%2BqnSggLIpwxkjKU410KwG%2BZWFApm09svErTqCzVN1hB453jx%2BdQnQiLJQsjzQ3TPsPwq3fEEW3CSDLt%2FKnGnVb6pcVG31QfsRGZDCpXiqBKKl8YVVdBy6usYok6os1KF%2F7Ge5QSuptM4uHKUK71xBN4Vi%2Bd5m6LvW68Sh%2Fl3wuCK738YQoNJHDRY45gBCmIOYH5AqaYcV3gSfRhPhEpqoKCDT0ZjfJG0g%3D%3D",
@@ -1287,7 +1302,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [],
+    newwords: ["ancestor /ænsistə/ "],
   },
 
   {
