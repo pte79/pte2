@@ -1117,7 +1117,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     priority: "normal",
     newwords: [
       "relatively crooked and narrow streets = những con đường tương đối quanh co và hẹp",
-      "ad hoc /'æd'hɔk/ = không dự tính trước"
+      "ad hoc /'æd'hɔk/ = không dự tính trước",
     ],
   },
 
@@ -1242,9 +1242,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     transcript: `What we know is that <span class="text-highlight">the impact</span> of <span class="text-highlight">the pandemic</span> will be <span class="text-highlight">catastrophic</span> if it is similar to what we had in 1918. In the United States, there has been <span class="text-highlight">an unprecedented amount of preparation</span> so far. It <span class="text-highlight">affects every aspect</span> of <span class="text-highlight">public health</span>. We have efforts for treatment efforts for better <span class="text-highlight">prevention</span>, <span class="text-highlight">clinical management</span>, <span class="text-highlight">communications</span>, the <span class="text-highlight">domestic and international responses</span>, and also efforts to try to prevent transmission within community. <span class="text-highlight">The federal government</span> has a <span class="text-highlight">tremendous amount of resources</span> that they have put into the <span class="text-highlight">development of the new antiviral drugs</span>, antiviral drugs stockpiles, development of new vaccines and manufacturing facilities for vaccines. So there's quite a lot that's happening in the United States. However, <span class="text-highlight">developing countries</span> do not have the <span class="text-highlight">level of resources</span> found in more <span class="text-highlight">developed countries</span>. That's the real challenge.`,
     solution: `The lecturer talked about the pandemic, whose impact will be catastrophic. He firstly indicated there has been an unprecedented amount of preparation, and it affects every aspect of public health. In addition, he indicated the federal government has a tremendous amount of resources to put into the development of the new antiviral drugs. Finally, he emphasized developing countries do not have the level of resources found in more developed countries _(70 words)_`,
     keywords: [],
-    mainIdeas: [
-
-    ],
+    mainIdeas: [],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-57.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=GQcwhogI5%2BwlA%2FxUBW0cCvogJRx96wgNwZGYzp8FyTsFK%2BzUm7mOPZlYUxKZK1GilrKSrayciM2F97UAmMtj%2B4Tjn%2BmnDpPJb2bh3lsKxxMHGvlf92qHaQ9xnzYZueINb%2B5T%2BKdq0aJGY2K9haC%2FjLNfHvZnojmd5qlPrx81BKq4eHgaFyHK6Fnp5%2FKgnldsSsSIKfp0Nn7r3Qw4OGggoKJX4QnWM%2FHj5a9Zlcn%2Borbv2Ho0PSPTBcifN2a%2F4vVaDohxyPxMwKAmcU7WUHZJI9Es8TEZ3IYKG67AO6IDLqLr9HsnmVuj9Mqxh2mCXMomJA8U9pftOnwXeVhpKffIwA%3D%3D",
@@ -1253,7 +1251,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: ["catastrophic = tai nạn thảm khốc",],
+    newwords: ["catastrophic = tai nạn thảm khốc"],
   },
 
   {
@@ -1268,7 +1266,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
       `Some cities are **carefully planned**; Others are less **conscientiously designed**.`,
       `In 1853, Haussmann began the process of **renovating** France's capital city: **bring light and air** into the central districts, improve the **sanitation and living** areas, and make Paris a more **modern, beautiful** city.`,
       `One of the main priorities of this massive renovation was to **connect all of the districts together.**`,
-      `The city had a **specific look**, a **style** that people began to **associate** not with a district, but with Paris itself.`
+      `The city had a **specific look**, a **style** that people began to **associate** not with a district, but with Paris itself.`,
     ],
     fillInTheBlank: "",
     audio:
@@ -1278,7 +1276,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     priority: "normal",
     newwords: [
       "conscientiously /,kɔnsi'en∫əsli/= chu toàn, tận tình",
-      "sanitation /,sæni'tei∫n/ = điều kiện vệ sinh"
+      "sanitation /,sæni'tei∫n/ = điều kiện vệ sinh",
     ],
   },
 
@@ -1292,7 +1290,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
       `How **animal bones** found tells us about the **movement of people**.`,
       `**23,000 years ago**, the **weather** in Europe and in many parts of the world took a turn for the **worse**.`,
       `A large number of our **ancestors** retreated to the **southwest of France** and the **northeastern tip of Spain**.`,
-      `We have no evidence of their **settlements** because it's now all **underwater**.`
+      `We have no evidence of their **settlements** because it's now all **underwater**.`,
     ],
     fillInTheBlank: "",
     audio:
