@@ -12,7 +12,7 @@ const WriteFromDictationAll = ({ start, total, data }) => {
     if (s.id >= start && s.id < start + total) {
       return (
         <li id={s.id} key={"write-from-dictation-" + s.id}>
-            {s.transcript}
+          {s.transcript}
         </li>
       )
     }

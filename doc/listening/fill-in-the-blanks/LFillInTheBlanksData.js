@@ -494,9 +494,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "sufficient (adj) = đầy đủ"
-    ],
+    newwords: ["sufficient (adj) = đầy đủ"],
   },
 
   {
@@ -508,9 +506,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "steady (adj) = ổn định"
-    ],
+    newwords: ["steady (adj) = ổn định"],
   },
 
   {
@@ -524,7 +520,7 @@ const LFillInTheBlanksData = [
     priority: "normal",
     newwords: [
       "abrupt /ə'brʌpt/ (adj) = bất ngờ, đột ngột; vội vã",
-      "radically /'rædikli/ (adv) = cơ bản, tận gốc; hoàn toàn; triệt để"
+      "radically /'rædikli/ (adv) = cơ bản, tận gốc; hoàn toàn; triệt để",
     ],
   },
 
@@ -537,8 +533,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    ],
+    newwords: [],
   },
 
   {
@@ -551,7 +546,7 @@ const LFillInTheBlanksData = [
     times: 1,
     priority: "normal",
     newwords: [
-      "spate /speit/ = sự ùn lên, sự dồn lên nhanh và đột ngột (của một công việc..)"
+      "spate /speit/ = sự ùn lên, sự dồn lên nhanh và đột ngột (của một công việc..)",
     ],
   },
 
@@ -564,9 +559,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "pendulum /'pendjuləm/ (n) = quả lắc, con lắc"
-    ],
+    newwords: ["pendulum /'pendjuləm/ (n) = quả lắc, con lắc"],
   },
 
   {
@@ -578,8 +571,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    ],
+    newwords: [],
   },
 
   {
@@ -591,9 +583,51 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    ],
-  }
+    newwords: [],
+  },
 
+  {
+    id: 48,
+    transcript: `Fungi are an important part of any forest or woodland <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>ecosystem</span>. They are the major agents by which twigs and leaves are broken down, releasing <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>nutrients</span> for reabsorption by plants. And we know fungi also form a <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>constructive</span> partnership with living trees. David Robinson from the Open University's Life Sciences Department explains that although we have known about this partnership and relationship for some time, we are now learning more about the <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>nature</span>of that relationship.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-48.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=LZxli48U38HhmW0RrAIZGi5rFjRLdJV%2FQp111lzNw0ZtPLMcLhXQIaFcs3H7JeYkM2%2FvJQ7HcVcksVYL%2F5eQ5ivP4x6AGGx2whPA27xIMpRUFaszbFrxTn3IbG7Uw5exyjloAK9og0BC9%2BURlkCwNz3tpSeigVH6%2FWn7yYKL9Yvu7HNeqJ9ffprfzurI56UL7se0Uc9rIfYZyHwEmfrcgSQMqae8HVz1RFlLU%2FFazkMR6e8vOCXNQIjjN0mYNKGn3hbIlHZUNLaUSDmVeU6qN5v6kVqRHpCtB3P95GAyZResHaJMMzk6gNMI6Xf31FiRAwOHTGuCECJz6Gh6%2FKiooA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "fungi = plural form of fungus = nấm",
+      "reabsorption (n) = sự tái hấp thụ",
+      "constructive /kən'strʌktiv/ = có tính cách xây dựng",
+      "nutrient /'nju:triənt/ (a) (n) = bổ, dinh dưỡng, dùng làm chất nuôi dưỡng",
+      "nutrition /nju:'tri∫n/ (n) = sự nuôi dưỡng, sự dinh dưỡng",
+      "nature /'neit∫ə/ (n) = tự nhiên, bản chất",
+      "natural /'næt∫rəl/ (a)",
+    ],
+  },
+
+  {
+    id: 49,
+    transcript: `During the past week, NPR has been reporting on the growing income gap in America. Economists say one big reason for the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>widening</span> divide is the steady loss of manufacturing jobs. As more and more U.S. companies move factory jobs <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>overseas</span>, people who lack skills and education have trouble making a <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>decent</span> living. When the Carrier Air Conditioning Company shut down its Syracuse, New York plant in 2004, 1,200 jobs were lost. The current financial state of the <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>laid</span> off workers depends on their skills, age and degree of <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>determination</span>.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-49.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=evxj98lQYBc0CkAOnVEphxio3gPttTSjkOD0oqk9Mj3NxbBOxAIajAa131Q0yDkp7slagh35E4JDLeQMne%2BNIwqwXzUgULUzM2Q2J7URjfPXAOOT5d4BFZopfj%2FcJN%2Bxkk4AzbvDWzD%2Fa11UHbl5HvrSyK0gZa10jJ0OQFBA1JCuYw7T6Lv5B0OiDp1rTe%2BiMc0i4BapxUa%2FbPJy6IhhutTYN4yJMPSLuw%2F6OwgxyJUMAEjZSHGsgtG58fT%2FOeOOu7IBAmU%2FCVUQ1qQYc2nuDkGBqpdeKS3tazCJP7LxI3ChG27LLCQvQKIMEPw4aioe2968e59nzDLQMewWCTOxlA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["decent /'di:snt/ (n)= hợp với khuôn phép"],
+  },
+
+  {
+    id: 50,
+    transcript: `**Stan Correy:** No-one likes to be spied upon, to have their personal information <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>stolen</span>, or their computers hijacked to become part of what's called a botnet. Botnets are networks of computers that have been infected by viruses called malware. It could <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>happen</span> to you. These hijacked computers are being secretly used without the owner's <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>permission</span>, for criminal and espionage purposes.<br>Botnets are one of the biggest problems in computer security today.<br>One of the <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>scariest</span> examples of computer hacking, as we <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>mentioned</span>, is what's called the Ghostnet system, the hijacking of computer networks in the offices of the Dalai Lama, and thousands of other computers around the world.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-50.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=h8UXtHebnZStp%2Bl78jEZ3Ika0aYREv%2FRDEu%2BYQxjK%2FIprtFzN%2FC9Xi0a6J8NuCZIAs3tnwZJbq%2BGu6yp6MF2Wbjjx750jEqH%2F3GEN6g07tCHCTouAYGbcWyX7HHLHaPihaklb4Gp559Edquw8nxpvyJoX1I159qfPX7TsUvmpm%2BQuOBHPmMisd8nkSnjMKjqpy0eBSpA79z0R0kRggBPNT1%2BpWwOD1tI7qM5FNCzILzseomuaqAGHC40eXPDVfMt5Z5sUiyuNIqyauv2Axq7JDZAgh8ZC53oJGyb4JjIK6H075oeY7ESoDQ2RsGqKL83QTaOStNGXdOZUfWIaEh7ZA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
 ]
 export default LFillInTheBlanksData
