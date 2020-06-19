@@ -266,7 +266,7 @@ const LFillInTheBlanksData = [
     priority: "normal",
     newwords: [
       "radically /'rædikli/ =  cơ bản, tận gốc; hoàn toàn; triệt để",
-      "abrupt /[ə'brʌpt]/ = bất ngờ, đột ngột; vội vã"
+      "abrupt /[ə'brʌpt]/ = bất ngờ, đột ngột; vội vã",
     ],
   },
 
@@ -279,9 +279,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      
-    ],
+    newwords: [],
   },
 
   {
@@ -293,9 +291,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "suspect /sə'spekt/ =  nghi ngờ; hoài nghi; ngờ vực",
-    ],
+    newwords: ["suspect /sə'spekt/ =  nghi ngờ; hoài nghi; ngờ vực"],
   },
 
   {
@@ -307,10 +303,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "blend =  pha trộn",
-      "expose = phơi ra"
-    ],
+    newwords: ["blend =  pha trộn", "expose = phơi ra"],
   },
 
   {
@@ -322,9 +315,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    
-    ],
+    newwords: [],
   },
 
   {
@@ -336,9 +327,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    
-    ],
+    newwords: [],
   },
 
   {
@@ -350,9 +339,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "antiquarian collector = nhà sưu tầm cổ vật"
-    ],
+    newwords: ["antiquarian collector = nhà sưu tầm cổ vật"],
   },
 
   {
@@ -364,9 +351,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      
-    ],
+    newwords: [],
   },
 
   {
@@ -378,9 +363,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "recession = phơi ra"
-    ],
+    newwords: ["recession = phơi ra"],
   },
 
   {
@@ -394,7 +377,7 @@ const LFillInTheBlanksData = [
     priority: "normal",
     newwords: [
       "frustrated /frʌs'treitid/ = nản lòng, nản chí",
-      "sequester /si'kwestə/ (v) = để riêng ra, cô lập"
+      "sequester /si'kwestə/ (v) = để riêng ra, cô lập",
     ],
   },
 
@@ -407,9 +390,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "represent = miêu tả, hình dung"
-    ],
+    newwords: ["represent = miêu tả, hình dung"],
   },
 
   {
@@ -421,8 +402,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    ],
+    newwords: [],
   },
 
   {
@@ -437,7 +417,7 @@ const LFillInTheBlanksData = [
     newwords: [
       "insure or ensure (v)= bảo hiểm",
       "compensate /kɔmpenseit/ = đền bù, bồi thường",
-      "inundate /'inʌndeit/ (v) = tràn ngập"
+      "inundate /'inʌndeit/ (v) = tràn ngập",
     ],
   },
 
@@ -450,10 +430,170 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
+    newwords: ["chemotherapy= hóa trị", "anemia /ə'ni:miə/ = bệnh thiếu máu"],
+  },
+
+  {
+    id: 36,
+    transcript: `So a virus is something that you can’t see by normal light microscopy, you need very advanced <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>techniques</span> for electron microscopy to see it, but that virus is not able to reproduce itself without a host and us as human beings are made up of lots of different cell <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>types</span> and we are interested in understanding at the molecular level how that virus infects the liver and why does it infect the liver and it doesn’t infect the heart or it doesn’t infect other <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>tissues</span>?`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-36.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=FLFS4frbL%2BMLbsdDwkRgQQD3KYLNjt6dg%2B3QWXrXs%2BeZm5We%2F0nrUGV3UGH%2B6%2B%2B2UQw8BHQBay7qUrl1Bes6EkP%2B%2FiKTCB%2BGmP4L46n9lFxoYx1dEa0lnirv5yhs0ZpW7MUOwsSeNZKLBrRXAsPou7DRnL%2FYO0DpM2EKpIapCznGu5jmvM1g1cVUV3EKFW8A%2F8YT5sWEaT41tZuUk3Zu2LmiQ6xlUCorKmJzMJBTTOGKekGY5RP0X4%2Ft90xVnLyADaj1V3upNgBOUWAUwKh%2B2J9x4%2FVGviIrCxxDVrPmpUU6OfVYegm7fGXN9BPV7pth0EFsjCSAa3cdgdVhSTA9eQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 37,
+    transcript: `Animators have used the 3d printer to give characters in the new movie Coraline, almost a quarter of a <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>million</span> facial expressions. The machine prints out <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>objects</span> by depositing layers on top of each other. It can <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>reproduce</span> fine detail, as each layer is just 16 micrometers <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>thick</span>. Stop Motion, animators made use of it to print a <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>range</span> of heads with different expressions for each character. It's the first time a 3d printer has been used for an animated movie.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-37.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=F81suSmyXkAIL0e4SvQSQtgUeEytS16iqxRLV9M3bwjGwRR7A2B64ufnHudF6oNjJJZNokrs%2F5fyoAc0V6PY1mCjXPn4hbDo1ML4JK%2FazBJzkVkQfodjem5WAzbRg4OAPhaFP%2BlNpsNvjM9szNhL8PqxeTZR%2BcBX8I499%2BzQn48%2Bj4cc0wokvwzPGiNQTqn2m%2B1%2FkrPzwG8105zQyn2NietXe92nkWtLACFaj5RpTWFNmYIukWmMonWwNDEWCQOPDPMEyo9P7Jl4JGOkpBKUGH%2FUP1fm9iV5QhSLYosTGkm4nlOH%2BhJIPVnW0GGM37nggikaq7xDE7J7FMakZNLyAA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 38,
+    transcript: `Now because you're having all these cities and all these <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>factories</span> people are going to move to these cities for work, and you're going to have a lot of different people from different areas in one particular small geographic <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>location</span>. So you're going to be seeing these people <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>interact</span> a lot more than you would in small rural areas. Also, you're going to have housing <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>shortages</span>, crime, lack of jobs so there's a lot of things that you could <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>observe</span> and test and see. And this is what sociology really takes off as a science.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-38.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=CYvmFl1XGjomQKmVXVrljKi09b7j9ahB%2BhllCiPadiO31M5oXEGTa6ALsMt1JaJGvtht1hwBow6vSMnUbzvJgX6j9c%2FBedAuHiibDBe0VjM3f2sD6KEs4xTg20rQUMff7OB6jvCyP4%2FhYyu%2FmdSyD70OxndwxTW%2Fc7tTtl4F6tOKrX5Nb3YuQqtjkh2ooTITKo%2BMYym6obRJU1eztim4jxA2l4f%2FJHUjkS3gAWqITrgVMDAXsXoknE9cgg1g4CGRJposIbtifmg0i7K6g4gbb1cIQU1hK2UqlhWyIP5VnH8MP3Zcanduu5LUeEkh8eixcmbc8DxOaJRkOEDff6i4gQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 39,
+    transcript: `Wintringham only does one thing: we provide housing and aged care services to older homeless men and women. Along the way we have built <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>unashamedly</span> beautiful buildings, two of which have won and been runner-up in the prestigious United Nations World Habitat Award: the first time an Australian building has received that international honour. We rely on older <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>concepts</span> of Australian architecture that are heavily influenced by the bush. All residents have private veranda which allows them to <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>socialize</span> outdoors and also creates some "defensible space" between their bedrooms and public areas. We use a lot of <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>natural</span> or soft materials and build beautiful landscaped gardens.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-39.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=McU3guOjZp%2FhthNyYqpEhJS1lNze%2BBWE11y6Ogo3O%2F8vwzu8gh1rpHlxDUFAIx4Ie3PD1PbxMzyAPGONwyB5%2FYlo1sq97grcsgZsGzCkEkbLuIC9Yx3UYgVD2CMv%2FsI3ft%2BFaoFzLkEKWNH96EsmD57fEWSiBOlwdFVY%2B%2BUyKO4x3PtntHokfVc3qcCKJN%2FoE25y6QeLOPk%2BfdnS2DSHagMsF8cjyv9sFnzs18q1A%2B8%2Fms1fZtBHdcj%2BZdYG2P3SxfzlYKHMeD2XC%2FdF4k%2Bqu%2BDzwW%2B1QltZMUhxTO7HrRHc4r8heGKxbg6tsXpy%2FqUUOVpZm%2F5RD62G%2Bjr%2BSbgeDw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
     newwords: [
-      "chemotherapy= hóa trị",
-      "anemia /ə'ni:miə/ = bệnh thiếu máu"
+      "unashamedly /,ʌnə'∫eimdli/ =  không xấu hổ, không hổ thẹn, không ngượng, vô liêm sỉ",
+      "prestigious = có uy tín",
+      "veranda /və'rændə/ = kiến trúc) hiên, hè, hành lang (của một ngôi nhà..) (như) porch",
     ],
   },
+
+  {
+    id: 40,
+    transcript: `**Student:** Okay, see, the thing is that I've had a look at the peer reviews about the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>funding</span> application, which you suggested that I do. But what I found is that several reviewers are saying that there isn't actually sufficient focus on my topic<br/><br/> **Teacher**: Right. I think that is actually the case, but I remember that the <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>proposal</span> is based around things that have already been done. And the fact that it's just one of a number of factors. And these affect health and safety. I think areas around of stress, they cover up much more <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>ground</span>. So I think, if you're sort of upfront about it, and you say, look, I need a wider <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>spectrum</span> here. We could perhaps suggest something else to try and measure bullying in the <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>workplace</span>.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-40.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=ArEhsdX%2BWahIygvsjSV5nrhT4siedT5roh42Zqtwnekhy%2FWizi260YBpcmyAJYkTjdk3NE9XwwYwoD8ZOZubu7I5k24uVlAu8cesqRcV%2FQ8GxA5W%2BqIJ95iNr3DvuiJpxgJB65xKWlwiuDyXQVWxWVvAIZ1s1YLY7u5s5boTzMB%2B%2FOD9u0DIhckxWh0dD3gOUcLyej43AzWi66zmUvu2J1bNhlodfhYz2UJ%2FDpk2gu0KfT5zm5HqXT2TDIfEdvBQ9aRc5FMt8bowU6ld6gtZaPM%2B6ANVNsgKl9O5fFLD1wcPtrGBpXz8IMV8sKDr8fPdonGEu6gPgfHtJp4MhrXbMg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "sufficient (adj) = đầy đủ"
+    ],
+  },
+
+  {
+    id: 41,
+    transcript: `A nutrition expert at the university for what him unknown, say the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>simple</span> sugar and candy bars can give you a quick boost. But after the <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>initial</span> rush, you usually crush it feel worse than before the snap. They say what you need is <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>complex</span> carbohydrates like a bagel or a bowl of not sugar-coating cereal. Try carrying a variety of pack-size box to <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>work</span> with you and buying a small carton of milk from the vending machine. Carbohydrates help you sustain&nbsp;a blood sugar level that is neither too high nor too low. That means you have a <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>steady</span>flow of energy to finish your day.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-41.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=dhJBgeW2HsAPGr3cXakWrTxN0A7y9ePrd9hKEy%2BI%2F7gh8lxYy%2FF%2FYRz%2FumEnqr4dsjvBpW1rdldC%2FAYXDCmk9dIQmqHJvijyIkxati0jAuV53TPHaYwvQGUginyWsOjG%2BtD%2FcKRN7EzGvH3FMt6gVCmUDQBdkJblCfT3VsU6Pbddnx1dV7e3FjM5cYfTe9qLfunqYlTVTt%2FyPsnWU8zdJUgAcNkt09drOXzw6DZpxCePByK4rYw%2Bu86UThYYT1oSYfD5VQNZ9v5umcUK%2Bv%2BXt4PYwEEFkgbYJm6VDdLwM0Jm5O51cRczz%2Fftz5itgj8eAqneZ1ONt%2FFtcUlvIJdDDg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "steady (adj) = ổn định"
+    ],
+  },
+
+  {
+    id: 42,
+    transcript: `For many years the favorite horror story about <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>abrupt</span> climate change was that a shift in ocean currents could <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>radically</span> cool Europe’s climate. These currents, called the overturning <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>circulation</span> , bring warm water and warm temperatures north from the equator to Europe, Susan Loosier, an <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>oceanographer</span> at Duke University, says scientists have long worried that this ocean circulation could be disrupted.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-42.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=FcMsxtXjVGDu6BR3b2esmlWaunjBO0FfmyCAWfyk2I34HgFiVLxJrdbnRPBCDJibRK0%2Fokn69%2FtY%2BANHPlmk2Qsi92XSUgzQskYTl8zQUJBG%2BfSZLPU95sz3bF8xWkqugWIzVAEWV6JW%2FkdUvTgkaRFmaLn9DXawzt0ioPy%2Bz7a6v62A%2B%2BRWRv3%2BaFjGY%2FxcuzTPG3ShcgzrG6cDAwyft7vbX2y8wcnxq4tBqltVllORWUShG1J6gvR6l2IBXcHBw8MrRF%2Fmd6S7jv4UQvAIEAsKIMM2Xv9yfVOQac4FzXmkakrLpg9gNF7QgY6bjA%2Bh9RrrXdXbBL1d%2B3Ixv2Qpuw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "abrupt /ə'brʌpt/ (adj) = bất ngờ, đột ngột; vội vã",
+      "radically /'rædikli/ (adv) = cơ bản, tận gốc; hoàn toàn; triệt để"
+    ],
+  },
+
+  {
+    id: 43,
+    transcript: `Experimental psychological research is conducted in a lab under controlled conditions, and attempts to rely solely on an application of research methods to understand <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>behavior</span> and mental processes. As an example of a psychological experiment, you might want to investigate people's <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>perception</span> of different tones. Specifically, you could ask the following question, is it easier for people to discriminate one pair of tones from another depending on their <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>frequency</span>? To answer this, you would want to disprove the hypothesis that all tones are <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>easy</span> to discriminate.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-43.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=CDcUg5Q6z1AwhOJnf%2F71S%2F0H%2B3UVWODWMd3MQ5Mg09otEJvnMfR5FOyXC6dBBzRBlq1JZq64norpwYh7zpTDMRYtfe%2FsmSoJkK88sGbvLcRuW3yuKDL1t5%2FgcEWJkXJKkAg%2FIJUuYqxSZvhPuq4ny2Ni337REXjmLIs39FV%2FG7RUmyeEW2zxpEIQOl%2F3bcFiNITUY8utsh0Eg69CqU3wN7NbMZj6O0bsfHGs7fGGjzyTTWe8%2BA9DoB3wBysAOpznL%2F%2Bx8qjPFqxjuAcUB09kTJVclAp1Pv%2FnDRzbyUBZfJ5nn5rI0p%2Bgk9FmRUMZtAnx9Nq4hHwbxdOSXui4LTySIQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    ],
+  },
+
+  {
+    id: 44,
+    transcript: `Signs that secured borrowing remains <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>robust</span> and firm data on manufacturing and retail <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>sales</span>, released on Thursday, painted the picture of an economy that has yet to be cooled by the recent <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>spate</span> of interest rate rises.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-44.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=hS1WPQGBQYHK0TfUcX1Nt%2FAnWPJQnFn1PpQbr9OxHtny4EJFyEF0OUaESM%2FXcgyS7dmD3LKWdqIT7n7GpiES5iBl%2FTz46gFvbt0bsDFtKEunOQ7gFDTpJXA3r%2Bp1Pw2x62RD3XL7gFvxBxiXIcbNwDHCbMvMFU%2BRyrcV0cGA0BOlP9SldkWU%2FZQYfhyjSSEvo%2B1suMuge0hPgwt2j68z4%2Fef0bBADoMSCttD4hOuCspLv3L6nw%2BmsVt28onLyjTVvcFVRVIEs%2Fdxwo%2Bhej6AdhDfkn9JU6BG7fBXV5D2dP5GGLV7srNInQotsIzS32BqUcUn9Bi%2FYkno7SjTgKVUGw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "spate /speit/ = sự ùn lên, sự dồn lên nhanh và đột ngột (của một công việc..)"
+    ],
+  },
+
+  {
+    id: 45,
+    transcript: `As Joe noted, one really important point here is that we are really at the very <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>beginning</span> of seeing what is going on. And, what we are seeing in the credit markets is a re-pricing of risk…. <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>initially</span>, investors were pricing their investments, and the kind of deals they were asking for were ones where they had a historically low <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>premium</span> required for the risk that they were taking. And now, the <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>pendulum</span> has swung much the other way because I think that people really don’t understand exactly how much risk they are taking and I’m sure that they are waiting on the sidelines to see.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-45.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=J%2FLjbSi6kPMw7G7Igo2o32%2BmkN5s14JMdWCb28xHfRC%2Fw%2B7f2BkK5yWRw2We8KTnNI%2FUBR45Va6Si9XPJNGFqh3A2Oe%2FdXx0quJR2Fap7t5GQEHDcOQzk2gWwOL8EewsPk6StYERuSaKcOGIEUanPXVkne10pZ4hjAoOmaZKhVZ7Kj8%2FLJW%2BfQZxwh2PT2o1r41tZg4SHO%2F0Y9hc8%2BTm9WHSnDM4Q47rIS1A45G3uTOG0LE6fsEGope7XP6zwnslqx3WvL54%2BCzZx0IIYICkTbr5KGaYHaQR6hO8it1gwHk45JlD5qcnJyvp7pOcFESWlz73r228XSGRGVtYJ2qyWw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "pendulum /'pendjuləm/ (n) = quả lắc, con lắc"
+    ],
+  },
+
+  {
+    id: 46,
+    transcript: `And as far as getting acquired, I mean, you know, we're trying to <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>focus</span> on the product. I think that if you know a lot of companies are <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>built</span> to be acquired and I think what happens there is you leave yourself in a really vulnerable spot because you're growing and you say hey, I won't <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>hire</span> that expensive VP of Whatever because hey, man any day now we're going to get acquired. And then your product winds up <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>suffering</span>. So I think you need to really want to do the company. Because you don't know how long you're going to be at it and luckily I'd been searched a long time. I know want to stay in search. So you know it's fine with me whatever happens with the company, but you have to focus on building the product to making the product better and you have to focus on building a sustainable company.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-46.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=RlTQ4ArFtTXwkr5lTTPhKYJRGA8YMYnWBIaoRqTCTNAXuhMTZy0AimorWT4gdm2XkhGtXpr26wN%2Bxv8zqQcmC6RvbeXLUh1nqlyLVnoPiAgsXCyI1c033OsRgLcNgiw8cF35Gzoat%2Bn3QtFc%2B5Me3fyBdJACtPoWLYhu%2Bbgu95BIplhpGpX%2FVYgsdq52G6uRcmA9iOhAm%2B61twkC6V0%2FUozyKpYHedgMHdmd1u%2FTX7qmmdGB%2FL0%2BFGSIJQ6lRyiAJKSWeTxvin20lWQmSKNoXYRYXzpdJi5PXRZACx70P%2FOCDiW%2FrWBopxVN4XISSMu4pu%2B0NhfubHVYm%2BTUCNoung%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    ],
+  },
+
+  {
+    id: 47,
+    transcript: `For a long time now it's been a widely accepted and <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>rarely</span> questioned belief that a strong corporate culture goes hand in hand with success.<br/>However, a recent study has <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>caused</span> some doubt of this principle.<br/>Although some of the <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>court</span> argue the culture a company builds up may be strong, but wrong, there is a point in every <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>employee</span> market to the same tune, if they are all marching in the wrong direction.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-47.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=HBpvWmIRnrqjtAs%2BLm1uUIgKVNxoyLVyblgX5tbGxse%2B%2FIIiDPNgHO8cuiJJ6gCrTqYtmRis3dJXGVnssDW%2BPP%2B5dyFadahOXopnjPWQlqxXPAsOQ5TM0rD8%2BpdQNThAl0lnjL6h%2FLG9CX9Im0zc68twiR7LHz6aBpopHnS8O8mdn2COPGWIfDHO0qWhyK5sc6nIOt08Z0sGJausWbK%2FAHqqCeBvNc9S3JXLYqOl56wdOL%2FKHQsGbP%2FnzBN4wWDll7R06cmavvy%2FZH8Xo7snTlU0arjYwUMiE5WXX9jM2iI2NfG561rhsXNiYF39KsGncnWgV9XhrpnoMcWMDWQvgQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    ],
+  }
+
 ]
 export default LFillInTheBlanksData
