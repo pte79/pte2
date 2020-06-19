@@ -629,5 +629,137 @@ const LFillInTheBlanksData = [
     priority: "normal",
     newwords: [],
   },
+
+  {
+    id: 51,
+    transcript: `Green Chemistry is a concept designed to develop <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>technologies</span> which allow chemistry to be practiced with minimal damage to the environment, or in an environmentally <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>compatible</span> way, and it's meant to cover both chemical processes and chemical <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>products</span>.<br/><br/>The center was set up about seven or eight years ago. And the idea was to provide a hub of activities that covered <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>fundamental</span> research work, international collaboration, but also educational development on public <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>understanding</span> of the project as well, and also networking so we network out to well over 1000 people around the globe.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-51.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=C92EDVd6R6%2B0ABzRnr4NUhlnabS4yJvZ2XMXpF3U4eT3bQKYsQZFMdXIEDPNn4FfDDz%2FIpa5xYZFtkYKBTpc%2FzL91OUQqyAYQ6nHDZdSlsfCedTh4BjLNeE0pfGrHuwWyzaUoOycCFmrKLoIcTAiS2tyNCAjeoJdKkYkN0QdfoKNND%2FCOJaG0rVbi0YuXMr6Cb5UHvMpw54hYJv8msb69TnrUZD0yZY9RgoPbePNjdUCD9KDrv8%2FrXOq2C5Qg1dnSUs3hVXM3%2BBQccWycLOQ%2BTiywR2Ki1og4w6o26ojxr8cwAisnUM9FMyPzATPn52NXLx2sJ5ieKQB0r%2BAAPI2Ig%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 52,
+    transcript: `There are some 250 million cars in America, 250 million cars in the country with just over 300 million people. And most of those vehicles, of course, are gas-<input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>powered</span>. This poses a huge challenge given the limited supplies of oil and the growing <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>urgency</span> of the global warming crisis.<br/><br/>But there is good news, according to our guests today. And that is we have the know-how and the technology to build <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>sleek</span>, fast automobiles that don't use gasoline. These vehicles of tomorrow are powered by <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>hydrogen</span>, electricity, bio-fuels and digital technology. And they already exist. So what's stopping us from putting them on the roads? Our guests today will help answer that.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-52.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=RF6gxMtofHIhyZA6THgPwtHuMwJa%2FBE32ptr5oHg%2Fgsl84B4w4ypkuYVWh%2BhMfk%2BnvftltYGsmgNqBLkXXGZBSDKkmuw3O11Xt4z%2BmMUx6tuzrMWuRXRAM0jZKAZAuLBe7RcdVsSDEbuaNGyzI%2B8VfhE6pehhOa2C5d%2B%2FXAedvUFNx3zc9%2BkhlIerHrE%2BhlHobqXEtza0NAMRbxUepyMfHrEdJKRsdnwxDN%2Fd4KfiR2e9gqQdXfojBvboUrtEsK%2BQyhrkOmtkUJtqo4l8dEEGLlfLENeEwDec74qCvTaZ4TV53d7VtuYks4W20%2BvAMIFlTCVQRlPfQfgGf7xEog5cQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["sleek (adj) = kiểu dáng đẹp", "urgency", "emergency"],
+  },
+
+  {
+    id: 53,
+    transcript: `**David King:** Yes. I mean if we look at 5 in the world's past history, when did we see a 5-degree temperature change? You have to go right back into the last Ice Age, so the sort of temperature difference we're talking about in the future, of course going up, is <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>similar</span> to the temperature difference between a warm period and a typical Ice Age. So what this means is that the world's climate system will change <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>radically</span>. If you just take one country, India; India is totally dependent on the monsoon. If the monsoon fails one year - that means, the word <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>failure</span> implies less than 10% of average rainfall, then they have <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>massive</span> crop failure. If the monsoon 10% exceeds the average they have massive flooding, so they're <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>critically</span> dependent on that monsoon. Now nobody believes that a temperature rise of 3, 4, 5 degrees isn't going to have an <input autocomplete="off" type="text" class="blank" id="blank5"> <span class='answer hidden'>enormous</span> impact on that monsoon.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-53.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=a8EF1e4eOBU9xy8GHG7kIStfF4oGAmSHYJdxUQbO0QIQbha8RajueiGYk4fJ88nTB6IFLq6hqvP8dJYTG32QIZSAJEoibY3CoF6HlwoPP6M8cRFTivQ3XHw5ldg4LJfxLkGYe5UPLg0XP9snqaKA0lUiU3hp82t9H%2FH%2BIXXiwPsv0083FBg7My8jnpHcIljAN4XZtQB%2BwFaFlHKdFgph8LAQiE%2B9sVnZu5bdIArwnbQjmMIybgDeeKuXisasSp%2Fm7TRN43RW8BKljznjEV150oDBbhbaekiI8KcKU8u9xyN%2Fa73ARoGGEtJfCo4qPvoypWUepw6rXQwIN82enisjnA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["enormous /i'nɔ:məs/ (adj) = to lớn, khổng lồ"],
+  },
+
+  {
+    id: 54,
+    transcript: `One of the things that people have said about agriculture is that on the whole it is more labor-<input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>intensive</span> than hunting and gathering, and that’s one of the reasons why people have looked to explanations which, you might say, are kind of <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>coercive</span> factors – that people have been forced into agriculture because they had no alternative. That is <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>ultimately</span> what may happen. But at the very beginning it could be that agriculture was developed because people wanted special status foods for feasting; that it was actually a <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>social</span> need. I mean, how much of what we do in our lives is generated by competition with others? And a lot of that is powered by desire for new things, new statuses, new <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>whatever</span> it might be. Respect and recognition also are important. And in small-scale societies a lot of those sorts of factors are <input autocomplete="off" type="text" class="blank" id="blank5"> <span class='answer hidden'>generated</span> by the ability to, for instance, throw feasts. One possibility is that some of these foods that were being grown were actually intended especially as feasting foods.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-54.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=Y4yBEvsBFj2sKDOSYFcxnN%2FO3R%2BMriTX3vjqqrB%2FlfUJypR5uqc1kYGHJbykJDDcO8TiKpJg8CrWg8eQv7JtiBSjbml62l6BRjqTTTiGPuclIFJjLmKCtGV0tSQLREbuPdfINea5uC%2BGDVSwuUC0LdyM%2B515UAoWiiwdwt%2Bm%2Btim1sI9QquNmizS%2BW98nfYxjFvTn7zoT7P4HWYCFSQIpa%2BQKPmQd7oRAdN4yHFg1LVNWDokuHZXs2OtzDx7XNoq0CkdR%2B3NWo2qrVYutiUoupaSUdCI5eJ80iskOwlr%2FTo8uwkkQwIGjVl70PRIi8CM%2ButlT7g05%2FezheIXpCkHKA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["coercive /kou'ə:siv/ (adj) = buộc, ép buộc, cưỡng bức"],
+  },
+
+  {
+    id: 55,
+    transcript: `Now we come right out of the woods, transpiration is the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>passive</span> process by which water moves from the wetness of the soil up a plant and into the air via the leaves. We've known about it for years and you probably haven't thought about it since school. The assumption is that transpiration works by a wick effect, where the <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>negative</span> pressure of the water in the leaves draws up water from the roots but until now it has been impossible to replicate this process in the lab. Abraham Stroock and Tobias Wheeler from Cornell University in New York have constructed a fake plastic tree which <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>emulates</span> the natural process. I spoke to Abraham Stroock and started by <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>asking</span> why synthetic transpiration has been such a tall order.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-55.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=Xi04xJvmw%2BNBiGOJo%2Bhp2I9Sg35yP23iSGZjC75ISnJ5daJRwoo5%2FW%2FUcRhi0tl8WoUoN9viig4Cr9kocuSqZ%2B0nuzaKJg6T4mV1NdLA2WVvtZhAqj%2F2095No0v%2Bd%2BrENLdR99WKdVwPj5t0Y9OSuQWZVGi3XRAoiVMgKhT8Sjb4necqFn%2Bymd5hdr8lfvVEyDLHbk5YnLVYl%2BbP91LPc4FMsp6iJXs2by%2BeXc4Farh0Sl21e4ATlxEZKAnJIwO45syx5I5PWDszR%2Bgxtgvul2jIBYbT86n9rdz9QXwuPrFAvfAHofmLZlXF%2BSPwSsv4S1%2F4PZAZKRTbBgUW6K7Qbw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["transpiration (n) = sự thoát hơi"],
+  },
+
+  {
+    id: 56,
+    transcript: `So, what we are going to talk about this evening is <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>impacted</span> by a big asteroid. There's tons of stuff on the earth each day, about 100 times. Most of its fine dust is tiny, tiny <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>particles</span> . But what we are going to mainly concern this evening is bigger stuff. The bigger stuff is probably originally from an asteroid. There are <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>millions</span>  of asteroids. There is the formation of the planets, probably because Jupiter's <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>gravity</span> prevented a planet from forming.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-56.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=TzdHQ6QcMS2uejGPKLAKpxQctMxSXBfEsn0jbx5ZOrDEgJ4sALoRicHrtel0zmFW0xHi3JO4QSd0PC2FoM0HcC3Kdy7WqGd%2FUdGHsBk6n3Q7g5BkkZZhjFiEBWGj8Y0jse9WJh48hB8%2BIkpmLycumO7JgrAnuaOubIIBgACWktDFYFYEBwcH03u1FUrNa5uA9yXVCdSEOmXjQynGRXzIozSvifd7rEYJ4o8H%2Fc%2FLEc1Nydv3XhbZRslBZD%2FNvej2nnx8pm1vtDAqQe5v7BxK3XcvFl5EjAddwXrohhGU7pzvLCzodpeF7%2BsvvXxqPgPr0kI3okx9Ir0s5VmNusDlLQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["asteroid /'æstərɔid/ (n) = sự thoát hơi"],
+  },
+
+  {
+    id: 57,
+    transcript: `Well there's probably around about a 10% chance, up to a 10% chance of that <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>occurring</span>. It's really hard to crystal-ball these sorts of things because we can't use the <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>historic</span> data we've got. Over 116 years of records on inflows into the <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>system</span>, we are continuing to break every record, and so it's very, very difficult to <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>forecast</span> going forward when you're in the midst of such an <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>extreme</span> event.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-57.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=E%2FkLUxZU89HWvgst20t3WDD0NmCQ9iTU0e9vUOqqPpu5nLm4N97DWnClD316QR2YkcNditc9mXzEyRHxXse7bQsbE1HrLfdRwZDByPkMRMJBAQ%2Fxaz4f2xXDZKibfoJhGR0U7MtR91DIdh%2BYqtmuCALB9S2PFjzx1hGfcXsDJsH9qg2ljZsCVF1OlXcblTHadphSGboyXL35ooasSDc9OHr1c4N39TZ1KgNr2lhAf%2FddF47HBVSOPKUvFXdku9SiX9TGk7v0g9yB2NTl2NczG2yn3Nm1F%2FP1Zbew6iFB8MmWeUw%2FmugeWyc7UsLN3SRuiD8gyQlz%2FwRfHsHz1FcTTA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["asteroid /'æstərɔid/ (n) = sự thoát hơi"],
+  },
+
+  {
+    id: 58,
+    transcript: `Thanks to bloods ability to <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>clot</span> even the surface of a nasty gas just able to heal up. But platelets cells aren't sticky all the time. And now researchers have identified the <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>key</span> protein that makes them come together. This video shows how normal cells spread out <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>tiny</span> arms to catch other cells and to grasp onto the surface of a wound. When the <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>crucial</span> protein is absent, the cells don't stick out their arms as much and can grip the surface of an injury as <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>tightly</span>.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-58.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=b%2BTH%2Bj%2FwabBgx91hMc4weM0vBmWIGaWlIUDDvPPu%2FGGv9gUoBJFmRgrrkEMmNqllT%2BCUbje%2FUnkhgCRPOPgq2QHJey00XFWYpQ%2FG1DCVqhFp7PtCCPGPi3BCsQwlSixt1bA4pCePhLoc1xVBKGY7BIzQ32IHAfL6rIclr6NrTZuzB1Z0qzGVyuK5FEJ%2BvPg31wyGPs1ang74%2FMfRtzwOovtJrkwe8OQiFcfl2oA%2BJL1EJX68L3mFnYtysiEc3H6vfZuBTTh4qrh8TdNSDD9tPA0tdP5Sp2eb5wT8bMA86xANAUjgRKV0HJ%2FqmD7OkxtZ9%2Bi6UWG%2FPyEmBumK8rqVxw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "clot /klɔt/ (n) = cục, khối, hòn (do chất lỏng hay chất đặc kết lại)",
+      "crucial /'kru:∫l/ = quyết định, cốt yếu, chủ yếu",
+    ],
+  },
+
+  {
+    id: 59,
+    transcript: `The Mississippi River built this area, each year it would flood, it would bring in a lot of <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>nutrients</span> and a lot of sediment, and the sediment would settle over the marsh, and over time that sediment gets compacted.&nbsp; <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>Imagine</span> if you dig a hole in your yard and you put, and you have the pile of dirt next to it, and a week later that pile is going to be <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>smaller</span> because the dirt compacts. Well the same thing when the Delta was built by the Mississippi, the Delta itself compacts over time, and under a <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>natural</span> hydrology the river would bring sediments back out to those areas and deposit sediments on top of areas that are <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>subsiding</span>, and so we actually build land with an active delta.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-59.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=WWXeEEqrGKFBdafG4YuLsL9IyoIH31tWOgP05EmS%2FSkHS7SEXav3TSeijhiHm9xr7HULBIlVeXvOQa8hlBgv6Tb%2FpkJX8LGRtr26uTPgeUFZ2JDaMfhTcyzWQLtRmPTmeQ8hoZVLGHOcd0Ujk%2BMPy6C8X7495m%2FwbzKEV2SFL2zH4I51Dq9ptLV5XVtW0JDyGsx%2BKrcteKRbolZ4WdDH%2FGtLfJ7l%2BCyvHOUdm%2FNVnTL9OglbwzrbYU9bxhgPvqbv63xHht9ZGgH7dNHhnjocIpikH1CnWnvvZjBCMvchbjlfunijgsfZnsP2V4h2iO9PSqXcHalk48j%2FROcRHeJVSQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "subside /səb'said/ (n) = rút xuống, rút bớt (nước lụt...)",
+      "sediment /'sedimənt/ = cặn, chất lắng xuống đáy chất lỏng; (địa lý,địa chất) trầm tích (như) cát, sạn, bùn",
+    ],
+  },
+
+  {
+    id: 60,
+    transcript: `Scientists filming in one of the world's deepest ocean trenches, have found groups of highly <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>sociable</span> snail fish swarming out of their bait nearly five miles beneath the surface of the Pacific Ocean. This is the first-time cameras have been sent to this <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>depth</span>. Although some species of snail fish live in the <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>shallow</span> water, the hadal snail fish are found exclusively below 6000 meters. Here they have to contend with total <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>darkness</span> near freezing temperatures and immense water pressure, equivalent to 1,600 elephants standing on the roof of a mini car. They feed on thousands of tiny shrimp-like creatures that scavenged the carcasses of dead fish reaching the ocean <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>floor</span>.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-60.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=UFJINfqidryidy3g3%2FZxPpCeCDow9dRWgANdWxpWLz728iHWeL%2F5P93hvc2PhPMv5dY1YMK%2FfA%2Fb7HszBXO1IbqnZ%2FhYBxMgZyAarUFzKGoeX99yCzzPi8ibab%2FlQa%2BhxUeP7Oeh1GOYOjg90RbzCiWIJgGqrX5QuyQBjRKvJUMmIOPtpG6J1%2FnYMjMMtK5L6F1alGe5Lxg0gHneC0bpOlwqyHNhA2mXocn14H7Dvz4r%2BIIongJoZCtquYoGR%2BiB2%2B%2BI3nbqcP25JvdRKZeNQr%2Bd01bjVx9gVKInLXAj3mOwnzsAjhJOOv9Rru35%2FyEg4Ju69kjCRk8GcWQTeqzMdw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "scavenged the carcasses = ăn xác chết",
+      "ocean floor = đáy đại dương",
+      "the world's deepest ocean trench = rãnh đại dương sâu nhất thế giới",
+      "sociable (adj) = dễ gần, thân thiện",
+      "bait =  mồi câu cá",
+    ],
+  },
 ]
 export default LFillInTheBlanksData
