@@ -31,6 +31,8 @@ body {
   border-bottom: 1px solid black;
   text-align: center;
   width: 10rem;
+  background-color: #FAFCFB;
+  -webkit-appearance: none;
 }
 
 button {
@@ -65,7 +67,7 @@ textarea {
 
 .text-highlight {
   background-color: rgba(71, 193, 191, 0.3);
-  padding: 0 0.5rem 0.175rem 0.5rem;
+  padding: 0 0.5rem 1rem 0.5rem;
   border-radius: 4px;
 }
 
