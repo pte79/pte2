@@ -471,9 +471,9 @@ const LFillInTheBlanksData = [
 
   {
     id: 39,
-    transcript: `Wintringham only does one thing: we provide housing and aged care services to older homeless men and women. Along the way we have built <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>unashamedly</span> beautiful buildings, two of which have won and been runner-up in the prestigious United Nations World Habitat Award: the first time an Australian building has received that international honour. We rely on older <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>concepts</span> of Australian architecture that are heavily influenced by the bush. All residents have private veranda which allows them to <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>socialize</span> outdoors and also creates some "defensible space" between their bedrooms and public areas. We use a lot of <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>natural</span> or soft materials and build beautiful landscaped gardens.`,
+    transcript: `Along the way we have built <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>unashamedly</span> beautiful buildings, two of which have won and been runner-up in the prestigious United Nations World Habitat Award: the first time an Australian building has received that international honour. We rely on older <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>concepts</span> of Australian architecture that are heavily influenced by the bush. All residents have private veranda which allows them to <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>socialize</span> outdoors and also creates some "defensible space" between their bedrooms and public areas. We use a lot of <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>natural</span> or soft materials and build beautiful landscaped gardens.`,
     audio:
-      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-39.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=McU3guOjZp%2FhthNyYqpEhJS1lNze%2BBWE11y6Ogo3O%2F8vwzu8gh1rpHlxDUFAIx4Ie3PD1PbxMzyAPGONwyB5%2FYlo1sq97grcsgZsGzCkEkbLuIC9Yx3UYgVD2CMv%2FsI3ft%2BFaoFzLkEKWNH96EsmD57fEWSiBOlwdFVY%2B%2BUyKO4x3PtntHokfVc3qcCKJN%2FoE25y6QeLOPk%2BfdnS2DSHagMsF8cjyv9sFnzs18q1A%2B8%2Fms1fZtBHdcj%2BZdYG2P3SxfzlYKHMeD2XC%2FdF4k%2Bqu%2BDzwW%2B1QltZMUhxTO7HrRHc4r8heGKxbg6tsXpy%2FqUUOVpZm%2F5RD62G%2Bjr%2BSbgeDw%3D%3D",
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/l_fibs/audios/lfib94/original/043e849fc427d78ea8f5202dc7a90026/lfib94.mp3?1575274846",
     answers: [],
     level: "medium",
     times: 1,
@@ -760,6 +760,158 @@ const LFillInTheBlanksData = [
       "sociable (adj) = dễ gần, thân thiện",
       "bait =  mồi câu cá",
     ],
+  },
+
+  {
+    id: 61,
+    transcript: `In that month or six weeks, the patient may feel perfectly well. He may even travel around the world spending hours packed into crowded airplanes with <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>unsuspecting</span> fellow passengers. That's bad enough with regular TB or with strains that are <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>resistant</span> to two or three mainline drugs used to treat the disease. But it's a potential public health <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>catastrophe</span> with the new strain called XDR-TB, for extensively drug-resistant tuberculosis.<br/><br/>The strain is <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>catastrophe</span> to a wide array of first and second-line drugs. That's why 30 percent or more of its victims die. And that's why people like Lawrence Gostin are rethinking what public health <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>authorities</span> should do about people with suspected XDR-TB in the weeks before the diagnosis is in.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-61.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=Eu5RAp1Cr8ABgXHWXxJ8pZdU3FWhyjXOzkme7IW6R98bOu5dHvsyJjrRgVlzTd5Bgjp7OPXJMKY71ol2kyS%2BtTl9EHzUSP2qkJUyhcBDKouC2q7%2FmzbXR06sGHAG9vsarC0Q9YjJAoqb2V9jAqyy%2Bz7yJW2%2BgaoeECkknn8KFevLnTVyvwqFv5eizB1wtPkmpGkl7KfsOVMY%2FrhDOtL%2F5yr3Clctm7u9KTw5y%2BXhF1P5sR7GQesyn%2FxzvkolM4FZQcrrvPgC4QsFCh8ShCICIlAKsToOP3cKROIs2DvSslXUb3hP7uwVC4o2RVDXytWaHz0foNt5C7YZr4Ug%2FmQ%2Bag%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "unsuspecting /,ʌnsə'spektiη/ (a) = tin; không nghi ngờ, không ngờ vực",
+      "resistant /ri'zistənt/ (a)=  có sức đề kháng; có sức chịu đựng",
+      "imperious /im'pə:vjəs/ (a) = imperviable =  không thấm (nước...)",
+    ],
+  },
+  {
+    id: 62,
+    transcript: `Social harm originates out of a series of <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>debates</span> within criminology about the narrowness of the definition of crime, that essentially, focuses on individual acts of harm, things like inter-personal violence, theft, so on and so forth. So the idea of social harm <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>originally</span> was to expand that notion of harm to encompass the harms that organisations cause that nation states cause. But latterly the idea of social harm really now transcends criminology so there are a group of <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>writers</span> who think that – and I would include myself there – that actually there's something to social harm that could be very useful in terms of trying to understand the harms that <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>occur</span> within society, to produce an objective and well-rounded analyses of harm.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-62.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=J6OmDYI7oqizr99DM6jbpu3y2td6u3%2BHcDgBYCPGqgq0hacco2SpssVDlZ7x8%2FD3puBfawD9T9cbyMflm1%2BHKZ3dIi9dXD7Q0COEfWpMNbqhtCf%2FpBOhVhNDfcN1JPjuxR3k0q9ypdgmUQpuzU1V%2Fw50YuhwD8ovEuRKSXY65Lrtrxg2yPDmpd1ZD%2FGqsJF%2B0oOgNcD8y00F%2FGHz69vRjuBeAh61l2m%2F3xPP3dv%2Bec6G6uQSMiJ7d0MINK6Ml86z%2BwIw8on%2B7802RvtmayCSpZLfk4YQ%2BhjPOulqAxQHOPvohcsLZqgIIMpeYdmRKwsMokFcDLRx0bHjHT6BlvX8bw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+  {
+    id: 63,
+    transcript: `I’m currently General Manager of <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>Sports</span> Coaching Ltd. We put sports coaches into primary <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>schools</span> to deliver PE lessons. I chose the University of Birmingham because I wanted to study in a big city; also for my course, the University of Birmingham was in the top three for <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>institutions</span> for the course that I wanted to do. I wanted to come to a big city to study so that I could get a big social life but also have the opportunities there to do what I wanted to do really and get the kind of work experience for life after university. The course I did, Sport and Exercise Science, really helped in my current role because of all the different <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>modules</span> we did. We did anything from sports psychology to bio mechanics, to biology.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-63.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=bb6mJ4JascVhpHeQoRZUp06hmoLccuw9bl8Q0kRKEyt4friFwDPkV2dxeyeE%2B0u6Xn9njMmjUtQ%2FzYoNF86JkIqViN1BMqMRQgJO600ttMVTBwgsAH0ZRORRNM%2F2%2FzUZg3TIBZkz%2BU5I4pNOExw0LNNV6b%2BZijDJy%2FDGojDMld4T0qKL3RPTyDYL55RfLBFnpuBxLXFIDtTq%2BLiR8xFk0WqrTt8ruZsteVHSmdnHFIMGgImOCSpAckvKZJ88H6caHR3OSXbShJuQFDnClKk2nmphXWyZwW45%2FWNWX7vLqWVwAO3JVAr6fMZyxC4B4Tnt0%2B3aPXf1I9XJ%2Fo0MEviAnA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 64,
+    transcript: `I’m a big fan of gap years. I took one myself so I’m probably <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>biased</span> I think that if you’ve got something you want to do in the year before you come to university, that you should do it – and a lot of students who want to study a <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>biology</span> degree actually want to go off and travel and perhaps work on a <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>conservation</span> project and of course that’s all very good, it will <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>contribute</span> towards your degree and your preparation for that and then when you come to us you’ll be ready for your studies. So if there’s something you really want to do then my <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>advice</span> is to go for it.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-64.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=OMlcXr%2B33dX8A87z5p6YracBGfWzKI74ERjnZWE3VUF82TUnjuf3mLbBCFHnpuSifzv17jYEzOgi3pR7LFUF7V6V54zCXsBiRCLF%2Bbni20F7jTcPpppdRVqKL0b2Do4xk555KR%2FZRH%2FACLtjL3lV8D5%2BvWhe8XrlTa%2FGUyWP6GJl%2BO2aK9njNxND5DXVb4gqLczquPwUd89%2F8vnebY9NMy7%2FMZUCEXkcwM%2FEKY4f2MLqp9JL8BC7uKHMmtzjLzGAUVqMURz49XuhJlRwNidtC4gXLgWxm%2FYkqg22C803PcPu8v5V5LCcEX2WcqNypvSmIkWIGhJXFRLqw4WioCoHmQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["conservation = sự bảo tồn; sự bảo toàn"],
+  },
+
+  {
+    id: 65,
+    transcript: `I think it’s often underestimated the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>connection</span> between doing research, live research, and teaching undergraduates and the undergraduate programmes – because, of course, if you’re working at CERN on a frontier <input autocomplete="off" type="text" class="blank" id="blank1"><span class='answer hidden'>experiment</span> you come back to give a lecture, you’re buzzing with activity of what’s going on, your new results; it just makes the whole lecture much more <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>interesting</span> for students. It’s always really exciting to look ahead at new science and what might happen in the future. I must say, lots depends on what we find in the next few years at the start of the Large Hadron Collider. We are expecting to find very many new <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>phenomena</span>. So the thing we’ll want to be building in ten years’ time will depend on what we find.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-65.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=TSjAoUPbqP5z0bgTZXK%2BJ1DRr%2Fg%2Bd2lIOAFyPtR8RBXspUT8y%2BA4hHfRye2YtA13K0iiFGpxP9bKpY7Zk6bnYjop4Iu01OQVLGy0ofrT2iAoscD2Beo49SsG8CKWxzWdgERH2SJfrZeCu3R5LlflICusfKcOUYCFw0vA%2F7nPNSdKRvkh38avn7FGD6KVmOzcEoYjDWvIdKPLNW2y%2BryGLTF4AdR9fm25rbIrTN8PYA3vlWkwpQEhgE8MDsTt0Ww5GNvq0gifGIbgDBHe8oXuZdHdQw7tkMCTbxi%2BMDGVfy49rIwhrGffKrhBVmqcoYW77B5%2FUcuK56fsbgjH1BCvwQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 66,
+    transcript: `Fuel cells are the most efficient devices for <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>generating</span> energy; so that combination of low emissions and efficient energy is the real key to the future for lower <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>carbon</span>. I think the fact is that people feel this research is now going somewhere very definite; that the cars that people drive say in five or ten years will be hydrogen or certainly <input autocomplete="off" type="text" class="blank" id="blank2"><span class='answer hidden'>electrical</span>, possibly driven by hydrogen fuel also. Your houses will be much cleaner; they will have <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>renewable</span> fuels, again driven by fuel cells and many of the things that we use as <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>gadgets</span> like computers, cameras- they will also have fuel cells.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-66.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=YTNLlVp2wR0kXDH9qwHoOjJEdSD1nQDPRkajAEFwxCgd1eKFtXJxf1dCkK%2FgRJfaQiP7Sq9%2FQxNuxm%2F%2BHc7vBb5emXVu6WJSXINRBtRMoAvgBvaLgCV2lz%2FdnNFee1axjGywCwSh1ulHwYv9%2BJarN3IdBXDwsrtQEUH1NLRFTpRB4kXC0blzPRMyJSBbaVjT4WxRjAppZ%2BF8rRqs3Ud1B0D32sgt5rv3e6Lc3Vb2M3%2FCZX6nbLVXJXC1gW%2Fecceq7mOhGImAAD3ldB493SIn4iumxGxkyXDR88q02RB%2BoVAAeakDY6eEcK09LnRLyUADYa9HQLuh1M%2BkjHQW1YbDAw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 67,
+    transcript: `William had just graduated, only by a few months, from what was called the Mathematical Tripos at Cambridge, which is an Honours BA in <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>mathematics</span> with a lot of physics. But he had never given a lecture as far as I can tell. He had never <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>taught</span> ; he'd never done a research project, and he <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>certainly</span> had never published a research paper. He was just a young student, just <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>graduated</span>.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-67.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=Q7MB2WUev5yfrnjNzfpoIysvEScGM%2FadTN%2BxdLzBr4fKhifu9nZn1H62jz8yqW8YJsJZp2ma0pfXUFWZ0IYnAlNAZjNo207CCaBHIIlhoawuHEu6Vl5HLcJvtTgLow8kucmzmo0fEPxABFakuSevbP%2FOrFSKI1iqqtMYxIOTi1O2QAxpD1B866oekI1O4xXZJuEyuYfHpA%2B1RXF%2BWC9ebunKu3umCkdGPIG4iw5MH8GZjwP7kTJH%2BChClgsQDi5Vd4f4NRdk%2FSRrro5AmrMhEfxrh%2BzzsPysmUsY8LfPCMrkIu8rjR0n01yUaIutUhxvOrXy6nHnmRjjc2rsvbYvmA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 68,
+    transcript: `UK has an aging population as a <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>result</span> of decline in birth fertility rate and mortality rate. This has led to a declining proportion of the population age under 60 and an increasing proportion age 65 and over. In every year since <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>1901</span>, with the exception of 1976, there have been more births and deaths, and the population has grown due to natural change. Until the mid-1990s, this <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>natural</span> increase was the main <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>driver</span> of population growth.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-68.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=TlHcGj6NjQkI9azoTQM3ZhfUJvNHfAw6TuiwsbaqozrKMzqzEEbDzz1KmWRYYxsZ5Nr6PXt1pV1l66c8okHMlUznVnW1S9CM6yVGyAAmm%2F3ZoY1s4dPy2YgGwfjBU1blKg8E%2FYsbN363SG2%2FhwON%2FFEZgeLRAPVeVkVtfuEmCOsLEbpv2KSbNUUhJgbkz%2FpFZhq%2BvnFECi8y%2F5TTWGdrKkf9pKulWyIHMin0hOKbSTnKXWMPqo%2F9Mvnu91GXtJUWwrt3rdqmz34G8w3DRgY5bhqlc1GhyF8rp%2BBPhStNNmo38ff48BVYS3zQt%2BiK8I2YZgrZok%2Bibq2gwF7lB0LO9Q%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 69,
+    transcript: `"The Earth is warming.<br/>Almost all the Arctic <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>summer</span> ice may have melted by the end of the century, claims the Intergovernmental Panel on Climate Change the IPCC.<br/>The upside. <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>Access</span> to an estimated quarter of the world's oil and gas resources and the <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>opening</span> of the fabled Northwest Passage.<br/>The downside. The Arctic wilderness is lost as <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>neighboring</span> countries, Denmark and Greenland, Russia, Canada, Norway, and the United States all race to <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>share</span> in the bounty."`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-69.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=KvC47QextIlafNnc0hPAxSXckanHkXxN%2Fio1hwClQxGBEmuB1NU99HjsbCr8uYRL%2BMuOA4f3tPZiWBxG3YvY9Qk1iLzn4iKcIrZZXSiioWYG6SjCOCh3GSmfhxrTlXJQgsbl62%2FEQjmaJo1EG%2FNCzdKqEc0zGvfqkvCwXDmEVRxuQQHoCh5IEA9kRpOGzbWx57PC65hXpSidoKw1SzZHvN%2BbmX0R5EUxNcwpNKHe%2FrW9RPT3xc0qVrD7vSwZMn72zHh5OXTeByfdJH83PvB%2F6q35GHPSTG2y2niM9DwK39apGfSSm6ODR1oWJhNeOyR%2FuKCUwUeQX%2Foyy8uemMsqpQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "neighboring (a) = ở hoặc sống bên cạnh hoặc gần ai/cái gì; láng giềng",
+    ],
+  },
+
+  {
+    id: 70,
+    transcript: `Again, I want to repeat that I don't <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>blame</span> libertarians for this state of affairs. My argument is really that they simply have nothing to <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>offer</span> us in this debate. When we talk about trying to get rid of the welfare policies that have enabled some of the breakdown of family, that is <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>undoubtedly</span> important but I think we're beyond that at this point, the damage is so deep. And it's kind of hard for me to envision a future without social security, for instance. I quite agree with the analysis that the social security, Medicare and that sort of thing, have decreased the primary <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>functions</span> of the family, but I cannot imagine a world in which we get rid of these things, so that we will be...from a <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>pragmatic</span> point of view we have to think about what we can do to try to bolster up this breakdown that I keep referring to.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-70.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=UGpO56HIMt2oAOPI73nBDsJLWmzZZr%2BXNkmlpeuA04BamGLyRDbyNYSJ10qn5v3LdKB7YSzmTj0z8z%2FIKLippJhflTH%2Fwi0DJlthFz87jkGMtqMSdysiqM9PDz3pQTAcC3rKwykN5NgTBhp3vNetYQ7cJkJZ8qPe1zJ4iRsRjffkSQgnm0UFIbodLwg0RaPFsnP7Zw%2Bo636VPRSc5meyzGTgc5qM6QEZjJd%2BHurts7I%2Bk2IV%2FK6sCLGvKSdpq5F2nX%2FTFJmiCtgekhFMp%2BoqGfoKFamiU4iCufbSsY%2FmAKqWtBuLHcjT64pKSwU9TJRIFIvcRy1QIf%2BhDTpvDBQe9Q%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "neighboring (a) = ở hoặc sống bên cạnh hoặc gần ai/cái gì; láng giềng",
+    ],
+  },
+  {
+    id: 71,
+    transcript: `So every year influenza does strike. It causes seasonal flu outbreaks and that's caused by new influenza strains. It affects about 5 to 20% of US residents, and 200,000 people become <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>sick</span> each year and 36,000 people die from flu. And sometimes flu viruses can actually <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>mutate</span> to form novel viruses. We worry about novel influences subtypes because they can cause pandemics and a pandemic is a <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>global</span> outbreak of a disease. The most severe influence of pandemic in the last century occurred in 1980. And it was caused by a flu virus called H1N1. It began in the United States around September 14, and within five weeks, and it's <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>spread</span> throughout the entire United States. It's estimated that 20 to 100 million people died worldwide from this disease that year and it included <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>500,000</span> Americans.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-71.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=HiNwrCMYxz1k9LaFbs5hjfXzV6XiiCXUP%2BQycJ2TmBYuZA1J%2FRaHV3ipnEszAyb0VVCDaPRbNsVxrXc%2FKn1qKrt7QNY8FmGZ2mMhy8g8bQMy48Ir1j7dqQAlXbj13UvJFt8y1PZQjsaMniOUWfuuRDxjnNB5vEm9v7D6ny5iW%2F74l2%2FD981xldC0iCt6xDYimi5jbLqXQ7WlUKOXf3ihrt3wFppCF4d%2FNmWDhVTF7bY2De4NZTOcZzHcbHgbMW6YM%2FeERoc36BnxiaRctjuy%2FzoV6NiAKiNWJ4%2B33x775xVQk2z7qevGktlZUfFkxIq0QE4nZYv5CU5CuGjCpdYoRQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "mutate (v) = làm cho... thay đổi/biến đổi",
+      "influenza /,influ'enzə/ (n) = (y học) bệnh cúm",
+    ],
+  },
+
+  {
+    id: 72,
+    transcript: `So it’s a fantastic place to be a puffin; there are no ground <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>predators</span>; there’s protection. On the other hand, if you’re going to increase in numbers, and we increased from five pairs then to 2,000 pairs in 1972 when I started up to about 80,000 pairs in 2003, you’ve got to have a lot of food. I mean you’ve got to have a hell of a lot of fish however small a bird that you are. And there seems to be <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>profound</span> changes in the North Sea where man removed all the large fish – the large cod, the haddock and those sorts of things – for human consumption. And the numbers of small fish increased and this <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>allowed</span>the seabirds to increase. You’ve got a lot of big fish that are of no use to seabirds, they’re just too big. I mean puffins will only eat fish up to about 20 centimetres long. Anything bigger than that is <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>safe</span> from a puffin.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-72.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=FHxwOEw93Rtnu3g6t2hQ5QMpOWsQTJcmhSfzkon6WRkPtw%2FhbAfEkzkk8VBv1TIws%2FgQljsGKSmw%2B2xZwws1C7qkYFoaohzPPA7dIm9mQYj%2B837wHOd%2B8UzQUIS1g%2Br8Pu7lR39DPV0Ba7wsvWsKt2i3ojPcqNH4E8t4EjOzsE%2FoTa4Twl3lYSw9Z%2B5seALAg6PEQLC9VAqs5LM7HxN%2BFmYNW1mtFTd%2B8GhLLMGOJTXoaJwRWsAtyTSIe4TTEHF2RIpdLmV9IPt1%2FjAQ8xLa%2BRnX4uUBVAJC2XMoaIkxNuNJW%2Blel7QjbZMdUE1nYsy08QL5ES9%2B1DYTHuZvedxpzA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["puffin /pʌfin/ (v) = chim hải âu"],
   },
 ]
 export default LFillInTheBlanksData
