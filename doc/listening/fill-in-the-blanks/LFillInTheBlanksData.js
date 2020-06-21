@@ -913,5 +913,99 @@ const LFillInTheBlanksData = [
     priority: "normal",
     newwords: ["puffin /pʌfin/ (v) = chim hải âu"],
   },
+
+  {
+    id: 73,
+    transcript: `That brings us to the CEO’s second duty: building the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>everyone</span> or more accurately, building the senior team. All the executives report to the CEO, so it’s the CEO’s job to <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>hire</span>, fire, and manage the executive team. From <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>coaching</span> CEOs, I actually think this is the most important skill of all. Because when a CEO hires an excellent senior team, that team can keep the company running. When a CEO hires a poor senior team, the CEO ends up <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>spending</span> all of their time trying to deal with the team, and not nearly enough time trying to do with other elements of their job. The senior team can and often does <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>develop</span> the strategy for the company, but ultimately it’s always the CEO who has the final “go-no-go” decision on strategy.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-73.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=VUOuWT%2F%2FKJKMChc7MrpK0NZGrSXVhsB89%2BN7g0QX0xqmEpikcR6HMde5bz8MPkMFf5%2Fzf56Kyr8yonNlwX4SxyZJ37Y9vv5v6p%2BrFaq2FpFGSDEYQ8%2F7s5iaVdFuXawWfnGj%2BjSxcz0A3wKrwvrfW2iUgfVd6qwmhLUHVBk9uyu9WHhtfhXNl74Lc2lgZf%2FVmlWInpgdU9qH17DPyldZFrR5GeXF1fmWehzDtSpZyRDZZ%2FFmWROZZq6MBIPCjAu07Ob8%2BfQLELuSeivA3MlHxJ74pi%2FisXAP%2F%2BQZcQXZHq0ZQaM10iSTiKgHtWZyVVDLdoac83Bvfx7eTcyA23v2Ug%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 74,
+    transcript: `It's a painting competition for artists who are living or <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>professionally</span> based in the UK. There's no stated age limit on it but it does tend to attract <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>graduate</span> level and above artists. Historically it has had different sections to it. There was, in the 60s, a <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>sculpture</span> section but that was phased out and that certainly now we're dealing with works that are in, as the <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>rules</span> state, any painted medium.<br/><br/>Some of the works if you look in detail what's in this exhibition <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>incorporate</span> things like collage, inks, watercolours, for example.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-74.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=GhaMu0AbUyZD8ht75XPSkAmDT0cthXyTmWuhMNsTQe3dkOl3uODhcZnNzL%2B5K48TH0eQvGgrNlorhl7Y6tslbml75IG0P5YjPuaGs0fBQGYH8n8pB%2F%2Fdd0eYlErKfNdEut1oU%2FQ6gTfiuTxH3V3cpFX2sGGQnkbz4kgri5UjA0WxhP19pzIOn0VpK3IeohXGBF15FNnb%2BtUaoaNqPbbUmc8mFRsHS7tUOs9nGy4tknTahgSkTVRkUuG8v7H3agWd0jGVpDHlqcujkkwfa4GZckng562Ee8mUOBplX8%2FppMqN921ciIyC8mVXRO16yVQJvc9MyAPGiCySE0ci44%2Fm2Q%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "sculpture /skʌlpt∫ə]/ (n) = nghệ thuật điêu khắc, nghệ thuật chạm trổ; bức tượng"
+    ],
+  },
+
+  {
+    id: 75,
+    transcript: `Perhaps you've seen pictures of the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>large</span> array of, you know, those radio telescopes in New Mexico, scanning the skies for <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>intelligent</span> life in the movie contact<br>Well radiant astronomers have caused to <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>celebrate</span> the first phase of a giant new Radio Telescope Array went <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>operational</span> in Northern California, it's going to help astronomers study things like black holes and dark <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>galaxies</span>. All the while scanning the stars for, who knows, radio <input autocomplete="off" type="text" class="blank" id="blank5"> <span class='answer hidden'>signals</span> coming from somewhere else in the universe. Maybe ET is phoning home.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-75.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=CQLdCImdR7ZR7XXXcFfXunxXugxOqbN1%2Ft8SlDrqsKj2bJGeHlwRZ1Du3lultmMQeeqYfKG1KUfsbdI9%2FPvEl5uOOWiM%2B6BvIANisRm%2BEbihTjnc%2FcHwpBpSOmfnfZYAfSOEqDjfHASM77hCE0wLiSA5GjV3EmOoMJFrF62kxDCA3EuSXjZokhuRPxajOVoVZfbO55hatuH49JhJQAzvSprM9E0BPiS2NmXThHyuBsoTdncl1cdlXB6cfc2JUhbHQcmtBk1r%2BDVhsNlfSrhTicm7C9pdVuHoSmSPlx2pX7ndDSMtUm8OwUzzZnUZ7q2MS%2FzFwIoZVuVq3cH6P7RGNQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    ],
+  },
+
+  {
+    id: 76,
+    transcript: `Many different types of barcode scanning machines exist, but they all work on the same fundamental principles. They all use the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>intensity</span> of light reflected from a series of black and white stripes to tell the computer what code it is to <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>see</span>. White stripes reflect light very well, while black stripes reflect hardly any lights at all. The barcode scanners shines light <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>sequentially</span>across the barcode, simultaneously detecting and recording a pattern of reflected and non-reflected light. The scanner then <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>translates</span> this pattern into an electrical signal that the computer can understand. All scanners must include computer software to interpret the barcode once it has been entered. This simple principle has transformed the way we are able to <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>manipulate</span> data and the way in which many businesses handled record keeping.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-76.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=diamqksyX61YgeWU5gfcRBMPocTqTesw%2FizHHrbG3SV6brisHN6xy%2Fuha9TI%2FImSWgrL5idDonw3MN1cUed31Y250dOQRuVH98KzfxRUolf%2BKhJQVy0cQuJow158ekHHL7CmBsWTO4q0JzeDOO6ZNG%2BaQ42035OQ4dSy170II%2BlvWjoRKfe17dEOzsO2TRmuU6GRcwEW1RQcKkRYWyC7%2FALF0nELBQJqiZt5wjKh5Vp%2BUuAA%2B4mlWOYcX0ju1dbfn%2BRqBGh6Psq8E4dx4tRhu%2BbqfZ%2BY%2BsNJ42WySevKg20fOLNZiHIBECqswXJ2IGhFCDkUUTZ2sah4DANO3bU4%2Fw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "intensity (n) = độ mạnh, cường độ"
+    ],
+  },
+
+  {
+    id: 77,
+    transcript: `This year marks the 400th anniversary of the first <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>permanent</span> English settlement in America. A group of Englishmen, including John Smith, who <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>later</span> was befriended by Pocahontas, built a <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>fort</span> at Jamestown, Virginia in 1607, 13 years before the Pilgrims crossed the <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>Atlantic</span> on the Mayflower. And for the past 14 years, Bill Kelso has been working to <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>uncover</span> the secrets of Jamestown.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-77.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=HhP%2BTvef%2FTkA%2ByvqgYaCqlQnwZwA8JC4EWmSP8fAsdlAq%2BCG2362bmX0KIpWXuVzmwxBzeDig6rDj0kpwupDcgJ7nbgvhvqYdmX80w1mVjJI2T%2FTXMOlQxqZQ2WcWMrYpnDTQga42YbTrC0NX8H9%2Bs7W91xIlqbOk62IAlv8BMb9sNarQRf8rqBg7nhYcQXVxacyA4dUOHHI1C%2F8wyAnPVq1jrJyGZ1LKyCSszgT%2B0nT4sP0rMFEfy5vZN1797P2WH7af544tRCVLpRxUp%2BEJUePwt3VwO4nBCtart4HN9qb13x9VM7SGD42yFpwczs2TnnlJ8hMjoxCrCzFb49fGA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "fort (n) = pháo đài"
+    ],
+  },
+
+  {
+    id: 78,
+    transcript: `"So there are too many different ways to <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>clarify</span> people in their lives. Some of them are engineers just trying to get a task done, trying to get the <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>computer</span> to do the dance.<br/><br/>That's all they were interested in. And other people are doing it for psychological purposes. But they aren't two completely separate <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>types</span>. Because after all, if you are what have called an engineer, and AI engineer, and you're trying to get something to translate or interpret <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>protocols</span>, whatever it is, how are you going to do it? When your first ideas usually are going to come from your intuitions, which may or may not be <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>right</span>, of course, but your intuitions about how you think people do it, or accurately probably how you think you do it. So in fact, a lot of the people who do AI for these purely technological purposes, are actually riding on the back of psychological <input autocomplete="off" type="text" class="blank" id="blank5"> <span class='answer hidden'>theories</span>. But the point is, they don't care if they sort of fall off the back of that horse, as long as they keep tracking."`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-78.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=H98wXT6zPkWiRVMLV2l2dodFwhj7NnDHCoYjNycEExnZbIcECpFmFx%2FCxuTcFo%2F7qnGWrMHeN5uv9ui%2BmNNscyxnkjksK2YUGL4FrFluma9OHpIB86bl%2BsKlg1WX90nLkdCtfdJRoRL3x1EtxT2uLukekd5CB7tYlRPU5oQXfeTtANmgl2saX9R%2F62t%2BDtdz0XyLGiZ09CZc7G%2FrsfoGY%2FMWfczopsaBMoc0sspD7RoEOWLZ9iseKHjs7DWqD%2BJj59lIcVBpGRiOjhHtCUv0AO6B7upFWuFp57qIb9l6YnISoK9lV8ZFruHcvFkilHBkQfe4o4uwGF%2BczXlxmcpXxw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "fort (n) = pháo đài"
+    ],
+  },
+
+  {
+    id: 79,
+    transcript: `In animals, a movement is coordinated by a cluster of neurons in the spinal cord called the central patterns generator (CPG). This produces signals that drive muscles to <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>contract</span> rhythmically in a way that produces running or walking, depending on the <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>pattern</span> of pulses. A simple signal from the brain instructs the CPG to switch between <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>modes</span> such as going from a standstill to walking.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-79.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=PmhaI8bGeyykXhtLXtVHVqG%2BaLTiXoEKxVXHu5%2F5aqJCYThHy6ZrLuHA02bZqCM1VIYknA8GG9KzN23s0iNp491vKv%2FbX9OSbWD%2BXtMzKG%2FvX%2BbQwn%2Bye6R4P%2BK%2BrLyGWiVoc6TGVwUuTrTEblO59gccBlqAx8TA5d%2BQs5gtLIClELSOGiYSMEmf%2Bh8xQ0yGFfDh2tiIuCK4OXkMyqTczjwI4Sq3UeFuVR2Od0%2F6v9NufXWw7VwX9S%2BW2mrLO%2F1hJUIrRpAanQcPMiBQLh1t2%2Bxx6GL1iVeshXbFlAnd%2BuFBw0%2BhQXKrc7BLMbYcHl2aTMiKvdq2BhS%2FTNGTWdF44g%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    ],
+  },
 ]
 export default LFillInTheBlanksData
