@@ -1007,5 +1007,187 @@ const LFillInTheBlanksData = [
     newwords: [
     ],
   },
+
+  {
+    id: 80,
+    transcript: `The ocean has been getting bluer, according to a study published in the journal Nature. But that's not really good news for the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>planet</span>. It means that the plants that tin the ocean <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>green</span> aren't doing so well. Scientists say that's because the ocean has been getting <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>warmer</span>.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-80.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=KRTXaviy%2Bf9QlOhQoTq0Ue5zAtNhYx%2FBj18zAJ5i7M06SDJMoCzLOYRy2iGenqLmGYW4K6sAz0THsUMZWzLgxhqs%2Bfjr69InmC1CY3DAlrYEHgMbMfMOyhh0T4qXKrff2lplONu6kjMjmCj201EtSSJGDq35%2Fopg5xaz%2FlcP1YrYx3yszZvYjlULWqScLhwWZdvgXX6ja2Gq%2B9WdjRIKukI55G1R3VpNelrU5Qekk1JMdWW%2FUFXrVQtmfCX2cnvIj6bj4fCooEEVIRvLBBEYJNGkVZTLWV%2FVAICfIffGWTW1jVkE6eG2S7c5VlRRXrvb65hM5PEigYnfuHLwL6tNlw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    ],
+  },
+
+  {
+    id: 81,
+    transcript: `Bruch and her colleague Mark Newman studied who swapped messages with whom on a popular online dating platform in the month of January 2014. They <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>categorized</span> users by desirability using PageRank, one of the algorithms behind search <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>technology</span>. Essentially, if you receive a dozen messages from desirable users, you must be more desirable than someone who receives the same number of messages from average users. Then they asked: How far "out of their league" do online daters tend to go when pursuing a partner? "I think people are optimistic <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>realists</span>." In other words, they found that both men and women tended to pursue mates just 25 percent more desirable than themselves. "So they're being optimistic, but they're also taking into account their own relative position within this overall desirability hierarchy." (All the graphs and charts are in the journal Science Advances) And the study did have a few more <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>lessons</span> for people on the market: "I think one of the take-home messages from this study is that women could probably afford to be more aspirational in their <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>mate</span> pursuit."`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-81.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=Zej1Ok8LONCrAlpSXPu7q72Zq0BkXvSAmGSy1ar4tme90PNf6ROfr%2F8MzwfNA0G5wYZWcM1jKMjv1hsd4926bLKqPm1OLyZv1486kxQuc9tUYYOMVW7Yi8XCp2SVYSz32UwR0GU0%2Bqfaqz13%2B45O23whtoXJgMUpVYNU8QUcsbRw0Nwia6%2BLfSf6XFkDYl3zm0P7OPTAkuNktelu9cx7YH1bU63HaB48YksFj3L5dEHl%2BAJ3RXLQ4LpnJYfDPMrONHR8MZ92nYoBb%2B9NHwX0r7I8TxnAYUKG0XYU0yhZ68kf1qg6baEp%2BraIK8mT08jEKZQuXv0d06ppsoUbmLeiRA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "aspirational = tham vọng"
+    ],
+  },
+  
+  {
+    id: 82,
+    transcript: `Help us understand what entrepreneurship means to you. Is it just about starting companies?<br/><br/>Not at all, Tina. I think, for me, entrepreneurship is about <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>transforming</span> things by initiating, by taking new ideas, by seeing them from concept into <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>practice</span> so that the impact of the idea is larger than it would be, let's say, if you just wrote a publication about it. So, I think it's finding <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>creative</span> ways to solve problems, to do new things. And I think that's what it's about. So, I think entrepreneurship can <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>happen</span> inside universities. I think we try to think of ourselves as an entrepreneurial university. We take risks. We try new things. And I think that's an important <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>asset</span> for anyone who wants to lead an organization or lead change.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-82.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=Za3Sx2%2FauRpVgp7YKWaMDoC%2BtSjjSAm7Pg78WkfsRiEhSwJaCzZ0bOyd4cVlF6VoizsTM049UjSQ3UScW9TApHVUVOLuIml8TzqgaEt9FMGIpohInjH5Mu0bihwcl78obF%2Fu0qqIyvgHSEj4bSfGb7HzNK34j7R2LW586Q2%2BuFZyenKwEunJtsrLjImS9INmEYfPHRre4rIq%2B2hKgbnKzUCBJf9nGQLMQHPq%2BzRoFVa7L7SzXHiXTL1jll4mBvLY8BjRlFg7oE7rs4%2FjRFMf8AwKolnDZ1ZrOcJgJYwkhN%2B%2FcPdr63CpsYzYU8fIyy5anIJL3lHuJCDcFQejOYeXeg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    ],
+  },
+
+  {
+    id: 83,
+    transcript: `The question that most people want to ask at this point is, how do we <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>speed</span> up the transition? If it's a good idea to have fewer people in the world, which may or may not be the case, then how might we move towards a <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>situation</span> in which population growth rates are reduced? How might we speed up the transition, the <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>demographic</span> transition that I've talked about?<br>And I think there are probably four kinds of answers. I'm not going to suggest that all the kinds of answers but those are the most <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>obvious</span> ones.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-83.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=Qi4xfQ0a2NpIK3ZolHeSZl%2B6l7NZbnkkTdfyPk0Q8k8Pfq51ce512TyVgFx6dmqxxPoxJTwuWx4qHHt47cT6n8UALrN6goURcxybV2Dm3yalpRP9msm1u%2FW29o2UuNCDxuN1LLQNU1vEPy0rFeX861RsMFK2Phcj71p%2FZiD3V5lXXaw9eJZq6lEkkcBLmCY6nWBH63tiNzMpCaT9AHjE1sBerVx%2Beh2NYvTGLwfxg0xMeVUIxGnis8kUT6%2Bz9K7afuXSxK3%2BeNSUsS%2BUEHy%2Bd8IcnhsXdPtl%2FIv8jDlYsELI3RsN1hAeSSb43WHaXrcZCzdpGqccoC3POZR2Upc0KQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    ],
+  },
+
+  {
+    id: 84,
+    transcript: `Obviously, this is all relevant for your final <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>assignment</span>. So we're going to talk about it. So until today, we've gone through face to face interviews as the main sort of part of interviewing the window.<br/>Today we're going to have a look at going to use an email and why they work, why they don't necessarily work, and what are the <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>challenges</span> and some of the things that we need to be understanding, you know, when we are completing such interpreters. So let's start with the foreign one. Obviously, there's a few <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>benefits</span> to them, and they are listed there up on that slide. It's obviously less stressful for those of you who might be a little bit <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>anxious</span> about interviewing.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-84.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=Z9Nixfn2fqOX36IsZnEgsvf%2Fv%2FwTboSfnRO1Y27P%2B%2BV19BklkRRAtXmCKDtmAs28rZnkvfq5DD3KFeZIVGvQK97KSOiuxX6ug0pZtjdnACm42wRAMPLs6lnUqLI9Yzgr5CuFklO5%2FiQifk1p3avkUsf8lJlIxKQy87WH%2B9cncUTW5jGF6qodPzk93od%2BO%2Bd1p7v5I1WVBHdw553OcWgUt4DncqtXLLDenx4GHFwgYNYn4hPektY%2FRBrvMqLlc2JhciT6meonwNyZol2vM2P8UQli8yyPmgJyLp6POVJTcWNvw52Kl09PUsLOl1tWkNdODuhQF3F%2FU729x0crmLn8iA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+    ],
+  },
+
+  {
+    id: 85,
+    transcript: `Dave Hackenberg, a beekeeper since 1962, can usually tell what killed his bees just by looking at them. If they're lying on the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>ground</span> in front of a hive, it's probably pesticides, he says. If the bees are <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>deformed</span> and wingless, it's probably vampire mites.<br>But last fall, Hackenberg saw something he had never seen before. Thousands of his bee colonies simply <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>disappeared</span>. He was in Florida at the time, pulling the lids off some of his commercial hives. To his <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>horror</span>, they were all empty.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-85.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=Gzeod0wwyF7TS%2FuX0V48UiosteJ8%2F2ZuiuRpNuBDdrzx9KU6i2Y3l2gXPOroseW48dLSlN8ii6eH3MxCcCYoyEkGYH8ExgJqWRjhUISuaIIHnNTJctB%2BVHEDnXDtOm4e7AAtENJPU9eccDti9Br3o3yYTYIhhIixeJBK2kXxpbw03ssQ6UpDabe25OL48Ky8djhY9fNjmnytanmV4gpA7NX7p7nDYsCW8v49vtne%2FlcrMMTXSCNcGPitieYJk%2FCjLIVXLViAGGeLpQW6NST5QouOGk2zk5wRrqi4uxXJbng9T8d4w67vLE2ZQqaUMGnN0m7wlZlUtiPx%2FyMiaidUPg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "deform (a) = bị biến dạng, bị méo mó"
+    ],
+  },  
+
+  {
+    id: 87,
+    transcript: `Now that story's been scotched, as only part of contingency planning. But it was a symptom of the dramatic turn of events in South Australia, and it flushed out other remarks from water <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>academics</span> and people like Tim Flannery, indicating that things were really much worse than had been <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>foreshadowed</span>, even earlier this year.<br/>So is Adelaide, let alone some whole <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>regions</span> of South Australia, in serious bother? Considering that the vast amount of its drinking water comes from the <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>beleaguered</span> Murray, something many of us outside the State may not have quite realised. Is their <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>predicament</span> something we have to face up to as a nation?`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-87.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=CX0MiG092patc03IkZcH2OUeKnZC6HRt4SmaehtA3AXllGI6SMnz9Sc5bZ%2BumZ6rYhMxfaE%2BKRU9AVoYDwfLG4%2BQFJzT3be9BQuz%2Bq5YpolF3NmfxVO6Pie54SKblLHBbjhUYIzSBpNanaZ8d7V4aUHrpfGlp5EgPeqDiC%2BNz3lGRWBSVRjCwmbRGg70%2FkSSl1LDMjkxgHgA5bOa7eT1wU4MddUG3k7Zg2bl3dUoXAD5xwdD%2F7eaZJ%2FeR3VDMAG9pMG3qzkURFqCZfLNG%2Bgbx1azsalU6bOTYEprJeCspStSO%2BDjBdwTOR00A6uQc606Pj2M0XkrGkC%2FuvR51XSPHw%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "foreshadow /fɔ:'∫ædou/ (v) = báo hiệu; báo trước; là điềm của",
+      "beleaguer (v) = vây, bao vây, quấu rầy, quấy rối",
+      "predicament /pri'dikəmənt/ (n) = điều đã được dự đoán, điều đã được khẳng định trước"
+    ],
+  },
+
+  {
+    id: 88,
+    transcript: `When one thinks about the great <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>distances</span>  between the stars, between one galaxy and another, between one <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>cluster</span> of galaxies and another it prompts the question: How big is the universe? Here we have to make a <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>distinction</span> between 'the universe' and 'the <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>observable</span> universe'. We see stars by the light that they send us. It takes time for the light to get here. Light is fast. It travels at 300,000 kilometres per second. But the distances involved are <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>immense</span>, it takes four years for light to <input autocomplete="off" type="text" class="blank" id="blank5"> <span class='answer hidden'>reach</span> us from even the <input autocomplete="off" type="text" class="blank" id="blank6"> <span class='answer hidden'>nearest</span>  star. As for crossing from one <input autocomplete="off" type="text" class="blank" id="blank7"> <span class='answer hidden'>side</span> of a galaxy like our <input autocomplete="off" type="text" class="blank" id="blank8"> <span class='answer hidden'>Milky</span> Way Galaxy to the other, that takes 100,000 years.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-89.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=hBRbHTiADXUQWYx%2BEO3p8pY2q9tsaP6t8caTu3Ln1xY7RPBaYuqFqrrt2vzQR7Q%2BcOKF2MuUunJbq%2BaYSjyi5wY%2FR3Iw6Sufrl7%2B1MZCb9PozU9s8jKPfdkuou8rAjejxlt284K2t1iBoMikoV86vX4FKP51m4bmYLIEZ7KMk5hl6%2F%2BTKrSo4%2FzYZxku5HR37PdDbIj%2BUzBSenrB9ZJVmxbdfsQ1EIAUUEVH%2BS8dVAZFntGIwlcjy7L7dg%2F5JTCtrg40NBPeb5iXEBwDichT4s3gEyk%2BRT8mcUD8Htw%2FrhJco6v8mVJhf1MsgJNXd43uom%2BCs6hZxcc7VCpSth4Z6w%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "distance (n) = khoảng cách",
+      "distinction (n) = sự khác biệt"
+    ],
+  },
+
+  {
+    id: 89,
+    transcript: `I'm going to focus on the <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>concept</span> of judgment, that something is key to <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>academic</span> freedom. The university is in a position to sort of <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>manufacture</span> people's minds. It is clear that judgment is something that is naturally <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>instilled</span> in people in the normal course of <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>events</span>. And let me just start by pointing out something about how <input autocomplete="off" type="text" class="blank" id="blank5"> <span class='answer hidden'>rare</span> the concept of judgment is these days.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-89.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=hBRbHTiADXUQWYx%2BEO3p8pY2q9tsaP6t8caTu3Ln1xY7RPBaYuqFqrrt2vzQR7Q%2BcOKF2MuUunJbq%2BaYSjyi5wY%2FR3Iw6Sufrl7%2B1MZCb9PozU9s8jKPfdkuou8rAjejxlt284K2t1iBoMikoV86vX4FKP51m4bmYLIEZ7KMk5hl6%2F%2BTKrSo4%2FzYZxku5HR37PdDbIj%2BUzBSenrB9ZJVmxbdfsQ1EIAUUEVH%2BS8dVAZFntGIwlcjy7L7dg%2F5JTCtrg40NBPeb5iXEBwDichT4s3gEyk%2BRT8mcUD8Htw%2FrhJco6v8mVJhf1MsgJNXd43uom%2BCs6hZxcc7VCpSth4Z6w%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "instil (v) = truyền dẫn (ý nghĩ, tình cảm...) cho, làm cho thấm nhuần dần",
+    ],
+  },
+
+  {
+    id: 90,
+    transcript: `Well 3D printing started in the 1980s. At that time it used to be referred to as <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>rapid</span> prototyping where companies were able to use it, for instance, to visualise the <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>shape</span> of the component or a component they’re about to make. But then during the last ten years the technology has <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>evolved</span> from the prototyping level to the manufacturing level, specifically when it started to move from <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>plastics</span> to metallic materials. My interest specifically is in the field of high value additive manufacturing, meaning that we use additive manufacturing to produce <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>components</span> for aeroplanes or for cars.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-90.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=hn3AAvP5YLjKhlyq05ce%2FBFDv6Wn%2F9vMCDdVu2zIFCZSk7t9ZAiWL4zmZ%2Fw4l1trY%2FK8tzubJjYxNQSWRjBmp9UwbxsMew85Hh71rOq2F6mNoHm6pKoh11I%2B5W0GozH8niTxrxCakBDUx9Emwibw6NKGp3XRYwYm9Z22lX8P%2BeFcgFHEwkQF8MrzlZk1hP0oIgxQjjgAqQ9e0PqoEb8cq0wRaG82EQgI43N4r5IvHoIwrfz4NARK3Atz0qHtGCR6Y5gS9xvhFgpAO9VMeQ%2Bl%2B38rljZ78j6L4BYVkOLazaktMs4g9D2C8CFT%2B2fVgbrzUq8%2FgXJmdHwDL1X3X18AEA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      
+    ],
+  },
+
+  {
+    id: 91,
+    transcript: `This is one thing we can say about babies - human babies <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>compared</span> to babies of other species is that we are entirely dependent on our <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>carers</span> to bring us up and for us to <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>survive</span>. And so it's very important for babies to get into relationships with somebody who's going to look after them well. So, <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>biology</span> has meant that babies and the adults are geared up to be in relationship with each other from the <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>start</span>.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-91.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=NHKVg2VYP9YDUrWctzgWv6rixT5z1VOtGs4l5WPT2MHA0ogqLGFOBN4agOBN%2B5pqFlPZHIKHctOy641wL%2FwT5XMpMdrAMdCdK6rPxNfnrs1TUiGpt2uEJ9LcPt5NnV6m80js2My%2BS2lQRVjBUIko833CWau7m%2FRnGJAnrzD9nvnwxNfpy%2BlY5mzabEFGfgArFbInXEqYp3Cco4de%2BaI%2BP10uCoGd0Wmw7aAyMnoHTvYrihJOPiWdUDYNdou9MKntyHUbzeuDzu628edxdYNGxfeab%2FFVd1SCiFrBngSupekqrqiGd0HOb5F6F7B3rAAacojY2gbmzmGE%2FuUva2twpg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      
+    ],
+  },
+
+  {
+    id: 92,
+    transcript: `Leading time is the amount of time that elapses between a business placing an order with a supplier for more stock or raw <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>materials</span>, and the delivery of the goods to the business.<br/>Businesses want the lead-time to be as short as possible, so that they can meet their customer orders and <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>minimise</span> the time between paying for the stock and receiving the <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>revenue</span> from the customers.<br>However, this may not happen due to a number of <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>factors</span>, such as delays in the supplier receiving the order, or the breakdown of the suppliers' lorries <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>delivering</span> the stock to the business.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-92.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=fk%2B2ruPhpZirzrjPV2MQdGxtG%2BiTZvSpSEi7np72kVJ0T3wXqxe5eqLdHrf5ti%2Bp6E90c2H0qCwYmkFilNtHCbGoIPb90OBA4LOLAFMZvHzzOjdAytoevUUxPHymlYDGgJK8z%2BfMnRP8Y77KOwOR5EBLMcqUr2Kbww7hB05ELGWukezxGsXwt4xhXWdgjPvvinIOCnVcfGMB2wr1%2B80R9fri%2FEJ8DgXuctO3Cf4rN9856RpYS9BQVFBV0VM1cmwlVjDMAFHYZpin9VHxfmY2aVqMn2SEFIO5kcHNHmam6wYHxKROTfWbcKRA4b5qf3yePV64qMkorz%2BygaNphzXuFg%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      
+    ],
+  },
+
+  {
+    id: 93,
+    transcript: `But how do you tell apart the different hands that have been working? <br>Well, of course, the fact that the hands look so similar was <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>intentional</span>. The scriptorium wanted a professional-looking work and they didn't want a lot of <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>individuality</span> in the script. So, the primary objective of the originals - writing in this manuscript was to make it look <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>identical</span>.<br>As a matter of fact, because scribes are different people and they have different hand-eye coordination and different <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>habits</span>. They ended up producing something that was slightly different, which is not easy to tell to someone who hasn’t been <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>staring</span> at the manuscript for a while.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-93.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=azPARvYEEDQS2tbkNSQ2URn%2Bo534Q7VoiOtoj%2F3klvzPF%2FUMD6C4XJ7x5ZMUT6eQyqF%2B0Rc6OWP2s2S3BLCDvQseDDhI3xLyHzyVsawArta%2F2i%2FrNiqkNxuKPHHfTqzB6SfQp2ieR7mLbriISe390E%2BV%2FSzhF%2FpDt1j%2BsD2QVD9V7BMq4A6CWnsROChIQkMLo7Aqff5NTJj%2BDW2O7145rBM8Jg0yMN%2B%2BffjyWFcVle2i%2FMkBKpAeKh8JoJZRmj4lVsc9bxQw88vebUpjGwlH%2Bm2bR0ovX1x0vWIkabbCyJ%2BOnAVyf0TvkIYT08dQ6ZOmKoFGjeUo%2FccpSMzJVIi8fQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      
+    ],
+  },
+
 ]
 export default LFillInTheBlanksData
