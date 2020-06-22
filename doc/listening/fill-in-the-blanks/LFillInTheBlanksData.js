@@ -936,7 +936,7 @@ const LFillInTheBlanksData = [
     times: 1,
     priority: "normal",
     newwords: [
-      "sculpture /skʌlpt∫ə]/ (n) = nghệ thuật điêu khắc, nghệ thuật chạm trổ; bức tượng"
+      "sculpture /skʌlpt∫ə]/ (n) = nghệ thuật điêu khắc, nghệ thuật chạm trổ; bức tượng",
     ],
   },
 
@@ -949,8 +949,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    ],
+    newwords: [],
   },
 
   {
@@ -962,9 +961,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "intensity (n) = độ mạnh, cường độ"
-    ],
+    newwords: ["intensity (n) = độ mạnh, cường độ"],
   },
 
   {
@@ -976,9 +973,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "fort (n) = pháo đài"
-    ],
+    newwords: ["fort (n) = pháo đài"],
   },
 
   {
@@ -990,9 +985,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "fort (n) = pháo đài"
-    ],
+    newwords: ["fort (n) = pháo đài"],
   },
 
   {
@@ -1004,8 +997,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    ],
+    newwords: [],
   },
 
   {
@@ -1017,8 +1009,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    ],
+    newwords: [],
   },
 
   {
@@ -1030,11 +1021,9 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "aspirational = tham vọng"
-    ],
+    newwords: ["aspirational = tham vọng"],
   },
-  
+
   {
     id: 82,
     transcript: `Help us understand what entrepreneurship means to you. Is it just about starting companies?<br/><br/>Not at all, Tina. I think, for me, entrepreneurship is about <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>transforming</span> things by initiating, by taking new ideas, by seeing them from concept into <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>practice</span> so that the impact of the idea is larger than it would be, let's say, if you just wrote a publication about it. So, I think it's finding <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>creative</span> ways to solve problems, to do new things. And I think that's what it's about. So, I think entrepreneurship can <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>happen</span> inside universities. I think we try to think of ourselves as an entrepreneurial university. We take risks. We try new things. And I think that's an important <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>asset</span> for anyone who wants to lead an organization or lead change.`,
@@ -1044,8 +1033,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    ],
+    newwords: [],
   },
 
   {
@@ -1057,8 +1045,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    ],
+    newwords: [],
   },
 
   {
@@ -1070,8 +1057,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-    ],
+    newwords: [],
   },
 
   {
@@ -1083,10 +1069,8 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "deform (a) = bị biến dạng, bị méo mó"
-    ],
-  },  
+    newwords: ["deform (a) = bị biến dạng, bị méo mó"],
+  },
 
   {
     id: 87,
@@ -1100,7 +1084,7 @@ const LFillInTheBlanksData = [
     newwords: [
       "foreshadow /fɔ:'∫ædou/ (v) = báo hiệu; báo trước; là điềm của",
       "beleaguer (v) = vây, bao vây, quấu rầy, quấy rối",
-      "predicament /pri'dikəmənt/ (n) = điều đã được dự đoán, điều đã được khẳng định trước"
+      "predicament /pri'dikəmənt/ (n) = điều đã được dự đoán, điều đã được khẳng định trước",
     ],
   },
 
@@ -1113,10 +1097,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "distance (n) = khoảng cách",
-      "distinction (n) = sự khác biệt"
-    ],
+    newwords: ["distance (n) = khoảng cách", "distinction (n) = sự khác biệt"],
   },
 
   {
@@ -1142,9 +1123,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      
-    ],
+    newwords: [],
   },
 
   {
@@ -1156,9 +1135,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      
-    ],
+    newwords: [],
   },
 
   {
@@ -1170,9 +1147,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      
-    ],
+    newwords: [],
   },
 
   {
@@ -1184,10 +1159,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      
-    ],
+    newwords: [],
   },
-
 ]
 export default LFillInTheBlanksData
