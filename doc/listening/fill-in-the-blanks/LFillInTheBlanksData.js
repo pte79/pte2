@@ -985,7 +985,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: ["fort (n) = pháo đài"],
+    newwords: [],
   },
 
   {
