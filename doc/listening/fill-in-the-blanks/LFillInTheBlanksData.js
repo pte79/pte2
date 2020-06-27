@@ -111,7 +111,7 @@ const LFillInTheBlanksData = [
     id: 10,
     transcript: `It is about a hundred years since that great Canadian-born physician Sir William Osler, Regius Professor of Medicine in Oxford, <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>complained</span> about the increasing influence of the pharmaceutical industry on the medical <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>professions</span>. If he knew how this influence had increased since then, he would be turning in his grave at the way the industry now dominates doctors’ <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>prescribing</span> habits. It does this not only by direct and indirect pressure on the doctors themselves, but also by <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>encouraging</span> the public to ask for scripts and to demand that governments <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>provide</span>the money.`,
     audio:
-      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fylxx77oopt0oc9fgrthisi-10.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=Y%2B5Yx8eT79cPXU9ngAJu7Idm6sOuRWICQK6A5LhS5cshXyS0YPK3XnCmD7TzqqaQfV7Cyj9zwvHKc6DM%2B7%2BbphzLZQrv2%2FBVOQUHNYa4Qg8PFQHL5LmWpZ8p2lug2M3j9LspArgZlS26qobkxaIOasHYJppbLZD0wyysF%2Fk5q34G3cigUq1lpxjpFe%2B1rHjydTefQ%2F0IqmvqA%2BH5CMftH3SKIfTFfTm5xvs6vizODDWg1n02%2BZsmnXrS76yNUvr4HJnsCxr3CxtLlLBjufCUIlHdfP1SzOZUy7WfU4ePIX5svE0hYEsiKOqW8b122UWBRCDkMP1oDg1BQ0cqj97vtw%3D%3D",
+      "/audio/FIB-10.wav",
     answers: [],
     level: "medium",
     times: 1,
@@ -123,7 +123,7 @@ const LFillInTheBlanksData = [
     id: 11,
     transcript: `My name is Posy D and I now work in sports marketing, and <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>branding</span> events and team management. We work with big brands, I work with a shoe company, and we work with a team of young people across Europe, who are all professional <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>suffers</span>, snowboarders, BMXers. And we send them on trips, we organise adverts, we organise magazine shoots, and try and create an image around the shoe brand. I've come from quite an <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>unconventional</span> background. I was a professional snowboarder myself for three or four years, full-time, so I'm not used to sitting in an office, I'm not used to going to work every day! And still I've only been doing this job for a year, and sometimes I'm like - Oh God, have to go to work, again, that's <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>branding</span>. But it's always different, so it's fine. And some weeks it's quite quiet, other weeks it's totally full on and really challenging.`,
     audio:
-      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2F5z41e441kdwrjqgbpd12h-11.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=DHez6oVJoeVK2AhkjxXYVF33ABOmpyANP2RANRew15NfbB4N40jdhNk2LJPUqExo2kCmoIkTovx8slugZ64T7yVnoxuzg%2BDUYPhJ8fTIp%2FT3lWwRsW6M85vVaMRN6LXIwvSY%2FjDchvpyWGeS9dZtktKj3MunzqRu1ZiU4jN2cprtDOWDxwGIOhg%2BbY4VHf4Nmu4UbRkkD7UcCjOM%2BrkRqAl%2BpgzKKbae2%2FuxLx4YqPFU7kDYe%2F2QikLa8dpZEuR8GmJ17oAtFUB6Ig%2Bq8UDiaTQrGYHe%2F2L2F%2F7imzDM%2Bpovzqr116qhMjix5ANx0SYsC0Z13Y2KQFVhWgjAHgPk5Q%3D%3D",
+      "/audio/FIB-11.mp3",
     answers: [],
     level: "medium",
     times: 1,
@@ -274,7 +274,7 @@ const LFillInTheBlanksData = [
     id: 23,
     transcript: `Higher interest rates have knocked investors <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>confidence</span> in putting their money into property, evidence suggests. The <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>insurance</span> company Standard Life says that the rate rises since last summer have led more people to question the wisdom of property <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>investment</span>.`,
     audio:
-      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-23.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=fL5SLbQ%2BPaH5JAO5etmeqZ0qYa%2Fodwkkp5gmWzouN78JRf%2F5QIuoJGnbspGc0hNgWHMzh09DDvwlFsg9wnn8lzBlb8vM7lUBpr%2BW0UhZ%2BnT6SG4IC2sa%2B6GD5%2B3ce4MsfODpO25mDjaU10Q3l49LhICjXOFBWm3ZFvpxQSHB2Ei8%2BCuE3eyTjsgy6bTjRcRWkwkJSd5Ua%2B7BmGSIeZW0LJOlSo67RdrWWPqwvuOevlcW0fIqRb13Ge4VNRvDZOht4kPkNjqi9iWoIKCBPu%2BWksrOQ6nZDhcNHhknPREqpy2JVgACVXC3LibYQ3Ei%2B5akATGdH30aViWn8LepHVuQNQ%3D%3D",
+      "https://pteplus.com.au/api/v3/moodle_file/5480434cd4689ac0c10b1f672806f8685b2fbd64.mp3",
     answers: [],
     level: "medium",
     times: 1,

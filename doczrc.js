@@ -5,7 +5,7 @@ export default {
     favicon: "/src/images/favicon.png",
   },
   editBranch: "master",
-  repository: "https://github.com/nguyenletan/pte2",
+  repository: "https://github.com/pte79/pte2",
   menu: [
     "Pearson Tests of English",
     {
@@ -95,7 +95,7 @@ export default {
     colors: {
       text: "#01053F",
       background: "#FAFCFB",
-      primary: "#47c1bf",
+      primary: "#47c1bf", /*#CDE9C6*/
       secondary: "lightseagreen",
       highlight: "#b7ecec",
       muted: "#e6e6e6",
