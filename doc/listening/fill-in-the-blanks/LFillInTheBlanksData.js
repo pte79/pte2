@@ -111,7 +111,7 @@ const LFillInTheBlanksData = [
     id: 10,
     transcript: `It is about a hundred years since that great Canadian-born physician Sir William Osler, Regius Professor of Medicine in Oxford, <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>complained</span> about the increasing influence of the pharmaceutical industry on the medical <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>professions</span>. If he knew how this influence had increased since then, he would be turning in his grave at the way the industry now dominates doctors’ <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>prescribing</span> habits. It does this not only by direct and indirect pressure on the doctors themselves, but also by <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>encouraging</span> the public to ask for scripts and to demand that governments <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>provide</span>the money.`,
     audio:
-      "/audio/FIB-10.wav",
+      "/audio/FIB-10.mp3",
     answers: [],
     level: "medium",
     times: 1,
