@@ -321,7 +321,7 @@ const WriteFromDictationDataFrom101To200 = [
     times: 1,
     priority: "normal",
     newwords: ["thorough /ˈθʌrə/ = kỹ lưỡng, uyên thâm"],
-    order: 20
+    order: 20,
   },
   {
     id: 132,
@@ -372,7 +372,7 @@ const WriteFromDictationDataFrom101To200 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 74
+    order: 74,
   },
   {
     id: 137,
@@ -725,7 +725,7 @@ const WriteFromDictationDataFrom101To200 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 60
+    order: 60,
   },
   {
     id: 170,
@@ -954,7 +954,7 @@ const WriteFromDictationDataFrom101To200 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 86
+    order: 86,
   },
   {
     id: 192,

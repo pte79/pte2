@@ -110,8 +110,7 @@ const LFillInTheBlanksData = [
   {
     id: 10,
     transcript: `It is about a hundred years since that great Canadian-born physician Sir William Osler, Regius Professor of Medicine in Oxford, <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>complained</span> about the increasing influence of the pharmaceutical industry on the medical <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>professions</span>. If he knew how this influence had increased since then, he would be turning in his grave at the way the industry now dominates doctors’ <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>prescribing</span> habits. It does this not only by direct and indirect pressure on the doctors themselves, but also by <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>encouraging</span> the public to ask for scripts and to demand that governments <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>provide</span>the money.`,
-    audio:
-      "/audio/FIB-10.mp3",
+    audio: "/audio/FIB-10.mp3",
     answers: [],
     level: "medium",
     times: 1,
@@ -122,8 +121,7 @@ const LFillInTheBlanksData = [
   {
     id: 11,
     transcript: `My name is Posy D and I now work in sports marketing, and <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>branding</span> events and team management. We work with big brands, I work with a shoe company, and we work with a team of young people across Europe, who are all professional <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>suffers</span>, snowboarders, BMXers. And we send them on trips, we organise adverts, we organise magazine shoots, and try and create an image around the shoe brand. I've come from quite an <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>unconventional</span> background. I was a professional snowboarder myself for three or four years, full-time, so I'm not used to sitting in an office, I'm not used to going to work every day! And still I've only been doing this job for a year, and sometimes I'm like - Oh God, have to go to work, again, that's <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>branding</span>. But it's always different, so it's fine. And some weeks it's quite quiet, other weeks it's totally full on and really challenging.`,
-    audio:
-      "/audio/FIB-11.mp3",
+    audio: "/audio/FIB-11.mp3",
     answers: [],
     level: "medium",
     times: 1,
