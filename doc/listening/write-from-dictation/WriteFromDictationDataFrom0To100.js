@@ -7,7 +7,7 @@ const WriteFromDictationDataFrom0To100 = [
     times: 1,
     level: "medium",
     id: 1,
-    order: 99
+    order: 99,
   },
   {
     transcript: "A good research assistant is not afraid to ask questions.",
@@ -24,7 +24,7 @@ const WriteFromDictationDataFrom0To100 = [
     times: 1,
     level: "medium",
     id: 3,
-    order: 89
+    order: 89,
   },
   {
     transcript: "A good way to improve your vocabulary is through repetition.",
@@ -59,7 +59,7 @@ const WriteFromDictationDataFrom0To100 = [
     times: 1,
     level: "hard",
     newwords: ["captivity /kæpˈtɪvəti/ = nuôi nhốt"],
-    order: 19
+    order: 19,
   },
   {
     id: 8,
@@ -339,7 +339,7 @@ const WriteFromDictationDataFrom0To100 = [
     level: "hard",
     times: 1,
     newwords: [],
-    order: 23
+    order: 23,
   },
   {
     id: 37,

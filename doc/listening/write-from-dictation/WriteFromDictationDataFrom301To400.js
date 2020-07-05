@@ -9,7 +9,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["stipend /ˈstaɪpend/ = trợ cấp"],
-    order: 76
+    order: 76,
   },
   {
     id: 302,
@@ -43,7 +43,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["famed = nổi tiếng", "demured /dɪˈmjʊə(r)/ = trang nghiêm"],
-    order: 82
+    order: 82,
   },
   {
     id: 305,
@@ -54,7 +54,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["gown = áo dài lễ tốt nghiệp", "commencement = lễ trao bằng"],
-    order: 85
+    order: 85,
   },
   {
     id: 306,
@@ -66,7 +66,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 84
+    order: 84,
   },
   {
     id: 307,
@@ -78,7 +78,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["exempt /igˈzem(p)t/ = miễn trừ"],
-    order: 67
+    order: 67,
   },
   {
     id: 308,
@@ -89,7 +89,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["acknowledge = biết ơn, thừa nhận"],
-    order: 79
+    order: 79,
   },
   {
     id: 309,
@@ -100,7 +100,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "hight",
     newwords: [""],
-    order: 1
+    order: 1,
   },
   {
     id: 310,
@@ -123,7 +123,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["applied mathematics = toán học ứng dụng"],
-    order: 32
+    order: 32,
   },
   {
     id: 312,
@@ -135,7 +135,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "high",
     newwords: [],
-    order: 47
+    order: 47,
   },
   {
     id: 313,
@@ -147,7 +147,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["Clinical placement = chỗ thực tập cho ngành y"],
-    order: 68
+    order: 68,
   },
   {
     id: 314,
@@ -158,7 +158,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["fierce /fi(ə)rs/ = khốc liệt"],
-    order: 7
+    order: 7,
   },
   {
     id: 315,
@@ -170,7 +170,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 12
+    order: 12,
   },
   {
     id: 316,
@@ -180,7 +180,7 @@ const WriteFromDictationDataFrom301To400 = [
     level: "hard",
     times: 1,
     priority: "normal",
-    order: 48, 
+    order: 48,
     newwords: [
       "evacuate /ɪˈvækjueɪt/ = sơ tán",
       "premise /ˈpreməsəz/ = house or building, cơ sở",
@@ -197,7 +197,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 43
+    order: 43,
   },
   {
     id: 318,
@@ -208,7 +208,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 9
+    order: 9,
   },
   {
     id: 319,
@@ -230,7 +230,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 16
+    order: 16,
   },
   {
     id: 321,
@@ -252,7 +252,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 36
+    order: 36,
   },
   {
     id: 323,
@@ -264,7 +264,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 8
+    order: 8,
   },
   {
     id: 324,
@@ -276,7 +276,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 57
+    order: 57,
   },
   {
     id: 325,
@@ -288,7 +288,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 28
+    order: 28,
   },
   {
     id: 326,
@@ -330,7 +330,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["bated breath = thở đốc", "nervously = lo lắng"],
-    order: 61
+    order: 61,
   },
   {
     id: 330,
@@ -352,7 +352,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 25
+    order: 25,
   },
   {
     id: 332,
@@ -375,7 +375,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "high",
     newwords: [],
-    order: 46
+    order: 46,
   },
   {
     id: 334,
@@ -386,7 +386,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 33
+    order: 33,
   },
   {
     id: 335,
@@ -397,7 +397,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 66
+    order: 66,
   },
   {
     id: 336,
@@ -408,7 +408,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 44
+    order: 44,
   },
   {
     id: 337,
@@ -419,7 +419,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 34
+    order: 34,
   },
   {
     id: 338,
@@ -453,7 +453,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 10
+    order: 10,
   },
   {
     id: 341,
@@ -465,7 +465,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 39
+    order: 39,
   },
   {
     id: 342,
@@ -476,7 +476,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 41
+    order: 41,
   },
   {
     id: 343,
@@ -488,7 +488,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 29
+    order: 29,
   },
   {
     id: 344,
@@ -504,7 +504,7 @@ const WriteFromDictationDataFrom301To400 = [
       "conservative politicians = chính trị gia bảo thủ",
       "wrath = phẫn nộ, tức giận",
     ],
-    order: 55
+    order: 55,
   },
   {
     id: 345,
@@ -516,7 +516,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 17
+    order: 17,
   },
   {
     id: 346,
@@ -528,7 +528,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 81
+    order: 81,
   },
   {
     id: 347,
@@ -539,7 +539,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 52
+    order: 52,
   },
   {
     id: 348,
@@ -550,7 +550,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["recession = suy thoái"],
-    order: 50
+    order: 50,
   },
   {
     id: 349,
@@ -576,7 +576,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 49
+    order: 49,
   },
   {
     id: 351,
@@ -587,7 +587,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 18
+    order: 18,
   },
   {
     id: 352,
@@ -599,7 +599,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 30
+    order: 30,
   },
   {
     id: 353,
@@ -610,7 +610,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 26
+    order: 26,
   },
   {
     id: 354,
@@ -632,7 +632,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 64
+    order: 64,
   },
   {
     id: 356,
@@ -644,7 +644,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 31
+    order: 31,
   },
   {
     id: 357,
@@ -655,7 +655,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 51
+    order: 51,
   },
   {
     id: 358,
@@ -666,7 +666,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["commence = bắt đầu"],
-    order: 62
+    order: 62,
   },
   {
     id: 359,
@@ -677,7 +677,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 37
+    order: 37,
   },
   {
     id: 360,
@@ -689,7 +689,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 35
+    order: 35,
   },
   {
     id: 361,
@@ -701,7 +701,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 4
+    order: 4,
   },
   {
     id: 362,
@@ -713,7 +713,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 14
+    order: 14,
   },
   {
     id: 363,
@@ -725,7 +725,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 27
+    order: 27,
   },
   {
     id: 364,
@@ -756,7 +756,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 5
+    order: 5,
   },
   {
     id: 367,
@@ -768,7 +768,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 38
+    order: 38,
   },
   {
     id: 368,
@@ -780,7 +780,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 15
+    order: 15,
   },
   {
     id: 369,
@@ -791,7 +791,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 21
+    order: 21,
   },
   {
     id: 370,
@@ -806,7 +806,7 @@ const WriteFromDictationDataFrom301To400 = [
       "tribes = những bộ lạc",
       "vie /vaɪ/ = tranh đua",
     ],
-    order: 72
+    order: 72,
   },
   {
     id: 371,
@@ -821,7 +821,7 @@ const WriteFromDictationDataFrom301To400 = [
       "pursue = theo đuổi",
       "specific interests = những lợi ích cụ thể",
     ],
-    order: 24
+    order: 24,
   },
   {
     id: 372,
@@ -857,7 +857,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 56
+    order: 56,
   },
   {
     id: 375,
@@ -869,7 +869,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 91
+    order: 91,
   },
   {
     id: 376,
@@ -881,7 +881,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["high wages = lương cao"],
-    order: 42
+    order: 42,
   },
   {
     id: 377,
@@ -893,7 +893,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "high",
     newwords: ["reconciliation /ˌrekənsɪliˈeɪʃn/= hoà giải"],
-    order: 59
+    order: 59,
   },
   {
     id: 378,
@@ -904,7 +904,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 22
+    order: 22,
   },
   {
     id: 379,
@@ -915,7 +915,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
-    order: 73
+    order: 73,
   },
   {
     id: 380,
