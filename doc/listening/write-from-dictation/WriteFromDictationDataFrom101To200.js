@@ -314,13 +314,14 @@ const WriteFromDictationDataFrom101To200 = [
   {
     id: 131,
     transcript:
-      "An aerial photograph was promptly registered for a thorough evaluation.",
+      "An aerial photograph was promptly registered for thorough evaluation",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F0596884b-df6d-4068-9101-14760ccdf4a2.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=P%2BbcdGrwN30oaiCvNk13aHE4e53Q0515yEX6Q7w6tc%2FAVm0GZfG8DmbvKvEuT4mNEcvtfdYZK3Z6AQ7TWMLTO8dSZy9ucbTwLh%2BdLM7TMijKztv%2Fwo5RFNMtdGRf%2BDWmXM3VY9ZB4wCbhIMrd7mILY7OFcAeURF8smfShGS67ID8pOGRvlkmHW4%2BCGNJ1MofCjb63ptwCmFyU2wM9J%2Bseaa8%2BPTEmTj9flnkH0kz%2FMfULYCX0R%2FS5zs4iCsK%2BXGGN390K%2FiZzxgeP7hyO58lTn4BydmpL9xHyB46F538K%2FDT3K7ymuZPbZt1Koyy2BFr%2FtNdolidlH%2BJ23r3UsTPeg%3D%3D",
     level: "hard",
     times: 1,
     priority: "normal",
     newwords: ["thorough /ˈθʌrə/ = kỹ lưỡng, uyên thâm"],
+    order: 20
   },
   {
     id: 132,
@@ -364,13 +365,14 @@ const WriteFromDictationDataFrom101To200 = [
   },
   {
     id: 136,
-    transcript: "Good research delivers practical benefits for real people.",
+    transcript: "Good research delivers practical benefits to real people.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F4883e137-2d60-4348-952c-9406367ac3d1.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=cmFfSwOOCsrCWcpocHZl60WlZZkx8BLujVjWoOm3qR0fd6a203YksWZX3LmqMG7oZ%2FG3zp%2Bcczqe48D4wF6crOdu8daZIN2dytBOhNu%2BlM9mB9Xn64SFACLORMABXrQtaLcZOrenBrVCL19c134RWa1hDTUnXyUH7HNPbeooPJwrDaC6ltiy6mKF9lWTVke%2B2kzy7MTgmB6x9PaguQP%2FRtnOSzwb2kCxB7zrD7PaWlxwG3L6OvtpYLDfhY3ytvE%2BfTM6Bxlhp%2FHOqXRJNtRElrINl2biJHA38UO73E2XWKOPa3gsf3j75xfo5%2B%2FN7Rrrf7Ay9MgJ9QAjH%2BtG0E7rUg%3D%3D",
     level: "medium",
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 74
   },
   {
     id: 137,
@@ -717,12 +719,13 @@ const WriteFromDictationDataFrom101To200 = [
   },
   {
     id: 169,
-    transcript: "At least we won't have so many struggles over labs.",
+    transcript: "At least, we won't have so many struggles over labs.",
     audio: "/audio/169-w.mp3",
     level: "medium",
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 60
   },
   {
     id: 170,
@@ -944,13 +947,14 @@ const WriteFromDictationDataFrom101To200 = [
   {
     id: 191,
     transcript:
-      "It was hard to anticipate how all the different characters would react.",
+      "It was hard to anticipate how the different characters would react.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F6e2d1838-9fe1-4269-8823-51e93529d57f.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=KvnWfsdwsb5ERi5RGlMq43W601jkBpEZo6TstSSTwqc5RJdrLyd4%2B2apjTwJD8j5sfDEz9L0toUZzLSA2s5S5pR2I3wubZ0pFCUM95R9zli%2F%2BfyDk%2FkdaCVu%2FZFhBmPIoKT87bJMmiDjNVlLmPB2lLZd1%2Fn73A0Wrziku4xcnl0kBk0DWR3EKjFoR2j2pcPWcUu%2FRGK%2F0qoMB5NlCDsHb3tEKf3UA5tpnh5LFAhnDqD9KlhlASBYH2DJqss4dkyDAwHie7o49jaSBixapJXTcIoy6uB5AELAl%2F3%2FJ31pM9doIUutKPVn4ZKCKyFbRPDHUPKYxfQcXZiQehltQjBT4g%3D%3D",
     level: "medium",
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 86
   },
   {
     id: 192,
@@ -962,6 +966,7 @@ const WriteFromDictationDataFrom101To200 = [
     times: 1,
     priority: "normal",
     newwords: ["concession cards = thẻ giảm giá"],
+    order: 40,
   },
   {
     id: 193,

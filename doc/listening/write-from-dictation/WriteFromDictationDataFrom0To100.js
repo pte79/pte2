@@ -1,12 +1,13 @@
 const WriteFromDictationDataFrom0To100 = [
   {
     transcript:
-      "A balanced diet and regular exercise are  necessary for good health.",
+      "A balanced diet and regular exercise are necessary for good health.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fef7b4538-e8bc-4d63-b21e-07a07544291d.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=DGfFLp4aoMQ1yXigLhuYulhIBWIa2IJsmDPY%2F%2BPfBa7ioaGhfGGxbstF2sgPfeY0ZfMScdeRJEiEot9I%2FQoCB4KVmAFppu9bHVkwPATmqbwLRJoYpdx9idyEirzn%2Fb0MlqF9faA%2BFZjrKvMhIepwG8zbtCoBW2YrAaE%2FWxtUS0trRLtG23SfvUb7kBTFmG7q3%2Bfk7k58W9p%2BFWBTcl%2B43BJr0k2S8DEQ7%2BN1TrC%2BfOFwr7YNpkiWuKT1vRSzk5PyeY3dQ3vabbSZ%2FsSzKuK%2BYIgMy3%2Fbl7YZaC3lYYZ%2FSp4YhhQ9pphntX5ZRIh9jwAbBJvs7S7GPpPP6yiJQTJRlQ%3D%3D",
     times: 1,
     level: "medium",
     id: 1,
+    order: 99
   },
   {
     transcript: "A good research assistant is not afraid to ask questions.",
@@ -17,12 +18,13 @@ const WriteFromDictationDataFrom0To100 = [
     id: 2,
   },
   {
-    transcript: "A celebrated theory is still a great source of controversy",
+    transcript: "A celebrated theory is still a great source of controversy.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F31de9d32-6bd3-4ad9-8393-1ed703f67881.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=SOKal5n2rINtYFOIktkDVzaWYkR00wStZgwEMT%2BLVUMRZ4%2BMhD8fkCMKp6EiJsugBvqt%2FAMD3Fb2gJZSFVwOSk90eaPpXJ60mmjG1RwCdVDurbAYWwwC2dngRyUaW7eHnnjm8n%2FAoYCd1r9vc9lNvZOiF28eMIzUYjddJSmaT%2FHd5w8aXXNCWb8i4Yq2khkF85J%2BB0cT2h5pZUyhLeSO38yAgKFux2xLZVQFIKM34ZXBf1aKPZPfGxSEEIAzeX8%2BxDOHtVYSPDQZaQpbpY7P91AdZ7Bwo8Q4d1qo9uvunfIvGmw1WZdMYCSfXwMivDMIDiOVHRSidiXWQY5vnsnmtg%3D%3D",
     times: 1,
     level: "medium",
     id: 3,
+    order: 89
   },
   {
     transcript: "A good way to improve your vocabulary is through repetition.",
@@ -51,12 +53,13 @@ const WriteFromDictationDataFrom0To100 = [
   {
     id: 7,
     transcript:
-      "Animals raised in captivity behave differently than their wild in counterpart.",
+      "Animals raised in captivity behave differently than their wild counterpart.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F838b3b4a-64d5-4638-8f16-a610ad9a8102.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=ZNLaVZnkiTru0RlAvuJTlvaGJU3UVcyznACiwwgfO14vQBnEUMMlL9%2F5w%2Fl2aqPj9SVDZyhUyB%2Fnzsh0jan3TkIdKQFjUvrduUhmf9vLLWh5LXb1NMVpcVJPKB%2BshTfZOECFZyIqXnooyBSst%2FiCzvxSKqeBDcHlmEDcxwqOv%2B8K9z9F%2Bm3eClS%2BrjCF9DEehEinkxBQAkXbXNBOhQDdo9z9crt16ibs27Ln15mHR6lX5GvMGeTw9rPG0%2BSfvIk21fUEexWgzIZOpl%2FtWryBV6fn5Q3rro2r0OZNuyQEhYG1TtJRMKkj61mSFkPFBITdTyNLwaXWyXScUtiTnl3tmQ%3D%3D",
     times: 1,
     level: "hard",
     newwords: ["captivity /kæpˈtɪvəti/ = nuôi nhốt"],
+    order: 19
   },
   {
     id: 8,
@@ -330,12 +333,13 @@ const WriteFromDictationDataFrom0To100 = [
   {
     id: 36,
     transcript:
-      "The qualification will be assessed using a criterion referenced approach.",
+      "The qualification will be assessed by using a criterion referenced approach.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F942eca09-4810-41c6-af46-7e344362d8c0.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=IcJNBIDlu0mpOAYC3qEgIqaq5DU0Zioy%2FVbWVAuW0mlo5f7tZm%2F%2B2jJsbRRYms5IetHOgn83yVHXl3Ob%2BGV22VNl3jD3iHkcAICBRUwHz9pkU8LcfXykFGORI8JWcAa60YJyuZqz26PgplPzq2MQKuOKYy%2F%2B7Wu%2BM4A8GOAEyuY0fri5c%2F59pGCOUffs%2B%2FO1KMWFx8YsuhykQZ%2FJgbGtqX9j0lZMtHYz%2FVGzYljExjg8LKe7fCrUZQdgxT1IYO21C8r2NcbRhNZqUFwh%2BqZbXWvIXPq6jAjNUpscUZu3dsh1AnqGTp8%2Fj3nGTDYh1aYeiovvX%2FfAHlt5gfTcaP0BUg%3D%3D",
     level: "hard",
     times: 1,
     newwords: [],
+    order: 23
   },
   {
     id: 37,

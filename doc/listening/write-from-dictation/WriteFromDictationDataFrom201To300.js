@@ -456,6 +456,7 @@ const WriteFromDictationDataFrom201To300 = [
     times: 1,
     priority: "normal",
     newwords: ["renowned = nổi tiếng"],
+    order: 90
   },
   {
     id: 244,
@@ -1012,6 +1013,7 @@ const WriteFromDictationDataFrom201To300 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 58
   },
   {
     id: 297,
@@ -1044,6 +1046,7 @@ const WriteFromDictationDataFrom201To300 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 78
   },
   {
     id: 300,
@@ -1055,6 +1058,7 @@ const WriteFromDictationDataFrom201To300 = [
     times: 1,
     priority: "normal",
     newwords: ["prosperity = sự thịnh vượng"],
+    order: 77
   },
 ]
 

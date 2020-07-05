@@ -54,7 +54,9 @@ textarea {
 }
 
 .large-input {
-  width: 15rem;
+  min-width: 15rem;
+  font-weight: 500;
+  font-style: italic;
 }
 
 .wrong {
@@ -74,3 +76,7 @@ textarea {
 .hidden {
   display: none;
 }
+
+
+
+

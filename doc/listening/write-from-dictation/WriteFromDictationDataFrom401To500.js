@@ -7,6 +7,7 @@ const WriteFromDictationDataFrom401To500 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 88
   },
   {
     id: 402,
@@ -16,6 +17,7 @@ const WriteFromDictationDataFrom401To500 = [
     times: 1,
     priority: "normal",
     newwords: ["soluble /ˈsɒljəbl/ = hoà tan"],
+    order: 87
   },
   {
     id: 403,
@@ -82,6 +84,7 @@ const WriteFromDictationDataFrom401To500 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 93
   },
   {
     id: 409,
@@ -356,6 +359,7 @@ const WriteFromDictationDataFrom401To500 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 92
   },
   {
     id: 437,
@@ -379,6 +383,7 @@ const WriteFromDictationDataFrom401To500 = [
     priority: "normal",
     newwords: [],
     audioType: "x-m4a",
+    order: 94
   },
   {
     id: 439,
@@ -391,6 +396,7 @@ const WriteFromDictationDataFrom401To500 = [
     priority: "normal",
     newwords: [],
     audioType: "x-m4a",
+    order: 95
   },
   {
     id: 440,
@@ -581,6 +587,7 @@ const WriteFromDictationDataFrom401To500 = [
     priority: "normal",
     newwords: [],
     audioType: "mpeg",
+    order: 96
   },
   {
     id: 456,
@@ -631,7 +638,7 @@ const WriteFromDictationDataFrom401To500 = [
   },
   {
     id: 460,
-    transcript: "The toughest part of postgraduate education is funding.",
+    transcript: "The toughest part of postgraduate education is the funding.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F24a79de6-6b6c-42a0-bf86-c53b40b0bd0d.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=XKG8hfgo5w7WClP3V%2B2DAoT1qD2F4XvcS4Dijwb%2F0Ax%2Fs8v0e1iIGBnSiuRgRs%2F%2BUaRZDlV04JaAVMS8hNk4bJmA2qJKRCAcsx3N3SKumVxFgjdUke4UGNaxQHWk7fRH76tlqLGcaWNerkdZop92KTehBRHXJz5aqahY6gDtFMHzVReBds3cmEQ9XD6tNQ3kItI47GB6gvbQRnZVqZE8B0VKeUYb7EX8n%2FyJquewMnZaIhkGxuaPyOPZs5rIq5TGJZNvFJFcxdwjQN4GuY%2B54AW0sfP%2FTLPckdTruQ63ll6yJ8Q%2By3hGZPxzDZTEaFhBvUZCap7gPA4e9xpwQ%2F7HuQ%3D%3D",
     level: "hard",
@@ -639,6 +646,7 @@ const WriteFromDictationDataFrom401To500 = [
     priority: "normal",
     newwords: [],
     audioType: "mpeg",
+    order: 71
   },
   {
     id: 461,
@@ -742,6 +750,116 @@ const WriteFromDictationDataFrom401To500 = [
     newwords: [],
     audioType: "mpeg",
   },
+  {
+    id: 470,
+    transcript:'It can be long or short, but the basic structure is always the same.',
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fw3ex2nl3syq7pwtzemg1h-It%20can%20be%20long%20or%20short%2C%20but%20the%20basic%20structure%20i.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=Q%2Fu7v4XcpKdBLAN%2B%2FcJxkcMMTorFHFiMzcfQQCSa0j4R6nUGR5HXE2Q861RSvfcR6IGJk%2BlwCQx3GPqBevhyDE43hWWxCkbv8HuwU7dPsk4mGpeg5wyrsl%2BQeBAZMlmoON5jGwkSYWklE3B28HPYgHqGvmvH%2BsoePmM%2FXjs9nrZMeSUKkl6x7SvEJBL9ELiooEte5uvzi9ZTNQpDpcoZTrxB%2B%2FxE4%2B3Yq6es9ZP%2BSZUXm5iWm9dYj4XHKxvxB6hFbez7ZyAVWnqA9XBYyI2frLNXb0KO%2F%2BevO435DCdFjnldEstnsczTfN9LDsiTI8Nu3v8z8qQYeQvk43qIh%2B2UrQ%3D%3D',
+    level: "medium",
+    times: 1,
+    priority: "high",
+    newwords: [],
+    audioType: "mpeg",
+    order: 45
+  },
+  {
+    id: 471,
+    transcript:`This morning's lecture on economic policy has been canceled.`,
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa317c7dc-c9ef-43a3-93fd-691ef78949bb.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=MOXw78U4LNEYaE7ghBfprpWQ%2F%2FsXYKcyNQkpVNNaSRj4%2FRD0aJWcg2zAaQSQtscfnV6W9xu0Jlos%2F38j0KUZukNpFjOYQz9aOj4Ru3Y8wLX0pt5f8GOMU2HCcG8SMm4FI8P52iRZV9XvInFDCBLuRStOfCJkac9QmucC2DIbirxdXnfHY6jx6aJoXggPQVbvwNGYOudL%2FDFaiYWRej7ny9RSZOUpcvdZsvA7yF6VcmRTQuFbofM3EFRIVvPEGJxvksdrpeKR5%2FXFXMBOXqlbyLYDoq1LyDy57rV5VD%2B0q4Na4heP6p4JoIUQaW2r4%2BYTqDwmvxDVn0Zq1S9jhBcCDA%3D%3D',
+    level: "medium",
+    times: 1,
+    priority: "high",
+    newwords: [],
+    audioType: "mpeg",
+    order: 53
+  },
+  {
+    id: 472,
+    transcript:`Assignments should be submitted to the department office before the deadline`,
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F27a2178f-3ed0-435a-a479-d13434f3e545.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Ck1yyd0mUCDJbRN%2BlKz2ei7QZqckNWXVe4tpLxlw5B8vgfmX75JQfE7oqx%2FNGMvASyGsOnfpHFlNllPUo0MpJL1v7rSxTfgSQ5EDpC678wvWTkCMqgXg%2BltAp6fhmBc5BjjPCbTRQW1sq617NiNU0J%2FHDpskrjoU4RV8%2Fkabw9QvmjgnXHHEkfHyOzWWCHzazZSJN8w3E%2FlJGsIg3mwXm6d7u6C4uDJYJZOjDOY2kKHEWD7z3N86irNa90IfMIzSUunW1mfxs63hJebDBiZhzQy2F9PbWagEDxoRFfmJAZEPI64Ak%2BqmGWt7rTVyX8LMgV%2F6vgU7ZN0sjRpx036NSQ%3D%3D',
+    level: "medium",
+    times: 1,
+    priority: "high",
+    newwords: [],
+    audioType: "mpeg",
+    order: 63
+  },
+  {
+    id: 473,
+    transcript:`Air pollution is a serious problem all over the world.`,
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F8fa8d4d4-da43-45f5-b7a8-5bef0aae8e86.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=RK2qc2PRdbqQLSGpvjnpPlxTa4pGR%2FnrZauQgi3u7ADti9PbESz8rB3n0TKjCeQ4Nl0OFhmPk%2FG4Pz1IysT6I15JIJTajMFfatqxtGoxmeCd4vrpWMa2CjwDiKVwkoajCLsnb%2BNpPgmA%2FmWEZvOmQVPhj1PW7RQu2%2FD20AyeLq2QR%2BFNnQUkneYQElKEj9xkefarxWl%2B5%2Bsb1128PITOaSg%2F8muUuIKoeAWw5cCF5EW4Q0oD1G0dA463QLYzLJYIJN0Wa8xuO6hy%2BWl8TxpOdJsiBcgxNdWq8Nq4FdMnzAkExooaKZQW3OVa16fahFrnsVwfju4r8yNoQY4bFYUD6w%3D%3D',
+    level: "medium",
+    times: 1,
+    priority: "high",
+    newwords: [],
+    audioType: "mpeg",
+    order: 65
+  },
+  {
+    id: 474,
+    transcript:`Please return library books to their correct positions on the shelves.`,
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fe432ae81-e29a-4188-9cee-f79e1025a2ef.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=cPMSKtZV%2BGS6DnTc68exEfM%2ByHTTb%2Fgt6Hb15OdUSKzSo8TybXUS63mAd31GLZACFFIbklEzQKM0JPU1aMNf5kpS3w4OEOabtENEs%2FT%2B9OBNAAPmtD939jfwT4GQPU8THFg8BBKsfTTuUIfCQZnn7j15%2F6X4YoY57v3KMeMH9lJKmG03PDcC%2Fqd2TByasbOZypBvtI628uPFiCsMjkKRYHPamaV84DLWQQ8afuc0wLfZfAbtkZSJDEBzZ46L%2BrLzFFjZZkoCumd7YWIAj9IUG9%2B%2B38WzdFprXkBfjFrZidTLu8GvbNNB9dxCk6ycT4WWiBmBXx0QILjoW4MgtzIefQ%3D%3D',
+    level: "medium",
+    times: 1,
+    priority: "high",
+    newwords: [],
+    audioType: "mpeg",
+    order: 69
+  },
+  {
+    id: 475,
+    transcript:`Ways in which people communicated are constantly changing.`,
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa75d566b-f2b6-4de3-b041-1ca82eaa4fa3.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=NG0HZZgATdrZPWdiHqLYoqGEqXDH6fYWZsl694lm3UE0MIRYD8oJD0Nn3znAWJPJOn4sUBwRBU0jS4s1ZtQiYVX56quHwH5IcUxFQq%2B6As9a7cgAwvePDKW9g2uQXFOGpGVHeLbQVGLQIfJfhSkslFjoDW%2BRoAGxbtrH9jSiLWfcYDLTnnN23r7Ru6AZO7mLIl2k4xYObR6Vtn%2BI%2BQptx7z%2B147%2Bx%2BPG0TMxWS8Vun44jaqatj2V1mtfbIzD5cgmCZe%2FhvMkiYBJIMWtGDVdyKGjSnEJ7J%2B8lRher5Co287khMR0PkFsmSkCzSF%2BQQRnWHISeZI9KCX7g0PmAvyphg%3D%3D',
+    level: "medium",
+    times: 1,
+    priority: "high",
+    newwords: [],
+    audioType: "mpeg",
+    order: 70
+  },
+  {
+    id: 476,
+    transcript:`The orchestra will be led by a visiting conductor.`,
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fe80da9fd-4386-404f-8c82-5ba3c526a55f.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Pqblr4jBAVj9egZ8xbFcD2520ugquuAEYfsKpTkb3GoQO6OTxhQwL0JMvr%2BXRw52tDNIC9cdM7wa56zEcgTmu3a337dR09pUP1Z5HBEWMbEULpsy4JY96KLyIAB%2FPqWgRIITpZIdauY7G3z9fONFgTjbg%2FZj%2BN9T7nVRvWWHhsMzUx4j%2FKwRaGt0vYyrUvCjrHJb2txm7gt2MJfMvDZzrkscFq2s1Q6Z1ByKJWgsh2efCUdaprjSysDeNWaTnvSEj3s2KvKx5d11dQR%2FeQB0lNxlKq1kX%2FTN2NCUcWAX%2FPmMg7InEhBkMVKXS5CORskoCtLg4t4ntfbuLHqrhPzGOw%3D%3D',
+    level: "medium",
+    times: 1,
+    priority: "high",
+    newwords: [],
+    audioType: "mpeg",
+    order: 75
+  },
+  {
+    id: 477,
+    transcript:`Skills in these jobs cannot be taught.`,
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F1f44cf6b-e374-4eda-8230-1c8c057db5d0.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=R5H9qhVGKhXrGaWDr3BO%2BQNprTIdktuPPPol0VHCGZKObmhPU5a1pkJiDlKBAdHaKI5xj1KpKg%2BDlKfc05ofB%2FpNbTjhQ5teCp35nv%2FvODcX6t7UA%2BP8D7zsKHKfEvWV7emHtRsLJt2sRLxkgAbFMlUHJgExALBG%2FXiyYvTfAX3xT%2B0hXOYdphzTc4FbfurXBixjt00fKLjStjFYmPLqoc2Z86oOxM0V2EMsG8ADzpD%2F6%2BP1IzL9oYmC8o3M6THzi9r5ZDH9H00OwzWVfEowoayVGIszJ5oMk6OqfBeuWvikE8uzRIi7NQB45LXfEXmw4sgQvlDdJNNrPo7BMgLpDQ%3D%3D',
+    level: "medium",
+    times: 1,
+    priority: "high",
+    newwords: [],
+    audioType: "mpeg",
+    order: 80
+  },
+  {
+    id: 478,
+    transcript:`The university provides excellent leisure facilities for students and staff.`,
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fee2cd041-3777-4fa1-bda1-6e5b14468ae1.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=QmG%2BkkyBDMHEkrJ3j0xuJN0hi7emfbxAZx3Uruz1UqydYO%2B6PtzekrUChYqLqhFtBzcgt5u0JkOEI1T%2F03TqBsiyU6Wgd5BupDnXCY90l4xHiNQMr52KLhrXFpuiW%2FVtMIfSdxTpznavmQtm6BGYG5wawHb%2BOCsMaTXQfm3ZnwjFoBU04AlLwMYdGo5dLba8exux%2Fr2ThzOjzC0y2Pde8RX19LeVJ29mSH6nkNb6JpvBkE0GWeUBoqSfhsTbcsIRldPrQvF8HtOQKHufv6Fsu%2FbV0R9eKlx%2FRECT%2BL3L7QGKcGuEM0pdbXv2yKZQoUS5dNGqM0olrlImbEXf9InG4w%3D%3D',
+    level: "medium",
+    times: 1,
+    priority: "high",
+    newwords: [],
+    audioType: "mpeg",
+    order: 97
+  },
+  {
+    id: 478,
+    transcript:`The digital revolution has changed the way we read.`,
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F1cf0bd0c-51a5-4653-900c-209588826d86.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=aD8ePvkJ3%2BMrrz8IjFO5VAs%2B8TvKfls1K7x%2BGRGMfSeHdbKbrRpVb04LOXv5hOruyifF878k8Ovj7tCPDZeM8AZej4LoX4IJzysFuZafUc4dkzm%2BNYq7mTPVQHAp1Q3TphWNUQV3UdSXOomhv3Is0u4%2B8gSwSvsSSWsnsOg9h51LvOY%2F0UbS5Ft%2F7fTINBMF%2F7OX1fdn6Jdz92Ws3EUNpORPZiYZdc2bN0HAvK5b67lMzFbNhSIaq7yp877J%2BLuDpP2gqHemFrr5yK4RFosifiqkg4j2rPQDD%2F%2FvTckf8YAfUEGLdl4igop3XFkyOml2WzufXFq%2BFKvmCbajxwUL3g%3D%3D',
+    level: "medium",
+    times: 1,
+    priority: "high",
+    newwords: [],
+    audioType: "mpeg",
+    order: 98
+  }
 ]
 
 export default WriteFromDictationDataFrom401To500

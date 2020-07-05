@@ -9,6 +9,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["stipend /ˈstaɪpend/ = trợ cấp"],
+    order: 76
   },
   {
     id: 302,
@@ -42,6 +43,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["famed = nổi tiếng", "demured /dɪˈmjʊə(r)/ = trang nghiêm"],
+    order: 82
   },
   {
     id: 305,
@@ -52,6 +54,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["gown = áo dài lễ tốt nghiệp", "commencement = lễ trao bằng"],
+    order: 85
   },
   {
     id: 306,
@@ -63,17 +66,19 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 84
   },
   {
     id: 307,
     transcript:
-      "Native speakers are exempted from language tests in their own language.",
+      "Native speakers are exempt from language tests in their own language.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2F48hoc0r8jnaj55xjxy5v0o-WFD307_2.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=Vk250rDl9LW%2FR40bZXH2JzcyhX%2FHefKarYrw4T01mJjuUYAVqlwOuOKLJIAOnHzHeUwobKbMrOHyaEY0%2B4CC12MRRdiC68sMjw0KRHujDee7IOapUT1%2FydpouNNE0kPKHiURS7BfALpGq%2BX3jZRnN3Yk%2FfWHjZB1%2FqmR8j%2F8SeiImMw86VJ5FcMWVaU6GlpPTU9pDBA9sm%2BwFStOSjwvf7ANWEP4AWbUpbK74mv1MsgUK14dd%2BzTfKc59hTRysFjhbZRo%2Bza4yqlLDxNYHQTWksSmNeeXEivv%2F%2FvhHJlQBt5QqzX8hFD08qCRqIMZkpUDEHQShe7SzwOj69%2FFzZfUw%3D%3D",
     level: "hard",
     times: 1,
     priority: "normal",
     newwords: ["exempt /igˈzem(p)t/ = miễn trừ"],
+    order: 67
   },
   {
     id: 308,
@@ -84,6 +89,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["acknowledge = biết ơn, thừa nhận"],
+    order: 79
   },
   {
     id: 309,
@@ -92,8 +98,9 @@ const WriteFromDictationDataFrom301To400 = [
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F1544c283-cef6-489d-85a2-9138f5855afe.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=LKtilI8ammfaVy%2Fgc3iZ4zCLhPlMVJq6Xde19Ay%2BQqbEl19Pk8RsEk9qjIc%2BOtC0h2Z3hU9r2fFC22vw8DnrU5NzkKphRxGq2x1dwc8VbSByhbQi2%2FK0XX65hKUcq%2Bcw%2B15BWu7Dwf9TylzoCHnf9hIEkul%2FT2660GZKeu%2FgjNPB0eS3Ha7SRgza%2B5YF8LMKS2uKCojvjCYWyPfaX4ApssiJrV7NOIednb0Fasr4bwvLCeg2y8tXV08OQKNqK7wTNmsHzx%2FgIgMqeCHBq0ejmiMPnlWAprQtzyIlmv5fzUyK1HztYVCHVzETRCBkp7sivPrPP0sJajeRw0DVWbORiQ%3D%3D",
     level: "medium",
     times: 1,
-    priority: "normal",
+    priority: "hight",
     newwords: [""],
+    order: 1
   },
   {
     id: 310,
@@ -104,6 +111,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [""],
+    order: 2,
   },
   {
     id: 311,
@@ -115,6 +123,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["applied mathematics = toán học ứng dụng"],
+    order: 32
   },
   {
     id: 312,
@@ -124,8 +133,9 @@ const WriteFromDictationDataFrom301To400 = [
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F5320a189-4e0a-4f68-802e-d3946b372f7a.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=MMb7tJPAJvgdbVubzMhbpMCVZgS81nY7eLICzGEBles94xdU0zASYFedhl0Iuux1uNgPpJUtMOoIHPAy9%2F%2FjFh7xg1pPbbhqYK0riT6ckSjSAYraV%2BvaJSZUT6zlhsrtP1vnxJRGVlODYiyp2LqDI4XKOwtnoB%2FCdOAqtvKJ%2FbLuqPiKF%2BLITwkhB88Clv3Oo8EsTb6WaWVw%2FoV9Sr9nh1qc0TxWJVzxObjwcNO37HUNIdBpQUYI1nKFR12QNcSqBlVgtVZdRBBlVJ7QVo8n%2FTnEheNhZbnOMzdtQ4XUs0cl2H4ELTd%2BoBY3d4i56n7RBx0%2FCn8xD0wdBEHoaFWebg%3D%3D",
     level: "hard",
     times: 1,
-    priority: "normal",
+    priority: "high",
     newwords: [],
+    order: 47
   },
   {
     id: 313,
@@ -137,6 +147,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["Clinical placement = chỗ thực tập cho ngành y"],
+    order: 68
   },
   {
     id: 314,
@@ -147,6 +158,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["fierce /fi(ə)rs/ = khốc liệt"],
+    order: 7
   },
   {
     id: 315,
@@ -158,6 +170,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 12
   },
   {
     id: 316,
@@ -167,6 +180,7 @@ const WriteFromDictationDataFrom301To400 = [
     level: "hard",
     times: 1,
     priority: "normal",
+    order: 48, 
     newwords: [
       "evacuate /ɪˈvækjueɪt/ = sơ tán",
       "premise /ˈpreməsəz/ = house or building, cơ sở",
@@ -183,6 +197,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 43
   },
   {
     id: 318,
@@ -193,6 +208,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 9
   },
   {
     id: 319,
@@ -203,6 +219,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 54,
   },
   {
     id: 320,
@@ -213,6 +230,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 16
   },
   {
     id: 321,
@@ -223,6 +241,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 13,
   },
   {
     id: 322,
@@ -233,6 +252,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 36
   },
   {
     id: 323,
@@ -244,6 +264,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 8
   },
   {
     id: 324,
@@ -255,6 +276,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 57
   },
   {
     id: 325,
@@ -266,6 +288,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 28
   },
   {
     id: 326,
@@ -307,6 +330,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["bated breath = thở đốc", "nervously = lo lắng"],
+    order: 61
   },
   {
     id: 330,
@@ -317,6 +341,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 6,
   },
   {
     id: 331,
@@ -327,6 +352,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 25
   },
   {
     id: 332,
@@ -347,8 +373,9 @@ const WriteFromDictationDataFrom301To400 = [
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fe7d6847a-8061-4536-8806-373e63234607.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=LxJLenAzwRn00gKkz7SSmwYhgTaMr1%2FdRPTXq2zV3wKFCDV3u5VG9Vv%2F7vhtGOFDZGGvLOsV%2BQRn41hqzut8amoSv3hfI19k4oPg0irVoOJMpeKmKdxf3ivXAJKYmWWXg8NHDArZ8BQ7H13PtPh2m1qzC1ad047LARB%2FsR%2FD5O0Ci2lHzJeoHrZhOuE%2FRZl2vZOmrG6ufXMHbY9YgwzTRA98odTUh7%2FYDHQlE7ZY5m2DTCpB5NiynuUuVusYs6l3UGN06PNwrXFY4oPaaSkIjbQuiGt5SAeWaSH1Xg8JdJ0FBRzvS627wV0vwmgcPGVIY%2FiIFtD3SjEZtt4nw2sBPA%3D%3D",
     level: "medium",
     times: 1,
-    priority: "normal",
+    priority: "high",
     newwords: [],
+    order: 46
   },
   {
     id: 334,
@@ -359,6 +386,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 33
   },
   {
     id: 335,
@@ -369,6 +397,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 66
   },
   {
     id: 336,
@@ -379,6 +408,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 44
   },
   {
     id: 337,
@@ -389,6 +419,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 34
   },
   {
     id: 338,
@@ -422,6 +453,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 10
   },
   {
     id: 341,
@@ -433,6 +465,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 39
   },
   {
     id: 342,
@@ -443,6 +476,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 41
   },
   {
     id: 343,
@@ -454,11 +488,12 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 29
   },
   {
     id: 344,
     transcript:
-      "The artists' ties to conservative politicians earned their wrath of critics.",
+      "The artists’ ties to conservative politicians earned their wrath of critics.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F70171de8-e732-4a41-a562-05c11d788fcf.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=Zu8teh9o%2B9BOa1FoBJ5WhZlsTpC8VIFH1fAtTWky9ZrWR2%2BmE8iPaXejxGCTigDwv2OXnaX1i0sG3OjG2gJVPrhlHJyp4w5tPtthq9KZkyoxMw084N6gaxzV%2BPfQwj2BMXEYrBmTfKzuM0jOUaHzmgYLuv6k%2FVy5aURJELTQ6rd8atHEzrZUku4F%2F3exLMqy4pZAlXCkIJEf1YcZT4k3t3IcWrWdK2KtTjs2rDoMHfIQwbO7Xef%2FUutMdRST%2Ff%2Bp3TeuGYjQcrI%2Flr0tRJyFV45438k7%2B74vviLvK2UYPHe4KJpmNTs5LLIddyHO6gCxqPtX7Ye%2B%2BD8OF4RB%2BOrVCQ%3D%3D",
     level: "really hard",
@@ -469,6 +504,7 @@ const WriteFromDictationDataFrom301To400 = [
       "conservative politicians = chính trị gia bảo thủ",
       "wrath = phẫn nộ, tức giận",
     ],
+    order: 55
   },
   {
     id: 345,
@@ -480,6 +516,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 17
   },
   {
     id: 346,
@@ -491,6 +528,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 81
   },
   {
     id: 347,
@@ -501,6 +539,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 52
   },
   {
     id: 348,
@@ -511,6 +550,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["recession = suy thoái"],
+    order: 50
   },
   {
     id: 349,
@@ -536,6 +576,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 49
   },
   {
     id: 351,
@@ -546,6 +587,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 18
   },
   {
     id: 352,
@@ -557,6 +599,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 30
   },
   {
     id: 353,
@@ -567,6 +610,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 26
   },
   {
     id: 354,
@@ -577,16 +621,18 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 11,
   },
   {
     id: 355,
-    transcript: "The sociology department is highly regarded Worldwide.",
+    transcript: "The sociology department is highly regarded worldwide.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F3b1b852b-77ca-4119-8982-3baec0902108.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=i%2Fjfulwa0SGBkk%2FCgd7kxrTO%2FjJoGrI5ophzq%2BEr10H7pT94cQKQLBYWgKO8YURMvmlMn3k%2BeOUA81DdTPxC0y7%2BkHRD7nKJvSa4GOM7Wxn%2BLuhGtjQy9CXoX2UmnHsfkRBEHnQjkbp%2FCLyCtbn5LUnu%2FrQwAjvVEiFUOChSVbm9AeQqMn4GGrpp7kbZzvp8QGUcIOgOSnZB88V0RejKRtp98nx%2BBjqI6OmWUHwRxjzb%2FHlyD5%2BXz43ji0Dd8hUmAyFI41a55n%2FSwyB7jNk4FUv5H6Ipr9d6jshGMC3a%2BXOLnTynak2pyz57RMsINoCV9hVtIynrHrIlkbp5pzryUg%3D%3D",
     level: "medium",
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 64
   },
   {
     id: 356,
@@ -598,6 +644,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 31
   },
   {
     id: 357,
@@ -608,16 +655,18 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 51
   },
   {
     id: 358,
-    transcript: "The teacher ask the group to commence the task.",
+    transcript: "The teacher asked the group to commence the task.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F7efb9856-721c-424a-8669-b4e98d7f3509.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=Kh1rQibDoYOUwDYhTt0sFfOtG71IJbVkREdrpNUOveNXuoMiIT7acmuflMSSyhLHYacRNZWAiAWw6aJYpPoPJ8thAmA6wvHqDTxNBIGpfpDk0HINl35L7r0XphY%2Ff89h1VXd3f5Q7XqBDY7LUOlv164gu3s3KJEnFdQkQbTbMS9QCNnEp1ccqfNFt%2BIiJCsLaiEammMg6z8akPsW7t6BSEJNc1sksNiKWnd3CC0JjqvUk4sFfjvETHfOq6%2FKOOAWx6cnrjBCl5uFXTr79oGgFIrNs6yABDFVYlUGNfSZr%2BfrC0J68IxiXRX0Ok9YdVnx%2F5bJLy870QwhEAe9xub3lg%3D%3D",
     level: "easy",
     times: 1,
     priority: "normal",
     newwords: ["commence = bắt đầu"],
+    order: 62
   },
   {
     id: 359,
@@ -628,6 +677,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 37
   },
   {
     id: 360,
@@ -639,6 +689,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 35
   },
   {
     id: 361,
@@ -650,17 +701,19 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 4
   },
   {
     id: 362,
     transcript:
-      "They've been struggling since last year to make their service paid.",
+      "They’ve been struggling since last year to make their service paid.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fc90ac18e-bf82-4678-af10-03a3ca6dd1eb.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=JE0sFHZ28uKYHQRx8S6XxKHe7Kob%2B7jK1MaSTvgqMDMvhdhpsuKPOJ%2FmMYTvfsqNTLnQKwzo0zfQ%2FYLLX84HPiJSM0MkBG75aV073ce7CKtj4DTHl%2BFerjYNo08NlTR%2BSOdZeOjFTCNTdDaGRd4lTQGpTPucLwHa74cMhynM6Im%2BKGd920u%2BI%2FQcDRYa22riv8buRfOL4nFaQa%2FL9jqjKOH10O4HnYn0UGBV8ohX3kiH%2Be6H4DCHEDcUW4TeQE%2FkrBsuUvbU6LDtSN0zpbQ32Soa%2BIK82w3Tgi8rffBGRFBffD9sW3H2YFXFuEf%2BLwYhnB1QuFdTR4AbV9mgme5GbA%3D%3D",
     level: "medium",
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 14
   },
   {
     id: 363,
@@ -672,6 +725,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 27
   },
   {
     id: 364,
@@ -702,6 +756,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 5
   },
   {
     id: 367,
@@ -713,6 +768,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 38
   },
   {
     id: 368,
@@ -724,16 +780,18 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 15
   },
   {
     id: 369,
-    transcript: "Traffic is the main cause of air pollution in many cities.",
+    transcript: "Traffic is the main cause of pollution in many cities.",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F79d011e3-4f6a-4981-b674-8681f07c4c7f.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=jiQwv69g9s6WmLM37iHcJfEKgrhHGc%2F8Dt3VWbb61thd81wQzQBh8gxVYnbWSPGX%2Bucubl7FYvSlnydcP7PaCQQftcmx3aeuf1zgArXrgWdfUzm2izrozc3Xc5aM8k%2B%2B4qLGroaeOBWwANhojApOhywr9kg6%2FSaAwORwSCJYsKw2CXXBiiEgpkiJx7I76b9dX0P3fNv%2BQGXMWcxGW7g2XV6iv2Js%2Bv5gUXc2ebrNLe3lzQDBkC65%2BVswlIbTFhlZfmuoNrP59Mh5vFYCDRkEZp4la7QCK1tf7eTtD5lIXJA94jW%2BpFGsB1nc9RDfAru5yRewonMa2xvEvF8osdZHdQ%3D%3D",
     level: "easy",
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 21
   },
   {
     id: 370,
@@ -748,6 +806,7 @@ const WriteFromDictationDataFrom301To400 = [
       "tribes = những bộ lạc",
       "vie /vaɪ/ = tranh đua",
     ],
+    order: 72
   },
   {
     id: 371,
@@ -762,6 +821,7 @@ const WriteFromDictationDataFrom301To400 = [
       "pursue = theo đuổi",
       "specific interests = những lợi ích cụ thể",
     ],
+    order: 24
   },
   {
     id: 372,
@@ -786,6 +846,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["faculty = giảng viên"],
+    order: 3,
   },
   {
     id: 374,
@@ -796,6 +857,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 56
   },
   {
     id: 375,
@@ -807,6 +869,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 91
   },
   {
     id: 376,
@@ -818,6 +881,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: ["high wages = lương cao"],
+    order: 42
   },
   {
     id: 377,
@@ -829,6 +893,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "high",
     newwords: ["reconciliation /ˌrekənsɪliˈeɪʃn/= hoà giải"],
+    order: 59
   },
   {
     id: 378,
@@ -839,6 +904,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 22
   },
   {
     id: 379,
@@ -849,6 +915,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [],
+    order: 73
   },
   {
     id: 380,
