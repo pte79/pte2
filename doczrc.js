@@ -26,9 +26,9 @@ export default {
     "Repeat Sentence",
     "Summarize Spoken Text",
     "Listen Fill In The Blanks",
-    "Essay",
     "Describe Image",
     "Retell Lecture",
+    "Essay",
     {
       name: "Collocations",
       menu: [
