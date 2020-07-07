@@ -11,4 +11,15 @@ const WriteFromDictationData = [
   ...WriteFromDictationDataFrom301To400,
   ...WriteFromDictationDataFrom401To500,
 ]
+
+WriteFromDictationData.sort(function (a, b) {
+  if (a.order === undefined) {
+    a.order = 1000
+  }
+  if (b.order === undefined) {
+    b.order = 1000
+  }
+  return a.order - b.order
+})
+
 export default WriteFromDictationData
