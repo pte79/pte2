@@ -8,7 +8,7 @@ route: /writing/essay/agree-disagree-template
 
 ## Instruction
 
-1. These days, whether <span class="input large-input" role="textbox" contenteditable>Topic</span> has sparked a heated debate.
+1. These days, whether <input class="input large-input" role="textbox" placeholder="Topic"/> has sparked a heated debate.
 
 _Ngày nay, mặc dù Topic trong trường dấy lên cuộc tranh luận nảy lửa._
 

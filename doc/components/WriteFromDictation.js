@@ -47,8 +47,6 @@ const WriteFromDictation = ({
     <Question key={id} value={id}>
       <Transcript>
         {showTranscript ? transcript : ""}&nbsp;
-        <em>({times} times)</em>&nbsp;-&nbsp;
-        {level && <strong>{level}</strong>}
         {showAnswer ? <Text sx={{ color: "secondary" }}>{answer}</Text> : ""}
         {NewWords}
       </Transcript>

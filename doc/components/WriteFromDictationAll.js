@@ -1,6 +1,7 @@
 import React from "react"
 import t from "prop-types"
 import styled from "styled-components"
+import WriteFromDictation from "./WriteFromDictation"
 
 const Ol = styled("ol")`
   padding: 0;
@@ -9,11 +10,19 @@ const Ol = styled("ol")`
 
 const WriteFromDictationAll = ({ start, total, data }) => {
   const listSentences = data.map(s => {
-    if (s.id >= start && s.id < start + total) {
+    if (s.order !== undefined && s.order >= start && s.order < start + total) {
+      let audioType = s.audioType || "mpeg"
       return (
-        <li id={s.id} key={"write-from-dictation-" + s.id}>
-          {s.transcript}
-        </li>
+        <WriteFromDictation
+          transcript={s.transcript}
+          audio={s.audio}
+          times={s.times}
+          level={s.level}
+          audioType={audioType}
+          newwords={s.newwords}
+          id={s.order}
+          key={"write-from-dictation-" + s.order}
+        />
       )
     }
     return ""
