@@ -1071,6 +1071,19 @@ const LFillInTheBlanksData = [
   },
 
   {
+    id: 86,
+    transcript: `I'm going to talk today about how to change people's behavior. That is changed <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>intentionally</span> on a broad scale. How to change behavior with a specific goal in mind. This is a very <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>common</span> objective of social scientists and policymakers seeking to ameliorate social problems for of course human behavior is at the <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>heart</span> of many of our current social problems.<br>So for example, if people would just stop driving SUVs, keeping their houses so warm, tossing recyclables into the trash and leaving lights and <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>appliances</span> on, we could reduce our carbon emissions significantly. <br>If they would <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>watch</span> with the TV, do their 30 minutes of exercise each day, we use sunscreen to buckle up and drink in <input autocomplete="off" type="text" class="blank" id="blank5"> <span class='answer hidden'>moderation</span>, we could improve our quality of life and at the same time, reduce pressure on our health care system.`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-86.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=biPr5R%2B9rVol3UwY68RsCi5%2BjNI7Hp0K55T88J2aEg5ia9kBtDE4ajo12DWB026nwz%2BzdFYRlkZ5H4mF1KPR9yvJrYtqz27htPazEreOyugFEpHjDke8wBq3%2BDyMCrxdMBy8rO%2BsTMtAG8emPrySO3mke%2FSDkJNoJ8EjmqiqEZDHK29jFOsXYgvzKM9n4Pmvvn3lVkbUVSBDv2QFwOoufQxhUrIB61bmi7A3I8mnbijcWfZfwzz%2Fs6cyxbWrIE3wO1W5vrY1O62oQwGTl%2BnB2p4t67V5CUFitpG%2Flzsn5yIUQAJAeXV6cv5LBLdewToRdukzJH4EI8Oya1qKKOZPXA%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+
+  {
     id: 87,
     transcript: `Now that story's been scotched, as only part of contingency planning. But it was a symptom of the dramatic turn of events in South Australia, and it flushed out other remarks from water <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>academics</span> and people like Tim Flannery, indicating that things were really much worse than had been <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>foreshadowed</span>, even earlier this year.<br/>So is Adelaide, let alone some whole <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>regions</span> of South Australia, in serious bother? Considering that the vast amount of its drinking water comes from the <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>beleaguered</span> Murray, something many of us outside the State may not have quite realised. Is their <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>predicament</span> something we have to face up to as a nation?`,
     audio:
@@ -1153,6 +1166,18 @@ const LFillInTheBlanksData = [
     transcript: `But how do you tell apart the different hands that have been working? <br>Well, of course, the fact that the hands look so similar was <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>intentional</span>. The scriptorium wanted a professional-looking work and they didn't want a lot of <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>individuality</span> in the script. So, the primary objective of the originals - writing in this manuscript was to make it look <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>identical</span>.<br>As a matter of fact, because scribes are different people and they have different hand-eye coordination and different <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>habits</span>. They ended up producing something that was slightly different, which is not easy to tell to someone who hasn’t been <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>staring</span> at the manuscript for a while.`,
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-93.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=azPARvYEEDQS2tbkNSQ2URn%2Bo534Q7VoiOtoj%2F3klvzPF%2FUMD6C4XJ7x5ZMUT6eQyqF%2B0Rc6OWP2s2S3BLCDvQseDDhI3xLyHzyVsawArta%2F2i%2FrNiqkNxuKPHHfTqzB6SfQp2ieR7mLbriISe390E%2BV%2FSzhF%2FpDt1j%2BsD2QVD9V7BMq4A6CWnsROChIQkMLo7Aqff5NTJj%2BDW2O7145rBM8Jg0yMN%2B%2BffjyWFcVle2i%2FMkBKpAeKh8JoJZRmj4lVsc9bxQw88vebUpjGwlH%2Bm2bR0ovX1x0vWIkabbCyJ%2BOnAVyf0TvkIYT08dQ6ZOmKoFGjeUo%2FccpSMzJVIi8fQ%3D%3D",
+    answers: [],
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+  },
+
+  {
+    id: 94,
+    transcript: `"Let's start with the basic one with temperature. Do you accept that the world on average is warming?”<br>“Yes and no. <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>Depends</span> upon when you ask the question. Sometimes it warms, sometimes it cools. If you’d asked me that question in the 70s, I would have said it’s cooling. You asked me that in the 80s, I would have said it’s warming. If you asked me that now, I'd say it’s cooling. The key word here...” <br>**Speaker 1:** “It’s... A word that <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>appears</span> a lot in your book is ‘dynamic’.” “Dynamic and the other word is that <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>absolutely</span> glorious four letter word, ‘time’. And if you ignore <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>history</span>, and if you ignore time, you come up with the <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>hysteria</span> that we currently face."`,
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fkeih7axpsyaldgas7pwp-temperature.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=Qe182UbyL1fwmkaNtRphnvABFK3UkjyhJQ70ZH3pibnx5ASqL2I3RtLP7focjOwpH4x9Vi0aDRACULf%2FErSLD4CAViJJHnqs%2BzT0sAR7KeMNVMyvETGUVyXdQXbJEQ1tEUcQiiYIZxmcbjHB9jVKnHEGJStdTOUVH2NZ9ujxRyAv5VXmGyggfU4d3Eu5S%2BPysOkLIgRvMksOypIwi9Qt9bU2GgXtHBgh0GfGLJEyiKMPgOsE75gjf%2BLWh6KK8ONg%2FaMVQB8VGS4%2Foypda5X1x6XK5IGuCj2ouLbUXjlUxBhZHun1277tXZBuk%2F7ALOf0O%2F%2Bd0FaLm0LlQgbt9NKEAA%3D%3D",
     answers: [],
     level: "medium",
     times: 1,
