@@ -881,9 +881,7 @@ const LFillInTheBlanksData = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: [
-      "neighboring (a) = ở hoặc sống bên cạnh hoặc gần ai/cái gì; láng giềng",
-    ],
+    newwords: [],
   },
   {
     id: 71,
@@ -1081,7 +1079,6 @@ const LFillInTheBlanksData = [
     priority: "normal",
     newwords: [],
   },
-
 
   {
     id: 87,
