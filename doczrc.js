@@ -118,7 +118,7 @@ export default {
     },
     fonts: {
       body:
-        '"Literata", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", serif',
+        '"IBM Plex Serif", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", serif',
       heading:
         '"IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
       monospace: "Menlo, monospace",
