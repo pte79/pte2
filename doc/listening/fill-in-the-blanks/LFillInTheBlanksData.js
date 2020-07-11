@@ -762,7 +762,7 @@ const LFillInTheBlanksData = [
 
   {
     id: 61,
-    transcript: `In that month or six weeks, the patient may feel perfectly well. He may even travel around the world spending hours packed into crowded airplanes with <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>unsuspecting</span> fellow passengers. That's bad enough with regular TB or with strains that are <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>resistant</span> to two or three mainline drugs used to treat the disease. But it's a potential public health <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>catastrophe</span> with the new strain called XDR-TB, for extensively drug-resistant tuberculosis.<br/><br/>The strain is <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>catastrophe</span> to a wide array of first and second-line drugs. That's why 30 percent or more of its victims die. And that's why people like Lawrence Gostin are rethinking what public health <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>authorities</span> should do about people with suspected XDR-TB in the weeks before the diagnosis is in.`,
+    transcript: `In that month or six weeks, the patient may feel perfectly well. He may even travel around the world spending hours packed into crowded airplanes with <input autocomplete="off" type="text" class="blank" id="blank0"> <span class='answer hidden'>unsuspecting</span> fellow passengers. That's bad enough with regular TB or with strains that are <input autocomplete="off" type="text" class="blank" id="blank1"> <span class='answer hidden'>resistant</span> to two or three mainline drugs used to treat the disease. But it's a potential public health <input autocomplete="off" type="text" class="blank" id="blank2"> <span class='answer hidden'>catastrophe</span> with the new strain called XDR-TB, for extensively drug-resistant tuberculosis.<br/><br/>The strain is <input autocomplete="off" type="text" class="blank" id="blank3"> <span class='answer hidden'>impervious</span> to a wide array of first and second-line drugs. That's why 30 percent or more of its victims die. And that's why people like Lawrence Gostin are rethinking what public health <input autocomplete="off" type="text" class="blank" id="blank4"> <span class='answer hidden'>authorities</span> should do about people with suspected XDR-TB in the weeks before the diagnosis is in.`,
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Flfib-61.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1640955600&Signature=Eu5RAp1Cr8ABgXHWXxJ8pZdU3FWhyjXOzkme7IW6R98bOu5dHvsyJjrRgVlzTd5Bgjp7OPXJMKY71ol2kyS%2BtTl9EHzUSP2qkJUyhcBDKouC2q7%2FmzbXR06sGHAG9vsarC0Q9YjJAoqb2V9jAqyy%2Bz7yJW2%2BgaoeECkknn8KFevLnTVyvwqFv5eizB1wtPkmpGkl7KfsOVMY%2FrhDOtL%2F5yr3Clctm7u9KTw5y%2BXhF1P5sR7GQesyn%2FxzvkolM4FZQcrrvPgC4QsFCh8ShCICIlAKsToOP3cKROIs2DvSslXUb3hP7uwVC4o2RVDXytWaHz0foNt5C7YZr4Ug%2FmQ%2Bag%3D%3D",
     answers: [],
@@ -772,7 +772,7 @@ const LFillInTheBlanksData = [
     newwords: [
       "unsuspecting /,ʌnsə'spektiη/ (a) = tin; không nghi ngờ, không ngờ vực",
       "resistant /ri'zistənt/ (a)=  có sức đề kháng; có sức chịu đựng",
-      "imperious /im'pə:vjəs/ (a) = imperviable =  không thấm (nước...)",
+      "impervious /im'pə:vjəs/ (a) = không thấm (nước...)",
     ],
   },
   {
