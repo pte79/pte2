@@ -103,6 +103,7 @@ export default {
       gray: "#dfe3e8",
       accent: "#f49342",
       darken: "#00044c",
+      lightDarkColor: "#01053F",
       modes: {
         dark: {
           text: "hsl(210, 50%, 96%)",

@@ -28,12 +28,14 @@ body {
   font-style: italic;
   padding-left: 0.25rem;
   padding-right: 0.25rem;
-  border: none;
+  border-width: 0;
   border-bottom: 1px solid black;
   text-align: center;
   width: 10rem;
   background-color: #FAFCFB;
   -webkit-appearance: none;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
 }
 
 button {
