@@ -32,7 +32,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "high",
     order: 83,
-    newwords: ["soaking up rainwater /ˈsəʊkɪŋ/ = thấm nước mu"],
+    newwords: ["soaking up rainwater /ˈsəʊkɪŋ/ = thấm nước mưa"],
   },
   {
     id: 304,
