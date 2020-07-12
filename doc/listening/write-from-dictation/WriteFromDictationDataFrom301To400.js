@@ -30,7 +30,8 @@ const WriteFromDictationDataFrom301To400 = [
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F495b9f9f-e858-4646-b5c5-0d443fed6d4e.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=MbRDdUytk8jbKqjWLul1tVjsIrP04XFGGNgUfMyOYy1rI5GWigvZzDTpvLQoKmGyn10dr5iSLDIn5QZ8dJRYit7Yw7wfGIa%2BsSYv8%2BKE6gzRGM0dIfxB6FPPq681Ytyd7i8cnxi7kADbjXSLfIU%2F19Vjs0Vu6mDxRwIJwiyVr4XUqZZSXyDhlNo1qxxPN1iv%2FWlWdMvaDgewFGSA2nnV7A2U6J0i5gp4udr6k9KMyAupBsaYcTFh0PC7Z2nTSfKwDAF61RV7tvbUZSOLrBh9TE754wCyyqImKhdzUc%2Bb5%2FTl0Nc2zxF%2Fu%2FVMySTKtXXREqhLBYnkca4ITo39fYXZPg%3D%3D",
     level: "hard",
     times: 1,
-    priority: "normal",
+    priority: "high",
+    order: 83,
     newwords: ["soaking up rainwater /ˈsəʊkɪŋ/ = thấm nước mu"],
   },
   {
