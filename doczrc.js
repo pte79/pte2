@@ -8,6 +8,7 @@ export default {
   repository: "https://github.com/pte79/pte2",
   menu: [
     "Pearson Tests of English",
+    "Repeat Sentence",
     {
       name: "Write From Dictation",
       menu: [
@@ -23,7 +24,6 @@ export default {
         "10. Write From Dictation",
       ],
     },
-    "Repeat Sentence",
     "Summarize Spoken Text",
     "Listen Fill In The Blanks",
     "Describe Image",
