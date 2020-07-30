@@ -88,7 +88,7 @@ const SummarizeSpokenText = ({
     <>
       <H3>Solution</H3>
       <Solution>
-        <ReactMarkdown source={solution} />
+        <ReactMarkdown source={solution} escapeHtml={false} />
       </Solution>
     </>
   )
