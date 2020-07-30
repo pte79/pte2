@@ -25,7 +25,7 @@ const Transcript = styled("article")`
   margin: 0;
   .answer {
     background-color: rgba(71, 193, 191, 0.3);
-    padding: 0.1rem 0.6rem 0.15rem 0.6rem;
+    padding: 0rem 0.6rem 0.15rem 0.6rem;
     font-weight: 700;
     font-style: italic;
   }
